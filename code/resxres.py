@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-
+import math
 
 
 confs = ["kdd", "icml", "vldb"]
@@ -35,9 +35,13 @@ for conf in confs:
 				break
 			words = line.split(",")
 			if authorlist.count(words[0]) > 0 and authorlist.count(words[1]) > 0:
-				table[authorlist.index(words[0])][authorlist.index(words[1])] = float(words[2])
+				for x in range(-1, 2):
+					for y in range (-1, 2):
+						if (authorlist.index(words[0])+x >= 0) and (authorlist.index(words[0])+x < n):
+							if (authorlist.index(words[1])+y >= 0) and (authorlist.index(words[1])+y < n):
+								table[authorlist.index(words[0])+x][authorlist.index(words[1])+y] = math.log(float(words[2])+1)
 	plt.clf()
-	plt.imshow(table, cmap='hot', interpolation='nearest')
+	plt.imshow(table, cmap='hot', interpolation='lanczos')
 	plt.savefig("../figures/" + conf + "heat.png")
 	plt.show()
 
