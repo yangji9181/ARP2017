@@ -11,23 +11,24 @@ We uploaded all results presented in the paper, as well as some interesting figu
 Since we have included all intermediate results (and final ones), you can run any python files in the code folder directly except for preprocess.py, which requires the original dblp.xml file. To run it, please download the DBLP dataset from http://dblp.dagstuhl.de/xml/release/ and put the dblp.xml file in the data folder. Note that different versions of the dataset might lead to minor divergence in the results. The version we used is dblp-2016-01-01.
 
 ### Visualization of Researcher vs. Researcher Multi-Relationships
-The x and y axis are the same set of researchers.
+In the following three figures, the x and y axis are the same set of researchers.
 
 ![alt tag](https://raw.githubusercontent.com/yangji9181/ARP2017/master/figures/kddheat.png)
 
-KDD-based reltionships are marked as red.
+In the figure above, KDD-based reltionships are marked as red.
 
 ![alt tag](https://raw.githubusercontent.com/yangji9181/ARP2017/master/figures/icmlheat.png)
 
-ICML-based relationships are mared as red.
+In the figure above, ICML-based relationships are mared as red.
 
 ![alt tag](https://raw.githubusercontent.com/yangji9181/ARP2017/master/figures/vldbheat.png)
 
-VLDB-based relationships are mared as red.
+In the figure above, VLDB-based relationships are mared as red.
 
-As we can see, the collaboration matrix is naturally sparse. While the three relationships cluster on different locations (thus among different set of authors), some collaborations indeed bare multiple relationships. Also, it is interesting to see that in the KDD plot, the red dots strictly scatter in the top-left corner, which means that authors that collaborate a lot in data mining do typically do not collaborate in machine learning and database. However, in both the ICML plot and the VLDB plot, while most red dots scatter in the corresponding squares, some obviously appear in other places. It clearly indicates that some of the authors that collaborate a lot in machine learning or database tend to also collaborate a lot in data mining. 
+As we can see, the collaboration matrix is naturally sparse. While the three relationships cluster on different locations (thus among different set of authors), some collaborations indeed bare multiple relationships (the same red dots appear in multiple figures). Also, it is interesting to see that in the KDD plot, the red dots scatter quite strictly in the top-left corner, which means that only data mining people collaborate in KDD a lot. However, in both the ICML plot and the VLDB plot, while most red dots scatter in the corresponding squares, some obviously appear in the ICML-KDD and VLDB-KDD squares, respectively. It clearly indicates that many data mining people also collaborate in machine learning and database conferences. It is true because data mining people need to know both machine learning and database, but not vise versa.
 
-Does this mean data mining people can not do machine learning and database, but machine learning and database people can sometimes do data mining?
+
+Moreover, in both the second and the third figures, there is almost no red dot in the VLDB-ICML squares, which means database people seldomly collaborate in machine learning conferences and vise versa. 
 
 ### Visualization of Venue vs. Venue Correlations
 
