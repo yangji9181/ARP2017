@@ -13,15 +13,15 @@ Since we have included all intermediate results (and final ones), you can run an
 ### Visualization of Researcher vs. Researcher Multi-Relationships
 In the following three figures, the x and y axis are the same set of researchers.
 
-![alt tag](https://raw.githubusercontent.com/yangji9181/ARP2017/master/figures/kddheat.png)
+![alt tag](https://raw.githubusercontent.com/yangji9181/ARP2017/master/figures/holistic/kddheat.png)
 
 In the figure above, KDD-based reltionships are marked as red.
 
-![alt tag](https://raw.githubusercontent.com/yangji9181/ARP2017/master/figures/icmlheat.png)
+![alt tag](https://raw.githubusercontent.com/yangji9181/ARP2017/master/figures/holistic/icmlheat.png)
 
 In the figure above, ICML-based relationships are mared as red.
 
-![alt tag](https://raw.githubusercontent.com/yangji9181/ARP2017/master/figures/vldbheat.png)
+![alt tag](https://raw.githubusercontent.com/yangji9181/ARP2017/master/figures/holistic/vldbheat.png)
 
 In the figure above, VLDB-based relationships are mared as red.
 
