@@ -1,1001 +1,1001 @@
-45.7037167826
-Jiawei Han,Chi Wang,1.0
-Chi Wang,Jiawei Han,0.995756834984
-Christos Faloutsos,Hanghang Tong,0.952878892386
-Wynne Hsu,Mong-Li Lee,0.937068372854
-Mong-Li Lee,Wynne Hsu,0.935735592382
-Hanghang Tong,Christos Faloutsos,0.926778108243
-Jiawei Han,Philip S. Yu,0.918203412396
-Philip S. Yu,Jiawei Han,0.903041600665
-Christos Faloutsos,Lei Li,0.858223701965
-Lei Li,Christos Faloutsos,0.849763290259
-Yong Ge,Hui Xiong,0.807823856122
-Hui Xiong,Yong Ge,0.802318099375
-Jiawei Han,Xifeng Yan,0.773452230033
-Xifeng Yan,Jiawei Han,0.761383640046
-Jieping Ye,Shuiwang Ji,0.759500278063
-Shuiwang Ji,Jieping Ye,0.756942029015
-Wynne Hsu,Bing Liu 0001,0.730456804308
-Jieping Ye,Lei Yuan,0.669972244975
-Bing Liu 0001,Wynne Hsu,0.667692786691
-Lei Yuan,Jieping Ye,0.66077034201
-Jiawei Han,Jing Gao,0.660668691604
-Wei Fan,Philip S. Yu,0.65748666589
-Jing Gao,Jiawei Han,0.655180312094
-Philip S. Yu,Wei Fan,0.640090098571
-Leman Akoglu,Christos Faloutsos,0.636988059724
-Christos Faloutsos,Leman Akoglu,0.626332016853
-Michael Steinbach,Vipin Kumar,0.62286704424
-Vipin Kumar,Michael Steinbach,0.616300555565
-Jieping Ye,Wei Fan,0.608441635925
-Ravi Kumar,Andrew Tomkins,0.594736374186
-Andrew Tomkins,Ravi Kumar,0.587377784435
-Yiming Ma,Bing Liu 0001,0.587024783657
-Wei Fan,Jieping Ye,0.586431033748
-Philip S. Yu,Charu C. Aggarwal,0.580730390095
-Jun Liu,Jieping Ye,0.580294363085
-Martin Ester,Hans-Peter Kriegel,0.579527674313
-Jieping Ye,Jun Liu,0.57859283212
-Hans-Peter Kriegel,Martin Ester,0.577061156444
-Charu C. Aggarwal,Philip S. Yu,0.564944370263
-Claudia Plant,Christian B&ouml;hm,0.563191786615
-Christian B&ouml;hm,Claudia Plant,0.558973979091
-Bo Zhao,Jiawei Han,0.550144935057
-Brian Dalessandro,Foster J. Provost,0.543420645735
-Bing Liu 0001,Yiming Ma,0.543175321759
-Foster J. Provost,Brian Dalessandro,0.540474562567
-Jiawei Han,Bo Zhao,0.540129392413
-Jiawei Han,Wei Fan,0.531723912781
-Ping Luo,Min Wang,0.519245828487
-Wei Fan,Jiawei Han,0.519056241676
-Min Wang,Ping Luo,0.518666029683
-Bee-Chung Chen,Deepak Agarwal,0.512549828401
-Deepak Agarwal,Bee-Chung Chen,0.512460783978
-Heikki Mannila,Aristides Gionis,0.508829570402
-Ian Davidson,Jieping Ye,0.505283394897
-Aristides Gionis,Francesco Bonchi,0.504113299949
-Aristides Gionis,Heikki Mannila,0.503689326236
-Jiawei Han,Xiao Yu,0.502860232716
-Qian Sun,Jieping Ye,0.502552213028
-Christos Faloutsos,B. Aditya Prakash,0.501518695746
-Claudia Perlich,Foster J. Provost,0.497203124945
-Xiao Yu,Jiawei Han,0.496080314736
-Jiawei Han,Hong Cheng,0.495938036219
-Francesco Bonchi,Aristides Gionis,0.494277571306
-B. Aditya Prakash,Christos Faloutsos,0.493179257357
-Hong Cheng,Jiawei Han,0.492946955904
-Foster J. Provost,Claudia Perlich,0.49192788468
-Jieping Ye,Qian Sun,0.489670163721
-Yang Yang,Jie Tang,0.4894069452
-Hui Xiong,Jian Chen,0.488361079049
-Jieping Ye,Ian Davidson,0.483424803545
-Jian Chen,Hui Xiong,0.48168040927
-Jiayu Zhou,Jieping Ye,0.475568581498
-Jie Tang,Yang Yang,0.475312675546
-Jiawei Han,Yizhou Sun,0.473314340502
-Yizhou Sun,Jiawei Han,0.471029319654
-Wei Fan,Jing Gao,0.470298548924
-Evimaria Terzi,Theodoros Lappas,0.466701571541
-Jing Gao,Wei Fan,0.465819329705
-Liang Tang,Tao Li,0.46567080226
-Theodoros Lappas,Evimaria Terzi,0.465562606852
-Jieping Ye,Jiayu Zhou,0.465500120678
-Tao Li,Liang Tang,0.464578521572
-Jiawei Han,Jian Pei,0.461807468224
-Jure Leskovec,Christos Faloutsos,0.460072969159
-Christos Faloutsos,Jure Leskovec,0.460029926633
-Claudia Perlich,Brian Dalessandro,0.459191417472
-Jian Pei,Jiawei Han,0.458664607203
-Troy Raeder,Foster J. Provost,0.458157090027
-Usama M. Fayyad,Paul S. Bradley,0.457730825253
-Paul S. Bradley,Usama M. Fayyad,0.457730825253
-Brian Dalessandro,Claudia Perlich,0.456517678969
-Foster J. Provost,Troy Raeder,0.455201604589
-Dino Pedreschi,Fosca Giannotti,0.455024919537
-Jianhui Chen,Jieping Ye,0.454401365729
-U. Kang,Christos Faloutsos,0.453861483673
-Christos Faloutsos,U. Kang,0.453588844264
-Brian Dalessandro,Troy Raeder,0.453451939349
-Troy Raeder,Brian Dalessandro,0.453003175976
-Fosca Giannotti,Dino Pedreschi,0.4516180593
-Claudia Perlich,Troy Raeder,0.449835827415
-Jieping Ye,Jianhui Chen,0.448237189291
-Troy Raeder,Claudia Perlich,0.447800138153
-Christos Faloutsos,Tina Eliassi-Rad,0.445209692963
-Tina Eliassi-Rad,Christos Faloutsos,0.444714766118
-Rakesh Agrawal,Ramakrishnan Srikant,0.443787083652
-Takanori Maehara,Ken-ichi Kawarabayashi,0.441906854324
-Ken-ichi Kawarabayashi,Takanori Maehara,0.441906854324
-Ramakrishnan Srikant,Rakesh Agrawal,0.437665939205
-Alexander J. Smola,Amr Ahmed,0.436771245842
-Chuanren Liu,Hui Xiong,0.43581578362
-Amr Ahmed,Alexander J. Smola,0.433972401921
-Hiroshi Nakagawa,Issei Sato,0.431724812783
-Issei Sato,Hiroshi Nakagawa,0.431724812783
-Hui Xiong,Chuanren Liu,0.429884492773
-Xifeng Yan,Huan Sun,0.428172996651
-Huan Sun,Xifeng Yan,0.426335900985
-Brian Gallagher,Christos Faloutsos,0.42342255079
-Christos Faloutsos,Danai Koutra,0.422575629705
-Qiaozhu Mei,Jiawei Han,0.42131166207
-Jian Pei,Daxin Jiang,0.420960408667
-Christos Faloutsos,Brian Gallagher,0.418793999105
-Christoph Helma,Stefan Kramer 0001,0.418127919244
-Stefan Kramer 0001,Christoph Helma,0.418127919244
-Daxin Jiang,Jian Pei,0.416447666107
-Francesco Bonchi,Francesco Gullo,0.414560388038
-Danai Koutra,Christos Faloutsos,0.411126169984
-Francesco Gullo,Francesco Bonchi,0.409460868469
-Peng Cui,Shiqiang Yang,0.408849362472
-Pang-Ning Tan,Vipin Kumar,0.408513543464
-Tao Li,Yanfang Ye,0.408250014448
-Yanfang Ye,Tao Li,0.408227219789
-Shixia Liu,Yangqiu Song,0.405555410265
-Shuo Xiang,Jieping Ye,0.405541033793
-Shiqiang Yang,Peng Cui,0.405183955387
-Wei Wang 0010,Jiong Yang,0.405087759533
-Jieping Ye,Shuo Xiang,0.402200872272
-Qiang Yang 0001,ErHeng Zhong,0.401269074258
-Jiawei Han,Qiaozhu Mei,0.400274820668
-ErHeng Zhong,Qiang Yang 0001,0.39985836207
-Xifeng Yan,Shu Tao,0.399226302396
-Yangqiu Song,Shixia Liu,0.399085269186
-Wynne Hsu,Yiming Ma,0.398671600321
-Ji-Rong Wen,Zaiqing Nie,0.398465886038
-Zaiqing Nie,Ji-Rong Wen,0.397366986873
-Jimeng Sun,Jie Tang,0.397164055226
-Shu Tao,Xifeng Yan,0.397119143656
-Vipin Kumar,Pang-Ning Tan,0.396796198982
-Glenn Fung,R. Bharat Rao,0.39679388205
-Dan Roth,Jiawei Han,0.395982057378
-Spiros Papadimitriou,Christos Faloutsos,0.393414693479
-ChengXiang Zhai,Qiaozhu Mei,0.393070354583
-Claudia Perlich,Saharon Rosset,0.392604242207
-Marina Danilevsky,Jiawei Han,0.391297153088
-Philip S. Yu,Ming-Syan Chen,0.390990826552
-Ming-Syan Chen,Philip S. Yu,0.390818944914
-Tina Eliassi-Rad,Hanghang Tong,0.387934632572
-Saharon Rosset,Claudia Perlich,0.386823304781
-Hanghang Tong,Tina Eliassi-Rad,0.386086695956
-R. Bharat Rao,Glenn Fung,0.384468760127
-Xindong Wu,Wei Ding 0003,0.383991646919
-Wei Ding 0003,Xindong Wu,0.383991646919
-Qiaozhu Mei,ChengXiang Zhai,0.383916093262
-Foster J. Provost,Rod Hook,0.383347066015
-Christos Faloutsos,Spiros Papadimitriou,0.382144814517
-Hanghang Tong,Leman Akoglu,0.381885684358
-Brian Dalessandro,Rod Hook,0.381393689885
-Rod Hook,Foster J. Provost,0.38103203764
-Jiawei Han,Dan Roth,0.37939979803
-Rod Hook,Brian Dalessandro,0.378666401982
-Ori Stitelman,Foster J. Provost,0.37837229981
-Leman Akoglu,Hanghang Tong,0.375616385925
-Jason Tsong-Li Wang,Dennis Shasha,0.375333593299
-Dennis Shasha,Jason Tsong-Li Wang,0.375333593299
-Albert Bifet,Bernhard Pfahringer,0.374942224041
-Jiawei Han,Marina Danilevsky,0.374517090124
-Bernhard Pfahringer,Albert Bifet,0.374217229652
-Tao Li,Chao Shen,0.374105071314
-Tao Li,Li Zheng,0.374105071314
-Ori Stitelman,Brian Dalessandro,0.373928654279
-Foster J. Provost,Ori Stitelman,0.373851120597
-Li Zheng,Tao Li,0.373585070208
-Chao Shen,Tao Li,0.373585070208
-Sen Wu,Jie Tang,0.373347423818
-Brian Dalessandro,Ori Stitelman,0.372057409759
-Christos Faloutsos,Jimeng Sun,0.371665468533
-Jimeng Sun,Christos Faloutsos,0.371531689314
-Jie Tang,Jimeng Sun,0.370944066146
-Jiong Yang,Wei Wang 0010,0.369963245191
-Ravi Kumar,Anirban Dasgupta 0001,0.369872091034
-Huan Liu,Jieping Ye,0.369604866501
-Patrick Butler,Naren Ramakrishnan,0.369600058983
-Fosca Giannotti,Fabio Pinelli,0.369254502366
-Peng Cui,Wenwu Zhu 0001,0.368525705889
-Peng Cui,Fei Wang,0.368525705889
-Jimeng Sun,Hanghang Tong,0.368444510093
-Claudia Perlich,Ori Stitelman,0.368116117434
-Ori Stitelman,Claudia Perlich,0.367426932864
-Fei Wang,Peng Cui,0.367240380506
-Wenwu Zhu 0001,Peng Cui,0.367240380506
-Anirban Dasgupta 0001,Ravi Kumar,0.367237236179
-Yiming Ma,Wynne Hsu,0.366535739426
-Stephan G&uuml;nnemann,Thomas Seidl 0001,0.36638655347
-Thomas Seidl 0001,Stephan G&uuml;nnemann,0.36638655347
-Jian Pei,Philip S. Yu,0.364988833695
-Fabio Pinelli,Fosca Giannotti,0.364850028974
-Troy Raeder,Ori Stitelman,0.364697153526
-Ori Stitelman,Troy Raeder,0.363697233456
-Wenlin Chen,Yixin Chen,0.36287607741
-Mohammed Javeed Zaki,Mitsunori Ogihara,0.362797939708
-Li Zheng,Chao Shen,0.362417472678
-Chao Shen,Li Zheng,0.362417472678
-Naren Ramakrishnan,Patrick Butler,0.360832392444
-Jialu Liu,Jiawei Han,0.360787922383
-Yixin Chen,Wenlin Chen,0.359991696612
-Philip S. Yu,Zhongfei (Mark) Zhang,0.359861323276
-Zhongfei (Mark) Zhang,Philip S. Yu,0.359861323276
-Philip S. Yu,Jian Pei,0.359307547953
-Mitsunori Ogihara,Mohammed Javeed Zaki,0.357410756716
-Wenwu Zhu 0001,Fei Wang,0.35722878993
-Fei Wang,Wenwu Zhu 0001,0.35722878993
-Heng Ji,Jiawei Han,0.356517868693
-Jiawei Han,Heng Ji,0.355919639009
-Jie Tang,Sen Wu,0.355747401677
-Jiawei Han,Jialu Liu,0.355633479455
-Stefano Lonardi,Eamonn J. Keogh,0.354622330686
-Feng Chen,Chang-Tien Lu,0.354099258908
-Chang-Tien Lu,Feng Chen,0.353844526019
-Wei Fan,Hanghang Tong,0.352235069931
-Jiong Yang,Jiawei Han,0.351999768705
-Jiawei Han,Qi Li,0.351321712033
-Jieping Ye,Zheng Zhao,0.350763206423
-Qi Li,Jiawei Han,0.350436889411
-Hanghang Tong,Jimeng Sun,0.350382876171
-Christos Faloutsos,Keith Henderson,0.349869493949
-Jieping Ye,Huan Liu,0.349637689931
-Salvatore J. Stolfo,Wenke Lee,0.348636209699
-Wenke Lee,Salvatore J. Stolfo,0.348539153833
-James Cheng,Yiping Ke,0.347827291063
-Hanghang Tong,Wei Fan,0.346961178874
-Yiping Ke,James Cheng,0.346941148691
-Heikki Mannila,Padhraic Smyth,0.345441499467
-David Jensen,Lisa Friedland,0.344572825333
-Peter Wonka,Jieping Ye,0.344485256174
-Sen Yang,Jieping Ye,0.344485256174
-Keith Henderson,Christos Faloutsos,0.343611600958
-Bo Zhang,Jun Zhu,0.343580607356
-Jiawei Han,Fangbo Tao,0.343458485893
-Lawrence B. Holder,Diane J. Cook,0.34329811894
-Diane J. Cook,Lawrence B. Holder,0.34329811894
-Jieping Ye,Peter Wonka,0.343212629927
-Jieping Ye,Sen Yang,0.343212629927
-Zheng Zhao,Jieping Ye,0.343212594236
-Fangbo Tao,Jiawei Han,0.342902096362
-Yin Lou,Johannes Gehrke,0.342541523564
-Jun Zhu,Bo Zhang,0.341023664063
-Duen Horng Chau,Christos Faloutsos,0.340203343414
-Johannes Gehrke,Yin Lou,0.339581538311
-Lisa Friedland,David Jensen,0.339494294979
-Wei Fan,ErHeng Zhong,0.339100512835
-Xiaowei Xu,Martin Ester,0.337583153251
-Tao Li,Lei Li,0.337109484008
-Martin Ester,Xiaowei Xu,0.336425335307
-Jon M. Kleinberg,Lars Backstrom,0.336351371551
-Lei Li,Tao Li,0.33601621772
-Lizhu Zhou,Jianyong Wang,0.335224377328
-Bing Liu 0001,Kaidi Zhao,0.334436695219
-Kaidi Zhao,Bing Liu 0001,0.334436695219
-Lars Backstrom,Jon M. Kleinberg,0.333489874545
-Jianyong Wang,Lizhu Zhou,0.333301811129
-Padhraic Smyth,Heikki Mannila,0.33301828381
-Heng Huang,Feiping Nie,0.332957004345
-Wenwu Zhu 0001,Shiqiang Yang,0.331540081307
-Fei Wang,Shiqiang Yang,0.331540081307
-David Jensen,Henry G. Goldberg,0.331514982766
-Yangqiu Song,Qiang Yang 0001,0.331490589049
-ErHeng Zhong,Wei Fan,0.330649712651
-Feng Chen,Naren Ramakrishnan,0.329812195072
-Yang Xiang,Ruoming Jin,0.32979499708
-Ruoming Jin,Yang Xiang,0.32979499708
-Hans-Peter Kriegel,J&ouml;rg Sander,0.329321333204
-Carlos Castillo,Francesco Bonchi,0.328823792705
-Shiqiang Yang,Wenwu Zhu 0001,0.328596090824
-Shiqiang Yang,Fei Wang,0.328596090824
-Padhraic Smyth,David Newman,0.32800302609
-Eamonn J. Keogh,Stefano Lonardi,0.327775211933
-J&ouml;rg Sander,Hans-Peter Kriegel,0.327441134597
-David Newman,Padhraic Smyth,0.327230749313
-Naren Ramakrishnan,Feng Chen,0.327073902308
-Jon M. Kleinberg,Daniel P. Huttenlocher,0.326816934417
-Daniel P. Huttenlocher,Jon M. Kleinberg,0.326774396438
-Feiping Nie,Heng Huang,0.326692629915
-Eamonn J. Keogh,Gustavo E. A. P. A. Batista,0.326578091312
-Lei Li,Hanghang Tong,0.325857720203
-Hanghang Tong,Lei Li,0.325731203543
-Bin Gao,Tie-Yan Liu,0.325440519204
-Qiang Yang 0001,Yangqiu Song,0.325327292816
-Francesco Bonchi,Carlos Castillo,0.324967288134
-Belle L. Tseng,Yun Chi,0.324867500317
-Henry G. Goldberg,David Jensen,0.324232517009
-Wei Peng,Tao Li,0.32385718127
-Aristides Gionis,Carlos Castillo,0.323616390579
-Laks V. S. Lakshmanan,Wei Lu,0.323335767722
-Jianyong Wang,Charu C. Aggarwal,0.321979134287
-Li Zheng,Liang Tang,0.321567254613
-Chao Shen,Liang Tang,0.321567254613
-Christos Faloutsos,Duen Horng Chau,0.321489738502
-Yun Chi,Belle L. Tseng,0.32146738694
-Dimitrios Gunopulos,Theodoros Lappas,0.321351918962
-Charu C. Aggarwal,Jianyong Wang,0.321294296278
-Antti Ukkonen,Aristides Gionis,0.321276908197
-Wei Lu,Laks V. S. Lakshmanan,0.320624896355
-Liang Tang,Chao Shen,0.320225255538
-Liang Tang,Li Zheng,0.320225255538
-Tao Li,Wei Peng,0.320172940774
-Nihit Desai,Jiawei Han,0.320023604437
-Tie-Yan Liu,Bin Gao,0.3199601868
-Jieping Ye,Kewei Chen,0.319712511704
-Jieping Ye,Teresa Wu,0.319712511704
-Jieping Ye,Jing Li,0.319712511704
-Jieping Ye,Eric Reiman,0.319712511704
-Petros Drineas,Michael W. Mahoney,0.31964613902
-Michael W. Mahoney,Petros Drineas,0.31964613902
-Sugato Basu,Raymond J. Mooney,0.319579810273
-Raymond J. Mooney,Sugato Basu,0.319579810273
-Gustavo E. A. P. A. Batista,Eamonn J. Keogh,0.319532652356
-Hui Xiong,Yanjie Fu,0.319158361764
-Jinoh Oh,Hwanjo Yu,0.318993272123
-Yanjie Fu,Hui Xiong,0.318645599599
-Theodoros Lappas,Dimitrios Gunopulos,0.318567914465
-Hwanjo Yu,Jinoh Oh,0.317728360347
-Jiawei Han,Nihit Desai,0.317691955263
-Tao Li,Chris H. Q. Ding,0.31652181256
-Blaz Zupan,Ivan Bratko,0.316373718794
-Ivan Bratko,Blaz Zupan,0.316373718794
-Tianbao Yang,Rong Jin,0.316214553217
-Chris H. Q. Ding,Tao Li,0.315886663724
-Xiaodan Song,Belle L. Tseng,0.315708941238
-Belle L. Tseng,Xiaodan Song,0.315696990366
-Jieping Ye,Fei Wang 0001,0.314905054544
-Caetano Traina Jr.,Christos Faloutsos,0.314336225777
-Kenji Yamanishi,Jun-ichi Takeuchi,0.314255466913
-Jun-ichi Takeuchi,Kenji Yamanishi,0.314139104783
-Christos Faloutsos,Jia-Yu Pan,0.314112601136
-Qi Li,Jieping Ye,0.314096642538
-Arthur Zimek,Hans-Peter Kriegel,0.313703695581
-Dong Xin,Jiawei Han,0.313189263857
-Eamonn J. Keogh,Jesin Zakaria,0.312655624757
-Cindy Xide Lin,Jiawei Han,0.312606806707
-Ron Kohavi,Brian Frasca,0.312384182688
-Jieping Ye,Qi Li,0.312376435764
-Jia-Yu Pan,Christos Faloutsos,0.312296486672
-Christos Faloutsos,Caetano Traina Jr.,0.311361328259
-Brian Frasca,Ron Kohavi,0.310926068453
-Sethuraman Panchanathan,Jieping Ye,0.31081034339
-Anitha Kannan,Rakesh Agrawal,0.310801529744
-Carlos Castillo,Aristides Gionis,0.310723350957
-Saharon Rosset,Einat Neumann,0.310382986489
-Einat Neumann,Saharon Rosset,0.310382986489
-Einat Neumann,Yizhak Idan,0.310382986489
-Saharon Rosset,Yizhak Idan,0.310382986489
-Yizhak Idan,Saharon Rosset,0.310382986489
-Yizhak Idan,Einat Neumann,0.310382986489
-Lei Li,Tina Eliassi-Rad,0.310326416355
-Fei Wang 0001,Jieping Ye,0.31027552974
-Rong Jin,Tianbao Yang,0.310134668359
-Xiangnan Kong,Philip S. Yu,0.309564608213
-Kewei Chen,Jieping Ye,0.309028609701
-Teresa Wu,Jieping Ye,0.309028609701
-Jing Li,Jieping Ye,0.309028609701
-Eric Reiman,Jieping Ye,0.309028609701
-Jiawei Han,Jiong Yang,0.30861222064
-Hans-Peter Kriegel,Arthur Zimek,0.308525301197
-Philip S. Yu,Guan Wang,0.308426005094
-Hui Xiong,Vipin Kumar,0.307796621242
-Tina Eliassi-Rad,Lei Li,0.307604286868
-Chi Wang,Fangbo Tao,0.307428756328
-Tina Eliassi-Rad,Leman Akoglu,0.307021990717
-Philip S. Yu,Xiangnan Kong,0.306795269854
-Jiawei Han,Kevin Chen-Chuan Chang,0.306713649485
-Martin Ester,Rong Ge,0.306667491017
-Claudia Perlich,Rod Hook,0.306510077527
-Aristides Gionis,Antti Ukkonen,0.306458076386
-Flavio Chierichetti,Ravi Kumar,0.30603541031
-Naren Ramakrishnan,Richard F. Helm,0.305786648697
-Bo Zhao,Heng Ji,0.305763841157
-Jesin Zakaria,Eamonn J. Keogh,0.305557289271
-Joydeep Ghosh,Arindam Banerjee,0.305470309159
-Arindam Banerjee,Joydeep Ghosh,0.305420728372
-Rong Jin,Anil K. Jain,0.305302432432
-Rong Ge,Martin Ester,0.305235145005
-Ravi Janardan,Jieping Ye,0.305129001358
-Jiawei Han,Cindy Xide Lin,0.305047489154
-Lei Li,Leman Akoglu,0.304775255682
-Leman Akoglu,Tina Eliassi-Rad,0.304490570463
-Guan Wang,Philip S. Yu,0.304407275529
-Rakesh Agrawal,Anitha Kannan,0.30405970414
-William B. March,Alexander G. Gray,0.303695212931
-Alexander G. Gray,William B. March,0.303695212931
-Hanghang Tong,Keith Henderson,0.303376994647
-Vincent S. Tseng,Cheng-Wei Wu,0.303351383439
-Philip S. Yu,Vincent S. Tseng,0.303351383439
-Philip S. Yu,Cheng-Wei Wu,0.303351383439
-Vincent S. Tseng,Philip S. Yu,0.303351383439
-Cheng-Wei Wu,Vincent S. Tseng,0.303351383439
-Cheng-Wei Wu,Philip S. Yu,0.303351383439
-Keith Henderson,Hanghang Tong,0.303303732161
-Heng Ji,Bo Zhao,0.30298972108
-Ahmed El-Kishky,Jiawei Han,0.302582002048
-Ankit Agrawal,Alok N. Choudhary,0.302558343679
-Alok N. Choudhary,Ankit Agrawal,0.302558343679
-Fangbo Tao,Chi Wang,0.30233735212
-Rod Hook,Ori Stitelman,0.302261990869
-Mohammad Mahdian,Ravi Kumar,0.302132351604
-Troy Raeder,Rod Hook,0.301815605659
-Anil K. Jain,Rong Jin,0.301575896579
-Ravi Kumar,Mohammad Mahdian,0.30096020561
-Hengshu Zhu,Hui Xiong,0.300641136422
-Ron Kohavi,Toby Walker,0.300194100766
-Jieping Ye,Sethuraman Panchanathan,0.299958441704
-Jieping Ye,Ravi Janardan,0.299877590954
-Rod Hook,Claudia Perlich,0.29983324628
-Leman Akoglu,Lei Li,0.299805108377
-Hanghang Tong,Brian Gallagher,0.299655812715
-Padhraic Smyth,Darya Chudova,0.299384841393
-Martin Ester,J&ouml;rg Sander,0.298791634569
-Johannes Gehrke,Rich Caruana,0.298381153851
-Richard F. Helm,Naren Ramakrishnan,0.298327289385
-Toby Walker,Ron Kohavi,0.298203784532
-Ori Stitelman,Rod Hook,0.297558671775
-Rod Hook,Troy Raeder,0.297294242753
-Rich Caruana,Johannes Gehrke,0.296965194077
-Sanjay Ranka,Xiuyao Song,0.296792054452
-Jiawei Han,Dong Xin,0.296651022298
-Ruben H. Zamar,Raymond T. Ng,0.296606073954
-Raymond T. Ng,Ruben H. Zamar,0.296606073954
-Xiuyao Song,Sanjay Ranka,0.296470165129
-Vipin Kumar,Hui Xiong,0.296424029448
-Brian Gallagher,Hanghang Tong,0.296071580727
-Ravi Kumar,D. Sivakumar,0.296045374956
-Fosca Giannotti,Mirco Nanni,0.295695231816
-Ravi Kumar,Flavio Chierichetti,0.295334397785
-Christos Faloutsos,Yasushi Sakurai,0.293012777049
-Jiawei Han,Ahmed El-Kishky,0.292772503897
-Lei Chen 0002,Caleb Chen Cao,0.292558263119
-Wynne Hsu,Shu Chen,0.292399161305
-Mirco Nanni,Fosca Giannotti,0.292323506623
-Keith Henderson,Tina Eliassi-Rad,0.291737517278
-Daryl Pregibon,Corinna Cortes,0.291648065798
-David Jensen,Christos Faloutsos,0.291379147182
-Hui Xiong,Hengshu Zhu,0.29136830907
-Geoff Holmes,Albert Bifet,0.29130936243
-Yasushi Sakurai,Christos Faloutsos,0.290950688915
-Corinna Cortes,Daryl Pregibon,0.290931991154
-Bo Zhao,Qi Li,0.290823841208
-D. Sivakumar,Ravi Kumar,0.289339707047
-Heikki Mannila,Jouni K. Sepp&auml;nen,0.289046513719
-Tina Eliassi-Rad,Keith Henderson,0.289016326257
-Satoshi Morinaga,Kenji Yamanishi,0.2889510371
-Qi Li,Bo Zhao,0.28890387846
-J&ouml;rg Sander,Martin Ester,0.288425061499
-Philip S. Yu,Xifeng Yan,0.288262800059
-Albert Bifet,Geoff Holmes,0.288024925159
-Igor V. Cadez,Padhraic Smyth,0.287883659266
-Chi Wang,Marina Danilevsky,0.287790606794
-Marina Danilevsky,Chi Wang,0.287750969938
-Zheng Wang,Jieping Ye,0.287525057842
-Heikki Mannila,Hannu Toivonen,0.286803807716
-Hannu Toivonen,Heikki Mannila,0.286803807716
-Bolin Ding,Jiawei Han,0.28640999998
-Lei Li,Keith Henderson,0.286276245913
-Jiawei Han,Bolin Ding,0.286210062446
-Darya Chudova,Padhraic Smyth,0.286083532496
-Tina Eliassi-Rad,Brian Gallagher,0.286001008716
-Kenji Yamanishi,Satoshi Morinaga,0.285426926887
-Chi Wang,Nihit Desai,0.285340464842
-Caleb Chen Cao,Lei Chen 0002,0.284920559818
-Nihit Desai,Chi Wang,0.284720066985
-Jieping Ye,Zheng Wang,0.284673058946
-Lawrence K. Saul,Stefan Savage,0.284517341595
-Stefan Savage,Geoffrey M. Voelker,0.284517341595
-Geoffrey M. Voelker,Stefan Savage,0.284517341595
-Lawrence K. Saul,Geoffrey M. Voelker,0.284517341595
-Stefan Savage,Lawrence K. Saul,0.284517341595
-Geoffrey M. Voelker,Lawrence K. Saul,0.284517341595
-Murali Ramanathan,Aidong Zhang,0.284380933724
-Geoff Holmes,Bernhard Pfahringer,0.284333549959
-Christos Faloutsos,Yasuko Matsubara,0.284101363496
-Keith Henderson,Leman Akoglu,0.284060408834
-Jure Leskovec,Jon M. Kleinberg,0.28372448101
-Keith Henderson,Lei Li,0.283503873963
-Jouni K. Sepp&auml;nen,Heikki Mannila,0.283434342342
-Amol Ghoting,Srinivasan Parthasarathy,0.283075923893
-Brian Gallagher,Tina Eliassi-Rad,0.282621629026
-Naoki Abe,Yan Liu 0002,0.282573326224
-Jon M. Kleinberg,Jure Leskovec,0.282318946162
-Bernhard Pfahringer,Geoff Holmes,0.281917166067
-Quanquan Gu,Jiawei Han,0.281898217914
-Bing Liu 0001,Mong-Li Lee,0.281783942222
-Yan Liu 0002,Naoki Abe,0.28152768928
-Jie Tang,Philip S. Yu,0.281042500754
-Ron Kohavi,Roger Longbotham,0.280977029865
-Shu Chen,Wynne Hsu,0.280862047955
-Aidong Zhang,Murali Ramanathan,0.280800560503
-Carlos Guestrin,Dafna Shahaf,0.280704130814
-Yasuko Matsubara,Christos Faloutsos,0.280502001502
-Leman Akoglu,Keith Henderson,0.280371374401
-Roger Longbotham,Ron Kohavi,0.279317011861
-Kui Yu,Xindong Wu,0.278962893733
-Kui Yu,Wei Ding 0003,0.278962893733
-Christos Faloutsos,David Jensen,0.278874317943
-Xifeng Yan,Philip S. Yu,0.278527500457
-Philip S. Yu,Jie Tang,0.278414091443
-Prem Melville,Richard D. Lawrence,0.277768960171
-Wei Ding 0003,Kui Yu,0.277671453759
-Xindong Wu,Kui Yu,0.277671453759
-Ravi Kumar,Christos Faloutsos,0.277593581762
-Kaizhong Zhang,Dennis Shasha,0.27730300144
-Bruce A. Shapiro,Jason Tsong-Li Wang,0.27730300144
-Kaizhong Zhang,Jason Tsong-Li Wang,0.27730300144
-Bruce A. Shapiro,Dennis Shasha,0.27730300144
-Kevin Chen-Chuan Chang,Jiawei Han,0.277032669761
-Jason Tsong-Li Wang,Kaizhong Zhang,0.276793473682
-Jason Tsong-Li Wang,Bruce A. Shapiro,0.276793473682
-Dennis Shasha,Bruce A. Shapiro,0.276793473682
-Dennis Shasha,Kaizhong Zhang,0.276793473682
-Ron Kohavi,Ya Xu,0.276491297418
-Ron Kohavi,Alex Deng,0.276491297418
-Fabio Pinelli,Mirco Nanni,0.276424957815
-Bing Liu 0001,Philip S. Yu,0.276207713116
-Alex Deng,Ron Kohavi,0.275920590328
-Ya Xu,Ron Kohavi,0.275920590328
-Danai Koutra,Brian Gallagher,0.275860189239
-Jing Gao,Bo Zhao,0.275579801733
-Junjie Wu,Jian Chen,0.275373220305
-Jiawei Han,Quanquan Gu,0.274713157041
-Peter Scheuermann,Bin Chen,0.274704135327
-Bin Chen,Peter Scheuermann,0.274704135327
-Richard D. Lawrence,Prem Melville,0.274561480498
-Jing Gao,Philip S. Yu,0.274502808344
-Mirco Nanni,Fabio Pinelli,0.27446921777
-Srinivasan Parthasarathy,Amol Ghoting,0.27425830901
-Dafna Shahaf,Carlos Guestrin,0.274222452273
-Bo Zhao,Jing Gao,0.273790596044
-Hui Xiong,Junjie Wu,0.27301017398
-Rakesh Agrawal,John C. Shafer,0.272945316169
-Xifeng Yan,Nikos Anerousis,0.272555076147
-Brian Gallagher,Danai Koutra,0.272249754873
-Nikos Anerousis,Shu Tao,0.27217832741
-Junjie Wu,Hui Xiong,0.272079584673
-Xiang Ren,Jiawei Han,0.271947893262
-Sanjay Ranka,Mingxi Wu,0.271659823542
-Nikos Anerousis,Xifeng Yan,0.271306094765
-Mingxi Wu,Sanjay Ranka,0.270735467571
-John C. Shafer,Rakesh Agrawal,0.270724626086
-Shu Chen,Bing Liu 0001,0.270660541687
-Ravi Kumar,Prabhakar Raghavan,0.270582682927
-Kaizhong Zhang,Bruce A. Shapiro,0.270527973277
-Bruce A. Shapiro,Kaizhong Zhang,0.270527973277
-Shu Tao,Nikos Anerousis,0.270450652291
-Eric P. Xing,Jun Zhu,0.270044822211
-Srinivasan Parthasarathy,Sitaram Asur,0.269978042677
-Christos Faloutsos,Ravi Kumar,0.26994731144
-Duo Zhang,Jiawei Han,0.269837701123
-Padhraic Smyth,Max Welling,0.269604524626
-Taneli Mielik&auml;inen,Heikki Mannila,0.269070411523
-Philip S. Yu,Jing Gao,0.26906437782
-Jun Zhu,Eric P. Xing,0.268755903884
-Padhraic Smyth,Igor V. Cadez,0.268735305624
-Jiawei Han,Xiang Ren,0.268711502951
-Heikki Mannila,Taneli Mielik&auml;inen,0.268658693594
-Ada Wai-Chee Fu,Jian Pei,0.267994172366
-Jiawei Han,Duo Zhang,0.267868145927
-Kewei Chen,Eric Reiman,0.267663094975
-Teresa Wu,Eric Reiman,0.267663094975
-Jing Li,Eric Reiman,0.267663094975
-Eric Reiman,Teresa Wu,0.267663094975
-Kewei Chen,Jing Li,0.267663094975
-Eric Reiman,Kewei Chen,0.267663094975
-Eric Reiman,Jing Li,0.267663094975
-Jing Li,Teresa Wu,0.267663094975
-Teresa Wu,Kewei Chen,0.267663094975
-Jing Li,Kewei Chen,0.267663094975
-Kewei Chen,Teresa Wu,0.267663094975
-Teresa Wu,Jing Li,0.267663094975
-Marina Danilevsky,Nihit Desai,0.267469155415
-Nihit Desai,Marina Danilevsky,0.267356527035
-Pang-Ning Tan,Michael Steinbach,0.267174922928
-Max Welling,Padhraic Smyth,0.266930558187
-Prabhakar Raghavan,Ravi Kumar,0.266362726428
-Philip S. Yu,Bing Liu 0001,0.266021041235
-Bill Yuan-chi Chiu,Eamonn J. Keogh,0.265674926555
-ChengXiang Zhai,Jiawei Han,0.265594154174
-Aristides Gionis,Charalampos E. Tsourakakis,0.265457005666
-Alexander J. Smola,Vanja Josifovski,0.265197898937
-William W. Cohen,Eric P. Xing,0.263819230286
-Michael Steinbach,Pang-Ning Tan,0.263737673224
-Jiawei Han,ChengXiang Zhai,0.263572507511
-Panayiotis Tsaparas,Evimaria Terzi,0.263409380282
-Naoki Abe,Bianca Zadrozny,0.263294726531
-Aidong Zhang,Jian Pei,0.263163809571
-Yasushi Sakurai,Yasuko Matsubara,0.263096860381
-Philip S. Yu,Jiong Yang,0.262548118034
-Bing Liu 0001,Shu Chen,0.262232523802
-Alex Deng,Ya Xu,0.262152721565
-Ya Xu,Alex Deng,0.262152721565
-Limsoon Wong,Guimei Liu,0.261959805625
-Guimei Liu,Limsoon Wong,0.261959805625
-Yasuko Matsubara,Yasushi Sakurai,0.261559586521
-Jian Chen,Junjie Wu,0.261150495418
-Hui Xiong,Wenjun Zhou,0.261052964296
-Jan Prins,Wei Wang 0010,0.260662461484
-Evimaria Terzi,Panayiotis Tsaparas,0.26059375351
-Wenjun Zhou,Hui Xiong,0.260479059054
-Salvatore J. Stolfo,Philip K. Chan,0.260456999544
-Jing Yuan,Yu Zheng,0.260190840695
-Yu Zheng,Jing Yuan,0.260190840695
-Charalampos E. Tsourakakis,Aristides Gionis,0.260166040745
-Henry Tirri,Petri Myllym&auml;ki,0.260028867473
-Petri Kontkanen,Henry Tirri,0.260028867473
-Henry Tirri,Petri Kontkanen,0.260028867473
-Petri Kontkanen,Petri Myllym&auml;ki,0.260028867473
-Petri Myllym&auml;ki,Henry Tirri,0.260028867473
-Petri Myllym&auml;ki,Petri Kontkanen,0.260028867473
-Shu Chen,Yiming Ma,0.259894984558
-Xifeng Yan,Hong Cheng,0.259673653738
-Wei Wang 0010,Jan Prins,0.259620392354
-Agma J. M. Traina,Christos Faloutsos,0.259103500832
-Xiuyao Song,Mingxi Wu,0.259058172118
-Sitaram Asur,Srinivasan Parthasarathy,0.258896080907
-Charu C. Aggarwal,Jiawei Han,0.258833703191
-Mingxi Wu,Xiuyao Song,0.258682921463
-Sen Yang,Peter Wonka,0.258508369792
-Peter Wonka,Sen Yang,0.258508369792
-Zheng Zhao,Huan Liu,0.25841571426
-Jie Tang,Jing Zhang 0001,0.257402209732
-Yongxin Tong,Lei Chen 0002,0.257361063189
-Yiming Ma,Shu Chen,0.256785889093
-Eamonn J. Keogh,Thanawin Rakthanmanon,0.256715887875
-Eamonn J. Keogh,Bilson J. L. Campana,0.256715887875
-Carlos Guestrin,Khalid El-Arini,0.256572528611
-Ines F&auml;rber,Stephan G&uuml;nnemann,0.256435707206
-Ines F&auml;rber,Thomas Seidl 0001,0.256435707206
-Christos Faloutsos,Philip S. Yu,0.256420687621
-Jian Pei,Aidong Zhang,0.256289127848
-Jieping Ye,Rinkal Patel,0.256101081236
-Christos Faloutsos,Eric P. Xing,0.256064371419
-Eric P. Xing,William W. Cohen,0.256015297509
-Christos Faloutsos,Agma J. M. Traina,0.256013741078
-Joydeep Ghosh,Inderjit S. Dhillon,0.255945202034
-Hong Cheng,Xifeng Yan,0.25532720894
-Christos Faloutsos,Alex Beutel,0.255223770295
-Hui Xiong,Alexander Tuzhilin,0.255144185333
-Vanja Josifovski,Alexander J. Smola,0.255053753344
-Alex Beutel,Christos Faloutsos,0.254997666609
-Thomas Seidl 0001,Ines F&auml;rber,0.254536830694
-Stephan G&uuml;nnemann,Ines F&auml;rber,0.254536830694
-Thorsten Joachims,Karthik Raman,0.254290040683
-Karthik Raman,Thorsten Joachims,0.254290040683
-Evimaria Terzi,Heikki Mannila,0.254049303375
-Kun Zhang,Wei Fan,0.253864668475
-Olivier Verscheure,Wei Fan,0.253864668475
-Xiang Wang,Ian Davidson,0.253851243158
-Ian Davidson,Xiang Wang,0.253713169536
-Khalid El-Arini,Carlos Guestrin,0.253469112252
-Bo Long,Zhongfei (Mark) Zhang,0.253371078223
-Bo Long,Philip S. Yu,0.253371078223
-Huan Liu,Zheng Zhao,0.253213626844
-Liang Sun,Jieping Ye,0.252900408197
-Wei Fan,Kun Zhang,0.252855723643
-Wei Fan,Olivier Verscheure,0.252855723643
-Alexander Tuzhilin,Hui Xiong,0.25275811105
-Heikki Mannila,Gautam Das,0.252695866532
-Chang-Tien Lu,Naren Ramakrishnan,0.252619239451
-Lei Chen 0002,Yongxin Tong,0.25254300216
-Ke Wang,Philip S. Yu,0.252413382286
-Michail Vlachos,Dimitrios Gunopulos,0.252140533367
-Jing Zhang 0001,Jie Tang,0.251961351507
-Srinivasan Parthasarathy,Mohammed Javeed Zaki,0.251855884167
-Heikki Mannila,Evimaria Terzi,0.251700035122
-Xintian Yang,Srinivasan Parthasarathy,0.251667834113
-Zhongfei (Mark) Zhang,Bo Long,0.251598793479
-Philip S. Yu,Bo Long,0.251598793479
-Srinivasan Parthasarathy,Xintian Yang,0.251554505154
-Srinivasan Parthasarathy,Sameep Mehta,0.251117432191
-Bianca Zadrozny,Naoki Abe,0.25060533336
-Nagaraj Kota,Deepak Agarwal,0.25047989406
-Deepak Agarwal,Nagaraj Kota,0.25047989406
-Roger Longbotham,Brian Frasca,0.250192049122
-Ruoming Jin,Gagan Agrawal,0.250168349131
-Brian Frasca,Roger Longbotham,0.249967016741
-Lei Li,Brian Gallagher,0.249870415827
-Inderjit S. Dhillon,Brian Kulis,0.249706168413
-Gagan Agrawal,Ruoming Jin,0.249516209723
-Jure Leskovec,Ravi Kumar,0.249481267568
-B. Aditya Prakash,Lei Li,0.248935539544
-Philip K. Chan,Salvatore J. Stolfo,0.24893424193
-Thanawin Rakthanmanon,Eamonn J. Keogh,0.248886378246
-Bilson J. L. Campana,Eamonn J. Keogh,0.248886378246
-Qiang Zhu 0002,Eamonn J. Keogh,0.24887205328
-Eric P. Xing,Christos Faloutsos,0.24875988924
-Ming-Syan Chen,De-Nian Yang,0.248751582551
-Cindy Xide Lin,Bo Zhao,0.248692792836
-Xiaowei Xu,Hans-Peter Kriegel,0.248615851467
-Chih-Hua Tai,Ming-Syan Chen,0.248538565709
-Bo Zhao,Cindy Xide Lin,0.248028778401
-Dimitrios Gunopulos,Michail Vlachos,0.247973732399
-Leman Akoglu,Brian Gallagher,0.24797246549
-Aidong Zhang,Daxin Jiang,0.247927471793
-Naren Ramakrishnan,Chang-Tien Lu,0.24787908766
-Gautam Das,Heikki Mannila,0.247822430608
-Nathan Self,Naren Ramakrishnan,0.247754112458
-Lei Li,B. Aditya Prakash,0.247663444176
-Brian Gallagher,Leman Akoglu,0.247661915447
-R&oacute;mer Rosales,Glenn Fung,0.247295723076
-Naren Ramakrishnan,Nathan Self,0.247146405598
-Chih-Jen Lin,Chia-Hua Ho,0.247113381473
-Jian Pei,Ada Wai-Chee Fu,0.247044616277
-Glenn Fung,R&oacute;mer Rosales,0.246675658796
-Rinkal Patel,Jieping Ye,0.246436327259
-Brian Gallagher,Lei Li,0.246417661634
-Chia-Hua Ho,Chih-Jen Lin,0.246325699364
-Padhraic Smyth,Scott Gaffney,0.245925344566
-Yanjie Fu,Yong Ge,0.245525340257
-Ya Xu,Brian Frasca,0.245422486745
-Alex Deng,Brian Frasca,0.245422486745
-Jing Gao,Yizhou Sun,0.245257593098
-De-Nian Yang,Ming-Syan Chen,0.24520130518
-Jieping Ye,Liang Sun,0.245056485393
-Jie Wang,Jieping Ye,0.24491917494
-Francesco Gullo,Aristides Gionis,0.244916801433
-Yong Ge,Yanjie Fu,0.244841056526
-Eamonn J. Keogh,Bill Yuan-chi Chiu,0.244661820365
-Mohammed Javeed Zaki,Srinivasan Parthasarathy,0.244512892566
-Brian Frasca,Alex Deng,0.244445356148
-Brian Frasca,Ya Xu,0.244445356148
-Philip S. Yu,Ke Wang,0.244445034585
-Hans-Peter Kriegel,Xiaowei Xu,0.244396866189
-Aristides Gionis,Panayiotis Tsaparas,0.244386837232
-Keli Xiao,Hui Xiong,0.244326984058
-Jennifer Neville,David Jensen,0.24390911792
-Panayiotis Tsaparas,Aristides Gionis,0.243463856521
-Abdullah Mueen,Eamonn J. Keogh,0.243309216164
-Ravi Kumar,Jure Leskovec,0.243132605411
-Hanghang Tong,Ching-Yung Lin,0.242986790292
-Sudhir Kumar,Jieping Ye,0.242754477805
-Scott Gaffney,Padhraic Smyth,0.242705949396
-Sameep Mehta,Srinivasan Parthasarathy,0.242693897537
-Soumen Chakrabarti,Shantanu Godbole,0.242649849525
-Shantanu Godbole,Soumen Chakrabarti,0.242649849525
-Ching-Yung Lin,Hanghang Tong,0.242635845002
-Yizhou Sun,Jing Gao,0.242449694895
-Andrew Tomkins,Christos Faloutsos,0.242116198513
-Hang Li,Jian Pei,0.2419199158
-Yanping Chen 0005,Eamonn J. Keogh,0.241882272684
-Bing Hu 0001,Eamonn J. Keogh,0.241882272684
-Eamonn J. Keogh,Qiang Zhu 0002,0.241732929942
-Xifeng Yan,Yang Li,0.241635844
-Eamonn J. Keogh,Bing Hu 0001,0.241628311814
-Eamonn J. Keogh,Yanping Chen 0005,0.241628311814
-David Jensen,Jennifer Neville,0.241119738085
-Tao Li,Chunqiu Zeng,0.240989760068
-Tao Li,Yexi Jiang,0.240989760068
-Tao Li,Hongtai Li,0.240989760068
-Tao Li,Jingxuan Li,0.240989760068
-Tao Li,Ming Lei,0.240989760068
-Tao Li,Wubai Zhou,0.240989760068
-Tao Li,Bing Duan,0.240989760068
-Tao Li,Pengnian Wang,0.240989760068
-Rich Caruana,Yin Lou,0.240750909387
-Jieping Ye,Jie Wang,0.240451554527
-Yin Lou,Rich Caruana,0.240446816079
-Ming-Syan Chen,Chih-Hua Tai,0.240378766113
-Rakesh Agrawal,Manish Mehta 0002,0.240338158283
-Aristides Gionis,Francesco Gullo,0.240326459106
-Xing Xie,Guangzhong Sun,0.24021212614
-Yang Li,Xifeng Yan,0.240106033467
-Yexi Jiang,Tao Li,0.239995976638
-Hongtai Li,Tao Li,0.239995976638
-Bing Duan,Tao Li,0.239995976638
-Wubai Zhou,Tao Li,0.239995976638
-Ming Lei,Tao Li,0.239995976638
-Jingxuan Li,Tao Li,0.239995976638
-Pengnian Wang,Tao Li,0.239995976638
-Chunqiu Zeng,Tao Li,0.239995976638
-Hui Xiong,Keli Xiao,0.239913043372
-Jiayu Zhou,Lei Yuan,0.239908781411
-Jieping Ye,Sudhir Kumar,0.23985788589
-Lei Yuan,Jiayu Zhou,0.239730504063
-Yintao Yu,Jiawei Han,0.239296814792
-Inderjit S. Dhillon,Joydeep Ghosh,0.239151269199
-Xifeng Yan,Mudhakar Srivatsa,0.238915404271
-Guangzhong Sun,Xing Xie,0.238751324644
-Wei Fan,Ian Davidson,0.238593508337
-Tomoharu Iwata,Yasushi Sakurai,0.238589505712
-Junjie Wu,Hongfu Liu,0.238564065724
-Jie Tang,Jing Zhang,0.238483804864
-Manish Mehta 0002,Rakesh Agrawal,0.238405423125
-Jian Chen,Yong Ge,0.238332631622
-Jiawei Han,Jie Tang,0.238228877158
-Wook-Shin Han,Hwanjo Yu,0.238146061522
-Jiawei Han,Charu C. Aggarwal,0.238055431415
-Mudhakar Srivatsa,Xifeng Yan,0.237620580622
-Hanghang Tong,Danai Koutra,0.237263138916
-Qi Li,Heng Ji,0.237235081782
-Mong-Li Lee,Tok Wang Ling,0.237212700057
-Ke Wang,Ada Wai-Chee Fu,0.236855007608
-Evangelos E. Papalexakis,Christos Faloutsos,0.236799855675
-Christos Faloutsos,Sugato Basu,0.236401538237
-Jiong Yang,Philip S. Yu,0.236401215617
-Hongfu Liu,Junjie Wu,0.236395968562
-Keith Henderson,Brian Gallagher,0.236322237564
-Hui Xiong,Guannan Liu,0.236229681606
-Xiang Wang,Fei Wang 0001,0.2360669371
-Chi Wang,Duo Zhang,0.235907481976
-Vipin Kumar,Steven A. Klooster,0.235805294188
-Vipin Kumar,Christopher Potter,0.235805294188
-Philip S. Yu,Jimeng Sun,0.235764208895
-Ian Davidson,Wei Fan,0.235697241014
-Ian N. Davidson,Sean Gilpin,0.23568105087
-Sean Gilpin,Ian N. Davidson,0.23568105087
-Heng Ji,Qi Li,0.235385713208
-Duo Zhang,Chi Wang,0.234939654675
-Eamonn J. Keogh,Abdullah Mueen,0.234745423638
-Chao Shen,Lei Li,0.234699323566
-Li Zheng,Lei Li,0.234699323566
-Lisa Friedland,Henry G. Goldberg,0.234680498043
-Lei Li,Li Zheng,0.23459102588
-Lei Li,Chao Shen,0.23459102588
-Fei Wang 0001,Xiang Wang,0.234466224201
-Alexander T. Ihler,Padhraic Smyth,0.234270087196
-Yan Liu 0002,Mohammad Taha Bahadori,0.234078757351
-Ye Chen,Tak W. Yan,0.234014651749
-Tak W. Yan,Ye Chen,0.234014651749
-Guannan Liu,Hui Xiong,0.23398443459
-Henry G. Goldberg,Lisa Friedland,0.233910151535
-Yasushi Sakurai,Tomoharu Iwata,0.233838936644
-Xuehua Shen,ChengXiang Zhai,0.23368429014
-Marc E. Maier,David Jensen,0.233663678912
-Christos Faloutsos,Andrew Tomkins,0.233645069307
-Alex Deng,Toby Walker,0.233605728656
-Ya Xu,Toby Walker,0.233605728656
-Jieping Ye,Naren Ramakrishnan,0.233423969931
-Padhraic Smyth,Alexander T. Ihler,0.233337564021
-ChengXiang Zhai,Xuehua Shen,0.233303125859
-Alexander Tuzhilin,Balaji Padmanabhan,0.23324142434
-Balaji Padmanabhan,Alexander Tuzhilin,0.23324142434
-Ada Wai-Chee Fu,Ke Wang,0.233217649465
-Christopher Potter,Vipin Kumar,0.23308167923
-Steven A. Klooster,Vipin Kumar,0.23308167923
-Toby Walker,Alex Deng,0.23300018941
-Toby Walker,Ya Xu,0.23300018941
-Chih-Hua Tai,Philip S. Yu,0.232856409499
-Christos Faloutsos,Evangelos E. Papalexakis,0.232843198581
-Yong Ge,Keli Xiao,0.232738047212
-Bing Liu 0001,Xiaoli Li,0.232576895704
-Hwanjo Yu,Wook-Shin Han,0.23218772831
-Brian Gallagher,Keith Henderson,0.231767114949
-Naoki Abe,Claudia Perlich,0.231766201143
-Jimeng Sun,Philip S. Yu,0.231680155655
-Kian-Lee Tan,Mingqiang Xue,0.231677924966
-Jiawei Han,Lidan Wang,0.231580976452
-Timm Jansen,Thomas Seidl 0001,0.231556312313
-Jiawei Han,Yintao Yu,0.231121404093
-Tomoharu Iwata,Naonori Ueda,0.23108229548
-Soumen Chakrabarti,Sunita Sarawagi,0.231053418483
-Philip S. Yu,Chih-Hua Tai,0.230817297845
-Xiaoli Li,Bing Liu 0001,0.230462671857
-Mingqiang Xue,Kian-Lee Tan,0.230371387601
-Thomas Seidl 0001,Timm Jansen,0.230254550405
-Daxin Jiang,Aidong Zhang,0.230240793225
-Jian Pei,Hang Li,0.23016712971
-Martin Ester,Ian Davidson,0.230076345998
-Yexi Jiang,Li Zheng,0.229965377334
-Yexi Jiang,Chao Shen,0.229965377334
-Wubai Zhou,Li Zheng,0.229965377334
-Wubai Zhou,Chao Shen,0.229965377334
-Bing Duan,Chao Shen,0.229965377334
-Ming Lei,Chao Shen,0.229965377334
-Hongtai Li,Li Zheng,0.229965377334
-Bing Duan,Li Zheng,0.229965377334
-Hongtai Li,Chao Shen,0.229965377334
-Pengnian Wang,Chao Shen,0.229965377334
-Pengnian Wang,Li Zheng,0.229965377334
-Ming Lei,Li Zheng,0.229965377334
-Chunqiu Zeng,Chao Shen,0.229965377334
-Chunqiu Zeng,Li Zheng,0.229965377334
-Jingxuan Li,Chao Shen,0.229965377334
-Jingxuan Li,Li Zheng,0.229965377334
-Li Zheng,Bing Duan,0.229918464687
-Li Zheng,Wubai Zhou,0.229918464687
-Chao Shen,Pengnian Wang,0.229918464687
-Chao Shen,Wubai Zhou,0.229918464687
-Chao Shen,Bing Duan,0.229918464687
-Chao Shen,Jingxuan Li,0.229918464687
-Li Zheng,Hongtai Li,0.229918464687
-Li Zheng,Pengnian Wang,0.229918464687
-Chao Shen,Yexi Jiang,0.229918464687
-Chao Shen,Ming Lei,0.229918464687
-Li Zheng,Ming Lei,0.229918464687
-Li Zheng,Yexi Jiang,0.229918464687
-Chao Shen,Hongtai Li,0.229918464687
-Chao Shen,Chunqiu Zeng,0.229918464687
-Li Zheng,Chunqiu Zeng,0.229918464687
-Li Zheng,Jingxuan Li,0.229918464687
-Martin Ester,Wen Jin,0.229723636612
-Jie Tang,Jiawei Han,0.229273145482
-Jieping Ye,Xiaotong Shen,0.22921826136
-Claudia Perlich,Naoki Abe,0.229087118089
-Keli Xiao,Yong Ge,0.229021823389
-Seth A. Myers,Jure Leskovec,0.228865412626
-Chris Volinsky,Yehuda Koren,0.228865412626
-Georgiana Ifrim,Gerhard Weikum,0.228865412626
-Yehuda Koren,Chris Volinsky,0.228865412626
-Yajun Wang,Wei Chen 0013,0.228865412626
-Balaji Padmanabhan,Zhiqiang (Eric) Zheng,0.228865412626
-Franco Turini,Salvatore Ruggieri,0.228865412626
-Salvatore Ruggieri,Franco Turini,0.228865412626
-Jure Leskovec,Seth A. Myers,0.228865412626
-Yu Zheng,Hsun-Ping Hsieh,0.228865412626
-Gerhard Weikum,Georgiana Ifrim,0.228865412626
-Meng Chang Chen,Chien Chin Chen,0.228865412626
-Wei Chen 0013,Yajun Wang,0.228865412626
-Gunhee Kim,Eric P. Xing,0.228865412626
-Bryan W. Scotney,Sally I. McClean,0.228865412626
-Chien Chin Chen,Meng Chang Chen,0.228865412626
-Pavel Berkhin,Jonathan D. Becher,0.228865412626
-Zhiqiang (Eric) Zheng,Balaji Padmanabhan,0.228865412626
-Philip S. Yu,Jiawei Zhang,0.228865412626
-Sally I. McClean,Bryan W. Scotney,0.228865412626
-Jonathan D. Becher,Pavel Berkhin,0.228865412626
-Eric P. Xing,Gunhee Kim,0.228865412626
-Hsun-Ping Hsieh,Yu Zheng,0.228865412626
-Jiawei Zhang,Philip S. Yu,0.228865412626
-Mark G. Kelly,Niall M. Adams,0.228865412626
-Xin Jin,Bamshad Mobasher,0.228865412626
-Steven Loscalzo,Chris H. Q. Ding,0.228865412626
-Niall M. Adams,Mark G. Kelly,0.228865412626
-Lei Yu,Chris H. Q. Ding,0.228865412626
-David J. Hand,Mark G. Kelly,0.228865412626
-Bamshad Mobasher,Yanzan Zhou,0.228865412626
-Huan Liu,Kah Kay Sung,0.228865412626
-Kah Kay Sung,Huan Liu,0.228865412626
-Werner Stuetzle,Jeremy Tantrum,0.228865412626
-Yanzan Zhou,Xin Jin,0.228865412626
-Tias Guns,Luc De Raedt,0.228865412626
-Kah Kay Sung,Nadeem Ahmed Syed,0.228865412626
-Alejandro Murua,Werner Stuetzle,0.228865412626
-Jeremy Tantrum,Alejandro Murua,0.228865412626
-Niall M. Adams,David J. Hand,0.228865412626
-Luc De Raedt,Tias Guns,0.228865412626
-Tias Guns,Siegfried Nijssen,0.228865412626
-Mark G. Kelly,David J. Hand,0.228865412626
-Siegfried Nijssen,Luc De Raedt,0.228865412626
-Lei Yu,Steven Loscalzo,0.228865412626
-Huan Liu,Nadeem Ahmed Syed,0.228865412626
-Xin Jin,Yanzan Zhou,0.228865412626
-Steven Loscalzo,Lei Yu,0.228865412626
-Yanzan Zhou,Bamshad Mobasher,0.228865412626
-Siegfried Nijssen,Tias Guns,0.228865412626
-Werner Stuetzle,Alejandro Murua,0.228865412626
-David J. Hand,Niall M. Adams,0.228865412626
-Chris H. Q. Ding,Lei Yu,0.228865412626
-Bamshad Mobasher,Xin Jin,0.228865412626
-Alejandro Murua,Jeremy Tantrum,0.228865412626
-Nadeem Ahmed Syed,Huan Liu,0.228865412626
-Jeremy Tantrum,Werner Stuetzle,0.228865412626
-Chris H. Q. Ding,Steven Loscalzo,0.228865412626
-Nadeem Ahmed Syed,Kah Kay Sung,0.228865412626
-Luc De Raedt,Siegfried Nijssen,0.228865412626
-Howard J. Hamilton,Nick Cercone,0.228865412626
-Nick Cercone,Ning Shan,0.228865412626
-Nick Cercone,Howard J. Hamilton,0.228865412626
-Ning Shan,Wojciech Ziarko,0.228865412626
-Nick Cercone,Wojciech Ziarko,0.228865412626
-Howard J. Hamilton,Ning Shan,0.228865412626
-Ning Shan,Howard J. Hamilton,0.228865412626
-Wojciech Ziarko,Ning Shan,0.228865412626
-Wojciech Ziarko,Howard J. Hamilton,0.228865412626
-Wojciech Ziarko,Nick Cercone,0.228865412626
-Ning Shan,Nick Cercone,0.228865412626
-Howard J. Hamilton,Wojciech Ziarko,0.228865412626
-Tok Wang Ling,Mong-Li Lee,0.228736166458
-Peng Cui,Meng Jiang,0.228659084517
-Jie Tang,Chenhao Tan,0.228647980076
-Meng Jiang,Peng Cui,0.228443328333
-Haixun Wang,Philip S. Yu,0.22841262339
-Wen Jin,Martin Ester,0.228298372657
-Ravi Kumar,Ramanathan V. Guha,0.228125091937
-Lidan Wang,Jiawei Han,0.227952815575
-David Jensen,Andrew S. Fast,0.227898395932
-David Jensen,Marc E. Maier,0.227898395932
-Sanjay Ranka,Christopher M. Jermaine,0.227639134798
-Yong Ge,Alexander Tuzhilin,0.227526394832
-Brian Frasca,Toby Walker,0.227514186305
-Brian Kulis,Inderjit S. Dhillon,0.227375706785
-Eric P. Xing,Xun Zheng,0.227246872999
-Naonori Ueda,Tomoharu Iwata,0.227196063612
-Arindam Banerjee,Inderjit S. Dhillon,0.227136167699
-Peter W. Li,Gy&ouml;rgy J. Simon,0.227093127882
-Andrew S. Fast,David Jensen,0.226919575523
+24.9751873127
+Yong Ge,Hui Xiong,1.0
+Wei Fan,Philip S. Yu,0.962827643407
+Bing Liu 0001,Tok Wang Ling,0.936929909956
+Hans-Peter Kriegel,Martin Ester,0.910904079123
+Shuiwang Ji,Jieping Ye,0.866102818572
+Jian Chen,Yong Ge,0.855894936683
+Mong-Li Lee,Wynne Hsu,0.831825593134
+Christos Faloutsos,Hanghang Tong,0.801884931829
+Bing Liu 0001,Wynne Hsu,0.795789827366
+Wei Fan,Jiawei Han,0.77473258671
+Yixin Chen,Wenlin Chen,0.738232701487
+Philip S. Yu,Jiawei Han,0.698136637669
+Hui Xiong,Yong Ge,0.684229802506
+Hanghang Tong,Lei Li,0.674437295666
+Junjie Wu,Jian Chen,0.668163156939
+Lei Yuan,Jieping Ye,0.643438949819
+Christos Faloutsos,Danai Koutra,0.624364815989
+Tao Li,Chao Shen,0.622793349006
+Jian Chen,Hui Xiong,0.622267955258
+Bo Zhao,Jiawei Han,0.61415564289
+Takanori Maehara,Ken-ichi Kawarabayashi,0.610606031061
+Hanghang Tong,Christos Faloutsos,0.608799162817
+Yuqiang Guan,Inderjit S. Dhillon,0.603456077535
+Yuqiang Guan,Brian Kulis,0.603456077535
+Jing Gao,Jiawei Han,0.603144127965
+Qiaozhu Mei,Xuehua Shen,0.591450113908
+Ricard Gavald&agrave;,Richard Kirkby,0.59058616119
+Jiawei Han,Philip S. Yu,0.583279461806
+Tao Li,Yanfang Ye,0.580576226255
+Lei Yuan,Shuiwang Ji,0.571181549407
+Christos Faloutsos,Leman Akoglu,0.566763066948
+Jian Pei,Daxin Jiang,0.565561323851
+Jiawei Han,Xiao Yu,0.55959816659
+Ching-Yung Lin,Hanghang Tong,0.549232916828
+Richard Kirkby,Ricard Gavald&agrave;,0.548043937714
+Jiawei Han,Chi Wang,0.548008089868
+Hanghang Tong,Leman Akoglu,0.544639491239
+Xifeng Yan,Shu Tao,0.538352596296
+Bernhard Pfahringer,Albert Bifet,0.531277296698
+Tok Wang Ling,Bing Liu 0001,0.52552158411
+Gustavo E. A. P. A. Batista,Bing Hu 0001,0.524930872919
+Pang-Ning Tan,Christopher Potter,0.520516616642
+Diane J. Cook,Lawrence B. Holder,0.510506681707
+Naoto Ohsaka,Takanori Maehara,0.510506681707
+Naoki Abe,Bianca Zadrozny,0.509434188678
+Francesco Gullo,Charalampos E. Tsourakakis,0.507646700296
+Wei Fan,Olivier Verscheure,0.505444391487
+Charalampos E. Tsourakakis,Aristides Gionis,0.500496746771
+D. R. Mani,James Drew,0.500496746771
+Einat Neumann,Yizhak Idan,0.497994263037
+Wenlin Chen,Yixin Chen,0.495491779303
+Tao Li,Liang Tang,0.493897279029
+Jian Pei,Murali Ramanathan,0.493823456814
+Hans-Peter Kriegel,Mihael Ankerst,0.485481844368
+Ricard Gavald&agrave;,Bernhard Pfahringer,0.482979360634
+Ian Davidson,Jieping Ye,0.482103596983
+Bernhard Pfahringer,Ricard Gavald&agrave;,0.481728118767
+Bing Liu 0001,Kaidi Zhao,0.4804768769
+Jing Gao,Philip S. Yu,0.477991200426
+Wei Fan,ErHeng Zhong,0.47761689549
+Mohammed Javeed Zaki,Christopher D. Carothers,0.475471909433
+Dennis Shasha,King-Ip Lin,0.475471909433
+Xuehua Shen,Qiaozhu Mei,0.474637748188
+Jing Gao,Bo Zhao,0.472640604452
+Jie Tang,Jimeng Sun,0.472150431022
+Tao Li,Wubai Zhou,0.467175722223
+Jun Liu,Jieping Ye,0.467038864974
+Yanfang Ye,Tao Li,0.46617696985
+Hans-Peter Kriegel,Christian Elsen,0.465461974497
+Quanquan Gu,Jiawei Han,0.462688427403
+D. R. Mani,Andrew Betz,0.460457007029
+Thomas Seidl 0001,Stephan G&uuml;nnemann,0.460457007029
+Yizhak Idan,Einat Neumann,0.457954523296
+Hong Cheng,Jiawei Han,0.456124644075
+Brian Frasca,Ya Xu,0.454165047927
+Aristides Gionis,Charalampos E. Tsourakakis,0.452949555828
+Xindong Wu,Wei Ding 0003,0.452449059081
+Philip S. Yu,Wei Fan,0.451982475766
+Yiping Ke,James Cheng,0.450447072094
+Weimin Xiao,Jeffrey Benkler,0.450447072094
+Henry Tirri,Petri Myllym&auml;ki,0.450447072094
+Bill Yuan-chi Chiu,Eamonn J. Keogh,0.448445085107
+Ricard Gavald&agrave;,Albert Bifet,0.44794458836
+Shuiwang Ji,Lei Yuan,0.444662861866
+Toby Walker,Ya Xu,0.442725122287
+Betul Ceran,Shuiwang Ji,0.441801505003
+Yanhong Guo,Wenjun Zhou,0.438149152031
+Shu Tao,Xifeng Yan,0.437720154819
+Wynne Hsu,Mong-Li Lee,0.435432169691
+Tok Wang Ling,Mong-Li Lee,0.435432169691
+Dafna Shahaf,Khalid El-Arini,0.435432169691
+Yong Ge,Jian Chen,0.432839686542
+Wei Fan,Jing Gao,0.432833618002
+Dafna Shahaf,Carlos Guestrin,0.43242918921
+Zoubin Ghahramani,Amar Shah,0.430427202223
+Salvatore J. Stolfo,Andreas L. Prodromidis,0.430427202223
+Stefan Kramer 0001,Junming Shao,0.430427202223
+Stefan Kramer 0001,Zahra Ahmadi,0.430427202223
+Charu C. Aggarwal,Philip S. Yu,0.428368160406
+Lei Tang,Jieping Ye,0.426712407014
+Jiawei Han,Dong Xin,0.426590060498
+Thomas Seidl 0001,Brigitte Boden,0.426423228249
+Corinna Cortes,Chris Volinsky,0.426423228249
+Sen Yang,Jieping Ye,0.426284975041
+Bing Duan,Jingxuan Li,0.42465223976
+Rinkal Patel,Zheng Zhao,0.423856742104
+Yixin Chen,Yujie He,0.423420247768
+Petri Myllym&auml;ki,Henry Tirri,0.420417267288
+Surnjani Djoko,Diane J. Cook,0.420417267288
+Inderjit S. Dhillon,Brian Kulis,0.420417267288
+Bo-Yu Chu,Chih-Jen Lin,0.417271287737
+Yizhou Sun,Jiawei Han,0.416974524182
+U. Kang,Jimeng Sun,0.415801270976
+Jon M. Kleinberg,Johan Ugander,0.41541229982
+Takanori Maehara,Naoto Ohsaka,0.41541229982
+Bernhard Pfahringer,Geoff Holmes,0.41541229982
+Tina Eliassi-Rad,Leman Akoglu,0.415273489888
+Chi Wang,Jiawei Han,0.412932983079
+Bing Duan,Liang Tang,0.412173058464
+Cheng-Hao Tsai,Chia-Hua Ho,0.411980322128
+Chieh-Yen Lin,Chia-Hua Ho,0.411980322128
+Qiaozhu Mei,ChengXiang Zhai,0.410198792041
+Yasushi Sakurai,Tomoharu Iwata,0.409692337
+Roger Longbotham,Ya Xu,0.409263339788
+Yangqiu Song,Shixia Liu,0.408262346295
+Mihael Ankerst,Martin Ester,0.407904848618
+Charalampos E. Tsourakakis,Francesco Gullo,0.407904848618
+Maria A. Tsiarli,Francesco Bonchi,0.407547350942
+Xiangnan Kong,Wei Fan,0.407239631423
+Kaustav Das,Daniel B. Neill,0.405402364885
+Foster J. Provost,Troy Raeder,0.405402364885
+Qiang Yang 0001,Wei Fan,0.403616176495
+Hanghang Tong,Tina Eliassi-Rad,0.403485339463
+Chuanren Liu,Hui Xiong,0.402185885792
+Tom Khabaza,Gregory Piatetsky-Shapiro,0.400397397417
+Xifeng Yan,Jiawei Han,0.398627313654
+Diane J. Cook,Surnjani Djoko,0.397894913683
+Mihael Ankerst,Hans-Peter Kriegel,0.397894913683
+Geoffrey Holmes,Albert Bifet,0.397894913683
+Xiong Wang,Bruce A. Shapiro,0.396464922978
+Jie Tang,Hanghang Tong,0.395929246635
+Yong Ge,Zijun Yao,0.394769433999
+Bilson J. L. Campana,Jesin Zakaria,0.393904956847
+Dawei Wang,Xindong Wu,0.393390442962
+Lei Yuan,Jun Liu,0.392848815128
+Nish Parikh,Hill Nguyen,0.390387462481
+Jeffrey Benkler,Weimin Xiao,0.390387462481
+Fabian M. Suchanek,Gerhard Weikum,0.390387462481
+Dawei Wang,David L. Small,0.390387462481
+Wilfred Ng,Yiping Ke,0.390387462481
+Tao Li,Wei Peng,0.390387462481
+Bing Duan,Chunqiu Zeng,0.389617467486
+Abdullah Mueen,Eamonn J. Keogh,0.388867801351
+Chunqiu Zeng,Jingxuan Li,0.387884978748
+Eric P. Xing,Jin Kyu Kim,0.387634730374
+Yizhak Idan,Saharon Rosset,0.386633736881
+Einat Neumann,Saharon Rosset,0.386633736881
+Christos Faloutsos,Lei Li,0.38570245293
+Yasushi Sakurai,B. Aditya Prakash,0.385382495014
+Nathan Self,Naren Ramakrishnan,0.384807514159
+Albert Bifet,Bernhard Pfahringer,0.38438150152
+Ankit Agrawal,Kunpeng Zhang,0.383952504309
+Christos Faloutsos,Jimeng Sun,0.381270758582
+Ron Kohavi,Alex Deng,0.380949523828
+Danai Koutra,Christos Faloutsos,0.380457692258
+Brian Kulis,Inderjit S. Dhillon,0.380377527546
+S. V. N. Vishwanathan,Alexander J. Smola,0.380377527546
+Chris Volinsky,Yehuda Koren,0.380377527546
+Qiang Fu,Jian-Guang Lou,0.380377527546
+Huan Liu,Pritam Gundecha,0.380377527546
+Qi He,Pannagadatta Shivaswamy,0.380025196503
+Hong Cheng,Xifeng Yan,0.378382464828
+Huayu Wu,Wee Siong Ng,0.378084042454
+Shuiwang Ji,Jun Liu,0.378004170147
+Albert Bifet,Geoffrey Holmes,0.377875043812
+Yasuhiro Fujiwara,Hiroaki Shiokawa,0.377374547065
+Junjie Wu,Hui Xiong,0.377192548248
+Christos Faloutsos,Brian Gallagher,0.376778341533
+Wubai Zhou,Tao Li,0.376335053822
+Cho-Jui Hsieh,Chih-Jen Lin,0.375372560078
+Richard F. Helm,Naren Ramakrishnan,0.373332207487
+Tao Li,Qingshan Jiang,0.371797583316
+Daxin Jiang,Jian Pei,0.371654584245
+Bruce A. Shapiro,Xiong Wang,0.371297086569
+Haixun Wang,Philip S. Yu,0.370882922245
+Jon M. Kleinberg,Lars Backstrom,0.370367592611
+Geoffrey Barbier,Huan Liu,0.370367592611
+Robert M. Bell,Chris Volinsky,0.370367592611
+Zijun Yao,Yong Ge,0.368684103553
+Hwanjo Yu,Jinoh Oh,0.367865108877
+Sudhir Kumar,Jieping Ye,0.367565894106
+J&ouml;rg Sander,Arthur Zimek,0.367353612202
+Pannagadatta Shivaswamy,Qi He,0.365408124847
+Ran Wolff,Assaf Schuster,0.365362625143
+Pang-Ning Tan,Vipin Kumar,0.365362625143
+Rong Ge,Wen Jin,0.365362625143
+Eamonn J. Keogh,Jesin Zakaria,0.36446204479
+Qiaozhu Mei,Bo Zhao,0.363628180116
+Huan Liu,Zheng Zhao,0.363135412933
+Tao Li,Bing Duan,0.362071405401
+Wei Fan,Kun Zhang,0.360562398714
+Shamanth Kumar,Fred Morstatter,0.360357657675
+Xiuyao Song,Mingxi Wu,0.360357657675
+James Drew,D. R. Mani,0.360357657675
+Bianca Zadrozny,Naoki Abe,0.360357657675
+Grant Marshall,Ullas Nambiar,0.360357657675
+Usama M. Fayyad,Paul S. Bradley,0.360357657675
+Wei Peng,Tao Li,0.360357657675
+Yizhak Idan,Nurit Vatnik,0.359106415808
+Einat Neumann,Nurit Vatnik,0.359106415808
+Jing Zhang,Bai Wang,0.35892766697
+Cheng-Hao Tsai,Chieh-Yen Lin,0.358212671618
+Sugato Basu,Raymond J. Mooney,0.357855173941
+Christian Elsen,Martin Ester,0.357855173941
+Jesin Zakaria,Bilson J. L. Campana,0.357831020475
+Jiawei Han,Qiaozhu Mei,0.357354677195
+Abdullah Mueen,Jesin Zakaria,0.35660032632
+B. Aditya Prakash,Lei Li,0.356558305676
+Steve A. Chien,Rebecca Casta&ntilde;o,0.355686354705
+Sam Skrivan,Adam Yeh,0.355352690208
+Grant Marshall,Fred Morstatter,0.355352690208
+Zoubin Ghahramani,Tomoharu Iwata,0.355352690208
+Chao Shen,Tao Li,0.354284899276
+Brian Frasca,Alex Deng,0.354208697643
+Kewei Chen,Jieping Ye,0.353943589873
+Stefano Lonardi,Eamonn J. Keogh,0.35335070322
+Ying Cui,Jianchang Mao,0.35335070322
+Bo-Yu Chu,Chia-Hua Ho,0.35335070322
+Qiaozhu Mei,Jiawei Han,0.352508471172
+Julien Etienne,Dmitriy Fradkin,0.352349709727
+Jian Chen,Junjie Wu,0.35216771091
+Chieh-Yen Lin,Chih-Jen Lin,0.351491715304
+Cheng-Hao Tsai,Chih-Jen Lin,0.351491715304
+Bill Yuan-chi Chiu,Stefano Lonardi,0.351348716233
+Murali Ramanathan,Jian Pei,0.35034772274
+Tom Brijs,Bart Goethals,0.35034772274
+Jiawei Han,Ming Zhang,0.349513561495
+Fred Morstatter,Grant Marshall,0.347845239006
+Ya Xu,Toby Walker,0.347344742259
+Huayu Wu,Mingqiang Xue,0.346382248515
+Qiang Yang 0001,ErHeng Zhong,0.346298249061
+Xiaoxin Yin,Philip S. Yu,0.34536720479
+Boleslaw K. Szymanski,Karlton Sequeira,0.345342755272
+Wei Wu,Mingqiang Xue,0.344726759276
+Kewei Chen,Jing Li,0.344633509882
+Jing Yuan,Sanjay Chawla,0.344341761779
+Jiawei Han,Yizhou Sun,0.344231574806
+Naren Ramakrishnan,Richard F. Helm,0.342840271538
+Mingxi Wu,Xiuyao Song,0.342840271538
+Guimei Liu,Haojun Zhang,0.342339774791
+Bing Hu 0001,Gustavo E. A. P. A. Batista,0.342125276186
+Qi Li,Jieping Ye,0.341926250544
+Chris Volinsky,Corinna Cortes,0.340337787804
+Brigitte Boden,Thomas Seidl 0001,0.340337787804
+Yujie He,Yixin Chen,0.340337787804
+Haixun Wang,Jiawei Han,0.340192628549
+B. Aditya Prakash,Leman Akoglu,0.339850233529
+Peter Wonka,Jieping Ye,0.338426170965
+Stefan Savage,Justin Ma,0.337835304071
+Lei Tang,Zohreh Nazeri,0.337835304071
+Dennis Shasha,Bruce A. Shapiro,0.336762811042
+Keith Henderson,Leman Akoglu,0.336567269241
+Chao Shen,Yexi Jiang,0.336362856195
+Christos Faloutsos,Eric P. Xing,0.335332820337
+Carlos Castillo,Aristides Gionis,0.335332820337
+B. Aditya Prakash,Christos Faloutsos,0.335023962616
+Ian Davidson,Zheng Wang,0.33472245845
+Ron Kohavi,Brian Frasca,0.332901836138
+Bettina Konte,Christian B&ouml;hm,0.332830336603
+Shuiwang Ji,Peter Wonka,0.331623209637
+Jiawei Han,Rui Li,0.331495678611
+Lei Li,Hanghang Tong,0.331237846954
+Lei Yuan,Yalin Wang,0.330635428531
+Wei Vivian Zhang,Chun Chen,0.330327852869
+Shin Matsushima,S. V. N. Vishwanathan,0.330327852869
+Naoki Abe,Hongfei Li,0.330327852869
+Prithviraj Sen,Sahely Bhadra,0.330327852869
+Johan Ugander,Jon M. Kleinberg,0.330327852869
+Hill Nguyen,Nish Parikh,0.330327852869
+Sridhar Ramaswamy,Tom Khabaza,0.330327852869
+Koen Vanhoof,Gilbert Swinnen,0.330327852869
+Tomi Silander,Petri Kontkanen,0.330327852869
+Francesco Gullo,Francesco Bonchi,0.330327852869
+Yiping Ke,Linhong Zhu,0.330327852869
+Brian Frasca,Toby Walker,0.329898855657
+Yutao Zhang,Debing Liu,0.329690857009
+Alex Deng,Ya Xu,0.329469858446
+Ron Kohavi,Ya Xu,0.329469858446
+Deepak Agarwal,Jaewon Yang,0.329326859375
+Alexander Tuzhilin,Hui Xiong,0.32915236051
+Michael W. Mahoney,Boulos Harb,0.328897862164
+Jason Tsong-Li Wang,Kaizhong Zhang,0.328754863093
+Jing Li,Rinkal Patel,0.328083004488
+Jiawei Han,ChengXiang Zhai,0.328063700919
+Sen Yang,Peter Wonka,0.327932618438
+Shuiwang Ji,Qi Li,0.327920214871
+Chunqiu Zeng,Bing Duan,0.327825369135
+Xifeng Yan,Hong Cheng,0.327825369135
+Lei Li,Leman Akoglu,0.327742863185
+Jing Gao,Wei Fan,0.327692165673
+Dong Xin,Jiawei Han,0.327616828824
+Bing Liu 0001,Riddhiman Ghosh,0.327324872388
+Bo Zhao,Jing Gao,0.325925850759
+Michael Steinbach,Vipin Kumar,0.325322885401
+Defu Lian,Cong Zhao,0.325322885401
+Prithviraj Sen,Rajeev Rastogi,0.325322885401
+Ran Wolff,Noam Palatin,0.325322885401
+Chris Volinsky,Robert M. Bell,0.325322885401
+Jin Kyu Kim,Eric P. Xing,0.325322885401
+Huayu Wu,Kian-Lee Tan,0.325234885973
+Yintao Yu,Bo Zhao,0.325086163967
+Varun Bhagwan,Doug Sharp,0.324536390513
+Tao Li,Ming Lei,0.324534149393
+Jimeng Sun,U. Kang,0.324071643534
+Arthur Zimek,Hans-Peter Kriegel,0.323216399093
+Yexi Jiang,Chao Shen,0.322858901417
+Troy Raeder,Foster J. Provost,0.322820401667
+Zhilin Yang,Yutao Zhang,0.322818222687
+Wubai Zhou,Ming Lei,0.32243540417
+Jian Chen,Chuanren Liu,0.322319904921
+Nils Pohlmann,Alex Deng,0.321747908639
+Chia-Hua Ho,Chih-Jen Lin,0.321747908639
+Naonori Ueda,Tomoharu Iwata,0.321747908639
+Chao Shen,Liang Tang,0.321142075697
+Lei Tang,Huan Liu,0.320423893957
+Julien Etienne,Bernd Wachmann,0.320317917934
+Gerhard Weikum,Georgiana Ifrim,0.320317917934
+Chris Volinsky,William DuMouchel,0.320317917934
+Andrew Betz,D. R. Mani,0.320317917934
+Kenneth W. Ng,Edmond Mesrobian,0.320317917934
+D. R. Mani,Piew Datta,0.320317917934
+Wenjun Zhou,Yanhong Guo,0.320317917934
+Jiang Li,Bin Wu,0.320317917934
+Hwanjo Yu,Jinha Kim,0.320317917934
+Dawei Wang,Shafiqul Islam,0.320317917934
+Mohammed Javeed Zaki,Karlton Sequeira,0.320317917934
+Nish Parikh,Neel Sundaresan,0.320317917934
+Jun Huan,Hongliang Fei,0.320317917934
+Eamonn J. Keogh,Bing Hu 0001,0.320079586149
+Dennis Shasha,Sitaram Dikshitulu,0.319066676067
+Christos Faloutsos,Julio L&oacute;pez,0.319066676067
+Jian Chen,Alexander Tuzhilin,0.31867992858
+Wubai Zhou,Chao Shen,0.318623928944
+Jesin Zakaria,Eamonn J. Keogh,0.318289610828
+Kewei Chen,Rinkal Patel,0.317237187958
+Jiawei Han,Wei Fan,0.316425609335
+Padhraic Smyth,Arthur U. Asuncion,0.316313943959
+Tao Li,Li Zheng,0.316025704698
+Jia-Yu Pan,Christos Faloutsos,0.315670448142
+John D. Lafferty,Ramesh Nallapati,0.315312950466
+Peng Wang,Xingquan Zhu,0.315312950466
+Carlos Castillo,Luca Becchetti,0.315312950466
+Kin Ung,Susan Ditmore,0.315312950466
+Luh Yen,Amin Mantrach,0.315312950466
+Zhongfei Zhang,Zhen Guo,0.315312950466
+Masashi Shimbo,Marco Saerens,0.315312950466
+Khalid El-Arini,Dafna Shahaf,0.315312950466
+Louise E. Moser,Ziyu Guan,0.315128944309
+Wei Ding 0003,Xindong Wu,0.313310963479
+Eric P. Xing,Christos Faloutsos,0.312810466732
+Fred Morstatter,Shamanth Kumar,0.312810466732
+Roger Longbotham,Alex Deng,0.312309969985
+Tie-Yan Liu,Ying Zhang,0.312309969985
+Jing Zhang,Jie Tang,0.312095471379
+Cindy Xide Lin,Jiawei Han,0.311981273051
+Padhraic Smyth,David Newman,0.311880972774
+Arthur Zimek,Matthias Renz,0.311765473524
+Koji Maruhashi,Leman Akoglu,0.311033103767
+Chuanren Liu,Wei Geng,0.310671980632
+Lidan Wang,Jiawei Han,0.31034421804
+Jun Huan,Ruoyi Jiang,0.310307982998
+Xiting Wang,Baining Guo,0.310307982998
+Michal Rosen-Zvi,Naama Friedmann,0.310307982998
+Cezar Pendus,Naoki Abe,0.310307982998
+Philip S. Yu,Ke Wang,0.310091648057
+Honglei Zhuang,Yang Yang,0.309381778492
+Jiawei Han,Xifeng Yan,0.30938048951
+Einat Neumann,Uri Eick,0.309056741131
+Yizhak Idan,Uri Eick,0.309056741131
+Ravi Kumar,Vahab S. Mirrokni,0.308877992293
+Daniel P. Huttenlocher,Ashton Anderson,0.308877992293
+Jiawei Han,Bo Zhao,0.308746977793
+Albert Bifet,Geoff Holmes,0.308556244384
+Agma J. M. Traina,Eric P. Xing,0.307805499264
+Mihael Ankerst,Christian Elsen,0.307805499264
+Gustavo E. A. P. A. Batista,Eamonn J. Keogh,0.30757228575
+Jesin Zakaria,Bing Hu 0001,0.30756468054
+Hanghang Tong,Ching-Yung Lin,0.306890715737
+Qiang Fu,Jiang Li,0.306554257397
+Dong Xin,ChengXiang Zhai,0.306375508559
+Gene E. Alexander,Rinkal Patel,0.306279464087
+Alexander Tuzhilin,Yong Ge,0.305959511263
+Daniel P. Huttenlocher,Jon M. Kleinberg,0.30530301553
+Leman Akoglu,Tina Eliassi-Rad,0.30449271645
+Abdullah Mueen,Thanawin Rakthanmanon,0.304237543658
+Philip S. Yu,Jiong Yang,0.303084693602
+Bo Zhao,Fangbo Tao,0.302613751189
+Jun Liu,Shuiwang Ji,0.302293175601
+Fangbo Tao,Jiawei Han,0.302033861876
+Eric P. Xing,Amr Ahmed,0.301299041556
+Shuiwang Ji,Sen Yang,0.301179388687
+Jing Li,Kewei Chen,0.301125056058
+Ming Lei,Chao Shen,0.301106542807
+Qi Liu,Hui Xiong,0.300760545056
+Yintao Yu,Jiawei Han,0.300496742258
+Andrew Betz,Piew Datta,0.300298048063
+Vikram Tankasali,Ryen W. White,0.300298048063
+Wei Su,Meng Hu,0.300298048063
+Chidanand Apt&eacute;,Vijay S. Iyengar,0.300298048063
+Keiko Shimazu,Koichi Furukawa,0.300298048063
+Jinha Kim,Hwanjo Yu,0.300298048063
+Geoff Outhred,Bolin Ding,0.300298048063
+Hao Wang,Dit-Yan Yeung,0.300298048063
+Koichi Furukawa,Keiko Shimazu,0.300298048063
+Kazuo Machida,Ryohei Fujimaki,0.300298048063
+Riadh Ben Messaoud,Sabine Loudcher Rabas&eacute;da,0.300298048063
+Il-Yeol Song,Xiaohua Hu,0.300298048063
+Yair Lakretz,Gal Chechik,0.300298048063
+Louis Licamele,Lise Getoor,0.300298048063
+Shumo Chu,James Cheng,0.300298048063
+Sven Schmit,Carlos Riquelme,0.300298048063
+Peter Andreae,Xiaoying Gao,0.300298048063
+Corinna Cortes,Daryl Pregibon,0.300298048063
+C. Lee Giles,Carl Lagoze,0.300298048063
+Rares Vernica,Arnd Christian K&ouml;nig,0.300298048063
+Ming-Syan Chen,Mi-Yen Yeh,0.300298048063
+Ya Xu,Alex Deng,0.300298048063
+Arie Gurfinkel,Sagar Chaki,0.300298048063
+Saharon Rosset,Nurit Vatnik,0.300298048063
+Alicia Ageno,Jordi Turmo,0.300298048063
+Jure Leskovec,Julian J. McAuley,0.300298048063
+Vinay Shashidhar,Varun Aggarwal,0.300298048063
+A. J. Feelders,J. W. van't Zand,0.300298048063
+Paul S. Bradley,Usama M. Fayyad,0.300298048063
+Andrew W. Moore 0001,Jeff G. Schneider,0.300298048063
+Jure Leskovec,Seth A. Myers,0.300298048063
+Jussi Lahtinen,Petri Kontkanen,0.300298048063
+Seth A. Myers,Jure Leskovec,0.300298048063
+Rinkal Patel,Gene E. Alexander,0.299876975461
+Arthur Zimek,Christian B&ouml;hm,0.298868057358
+Zheng Zhao,Rinkal Patel,0.298373977236
+Jieping Ye,Shuiwang Ji,0.298296061076
+Bing Duan,Ming Lei,0.297410566831
+Lei Yuan,Peter Wonka,0.296199691298
+Xifeng Yan,Nikos Anerousis,0.296008075948
+Yanfang Ye,Li Wan,0.296008075948
+Dennis Shasha,Kaizhong Zhang,0.295865076877
+Liang Zhao,Achla Marathe,0.295506039179
+Zohreh Nazeri,Lei Tang,0.295293080595
+Brian Karrer,Lars Backstrom,0.295293080595
+Mohammad Taha Bahadori,Yan Liu 0002,0.295293080595
+Christos Faloutsos,Tina Eliassi-Rad,0.295111324381
+Ya Xu,Roger Longbotham,0.294292087101
+Jing Li,Jieping Ye,0.294133575343
+Dan Roth,Jiawei Han,0.293750608914
+Keli Xiao,Hui Xiong,0.293402592883
+Haojun Zhang,Guimei Liu,0.292790596861
+Wang-Chien Lee,Chih-Ya Shen,0.292790596861
+Betul Ceran,Jianhui Chen,0.292653474465
+Hanghang Tong,Jimeng Sun,0.292601641949
+Dan Roth,Chengxiang Zhai,0.291858758656
+Danai Koutra,Leman Akoglu,0.291600845902
+Dennis Shasha,Chia-Yo Chang,0.291539354994
+Ya Xu,Brian Frasca,0.291289106621
+Zhilin Yang,Jie Tang,0.291126083024
+Tom Chiu,Yao Wang,0.290288113127
+John Chen,Christopher Jeris,0.290288113127
+Christopher DuBois,Levi Boyles,0.290288113127
+Zhiwei Li,Naiyao Zhang,0.290288113127
+Weimin Xiao,Kaidi Zhao,0.290288113127
+Huan Liu,Geoffrey Barbier,0.290288113127
+Varun R. Embar,Roman Vacul&iacute;n,0.290288113127
+Roger Longbotham,Brian Frasca,0.290288113127
+Yusheng Xie,Kunpeng Zhang,0.290288113127
+Takeshi Yamada,Tomoharu Iwata,0.290288113127
+Tianbao Yang,Shenghuo Zhu,0.289487318332
+Dennis Shasha,Jason Tsong-Li Wang,0.289215620098
+Wei Fan,Hanghang Tong,0.288806887077
+Yu Zheng,Jingbo Shang,0.287785629393
+Kian-Lee Tan,Huayu Wu,0.287692130001
+Rong Jin,Jun Wang,0.287285132647
+Shuiwang Ji,Betul Ceran,0.287194863148
+Kenneth W. Ng,Hisashi Nakamura,0.286951468149
+Michail Vlachos,Dimitrios Gunopulos,0.286948759833
+Vladan Radosavljevic,Varun Bhagwan,0.28692763497
+Bo Zhao,Qi Li,0.2868007808
+Saharon Rosset,Claudia Perlich,0.286713136365
+Kaizhong Zhang,Jason Tsong-Li Wang,0.286713136365
+Kian-Lee Tan,Mingqiang Xue,0.286691136508
+Liang Zhao,Ilya Zavorin,0.286354098666
+Bill Yuan-chi Chiu,Victor B. Zordan,0.286284139153
+Nikos Anerousis,Shu Tao,0.286085412504
+Marina Danilevsky,Jiawei Han,0.285639177567
+Shafiqul Islam,Jian Pei,0.28528314566
+Gerhard Weikum,Fabian M. Suchanek,0.28528314566
+Christopher Potter,Pang-Ning Tan,0.28528314566
+Justin Ma,Stefan Savage,0.28528314566
+Stefan Savage,Geoffrey M. Voelker,0.28528314566
+Daniel B. Neill,Kaustav Das,0.28528314566
+Jianyong Wang,Lizhu Zhou,0.28528314566
+Fred Morstatter,Huan Liu,0.28528314566
+Khalid El-Arini,Carlos Guestrin,0.28528314566
+Andreas Z&uuml;fle,Nikos Mamoulis,0.28528314566
+Kaustav Das,Jeff G. Schneider,0.28528314566
+Khalid El-Arini,Gaurav Veda,0.28528314566
+Danai Koutra,Brian Gallagher,0.2851297917
+Louise E. Moser,Nikos Anerousis,0.284846788202
+Eric Reiman,Gene E. Alexander,0.28468406622
+Peng Wu,Hui Xiong,0.284600650096
+ErHeng Zhong,Wei Fan,0.284282152166
+Takeshi Tokuyama,Takeshi Fukuda,0.282780661926
+Olivier Verscheure,Philip S. Yu,0.282578709813
+Guiquan Liu,Enhong Chen,0.282280165179
+Steven Luis,Vagelis Hristidis,0.282280165179
+Jian-Guang Lou,Qiang Fu,0.282280165179
+Stefano Lonardi,Bill Yuan-chi Chiu,0.282280165179
+Vladan Radosavljevic,Mihajlo Grbovic,0.282280165179
+Bing Liu 0001,Junhui Wang,0.282280165179
+Sumanth Kolar,Ajit Singh,0.282072166531
+Hanghang Tong,Spiros Papadimitriou,0.282052666658
+Jialu Liu,Jiawei Han,0.281712417951
+Yanping Chen 0005,Bing Hu 0001,0.281708168897
+Liang Zhao,Naren Ramakrishnan,0.281432085221
+Doug Sharp,Varun Bhagwan,0.280278178192
+Ming Hua,Ada Wai-Chee Fu,0.280278178192
+Bo Zhang 0002,Jian Pei,0.280278178192
+Mohammed Javeed Zaki,Gao Cong,0.280278178192
+Christos Faloutsos,Yasuko Matsubara,0.280278178192
+Michael Zhu,Pan Chao,0.280278178192
+Ruihua Song,Di Wu,0.280278178192
+Byron J. Gao,Xingquan Zhu,0.280278178192
+Bolin Ding,Geoff Outhred,0.280278178192
+Zengjian Hu,Rong Ge,0.280278178192
+Yair Lakretz,Michal Rosen-Zvi,0.280278178192
+Murali Ramanathan,Chun Tang,0.280278178192
+Peng Wang,Jun Li 0016,0.280278178192
+Ming-Syan Chen,Shou-De Lin,0.280278178192
+Kristin P. Bennett,Tong Zhang 0001,0.280278178192
+Fosca Giannotti,Mirco Nanni,0.280278178192
+E. Daniel Hirleman,Arun K. Bhunia,0.280278178192
+Michal Rosen-Zvi,Yair Lakretz,0.280278178192
+Shota Okumura,Ichiro Takeuchi,0.280278178192
+Xiaodong Lin,Young Truong,0.280278178192
+Naama Friedmann,Michal Rosen-Zvi,0.280278178192
+Yair Lakretz,Naama Friedmann,0.280278178192
+Charu C. Aggarwal,Ramesh C. Agarwal,0.280278178192
+Varun Aggarwal,Vinay Shashidhar,0.280278178192
+Robin Devooght,Amin Mantrach,0.280278178192
+Timm Euler,Ingo Mierswa,0.280278178192
+Bruno Pradel,Savaneary Sean,0.280278178192
+Vibhor Rastogi,Kedar Bellare,0.280278178192
+Yasushi Sakurai,Yasuko Matsubara,0.280278178192
+Xiting Wang,Yangqiu Song,0.280278178192
+Jingbo Shang,Yu Zheng,0.280278178192
+Yi Zhang,Chun Hung Cheng,0.280278178192
+Ingo Mierswa,Timm Euler,0.280278178192
+Jianlin Feng,Wilfred Ng,0.280278178192
+Anthony Fader,Oren Etzioni,0.280278178192
+J. W. van't Zand,A. J. Feelders,0.280278178192
+William W. Cohen,Robert F. Murphy,0.280278178192
+Richard Cole 0001,Dennis Shasha,0.280278178192
+Mohammed Javeed Zaki,Jiong Yang,0.280278178192
+Uri Eick,Nurit Vatnik,0.280278178192
+Johannes Gehrke,Alan J. Demers,0.280278178192
+Xindong Wu,Dawei Wang,0.280278178192
+Jennifer G. Dy,Glenn Fung,0.280278178192
+Arun K. Bhunia,E. Daniel Hirleman,0.280278178192
+Ryohei Fujimaki,Satoshi Morinaga,0.280278178192
+Shanfeng Zhu,Xiaodong Zheng,0.280278178192
+Hiroshi Mamitsuka,Ichigaku Takigawa,0.280278178192
+Roman Vacul&iacute;n,Varun R. Embar,0.280278178192
+Xiang Ren,Jiawei Han,0.279052421437
+Hui Xiong,Chunyu Luo,0.278991186557
+Matt Perkins,Yong Ge,0.278965186726
+Arthur Zimek,Peer Kr&ouml;ger,0.278848187487
+Philip S. Yu,Jing Gao,0.278810601384
+Fangbo Tao,Bo Zhao,0.278795795155
+Robert Chen,Yichen Wang,0.278738188202
+Shuiwang Ji,Jianhui Chen,0.277870540194
+Christian Elsen,Hans-Peter Kriegel,0.277775694458
+Foster J. Provost,Rod Hook,0.277775694458
+Dhiman Barman,Flip Korn,0.277775694458
+Mingqiang Xue,Huayu Wu,0.277775694458
+Liang Sun,Jieping Ye,0.277673058697
+Ming Lei,Wei Xue,0.277005699463
+Matthias Renz,Florian Verhein,0.276799450804
+H. Brendan McMahan,David Sculley,0.276703201429
+Wenjun Zhou,Hui Xiong,0.276620701965
+B. Aditya Prakash,Tina Eliassi-Rad,0.276448087262
+Holger Hoffmann,Stephan G&uuml;nnemann,0.276274204218
+Charles B. Morrey III,Alistair C. Veitch,0.275273210724
+Steven A. Klooster,Vipin Kumar,0.275273210724
+Ning Zhong,Setsuo Ohsuga,0.275273210724
+Ashton Anderson,Daniel P. Huttenlocher,0.275273210724
+Kewei Chen,Jun Liu,0.275175294694
+Martin Ester,Hans-Peter Kriegel,0.275119211725
+Yang Yang,Honglei Zhuang,0.275108711793
+Lu Su,Jiawei Han,0.275018459457
+Leman Akoglu,Lei Li,0.274820061496
+Yijun Lu,Jenny Chiang,0.274310378273
+W. Scott Spangler,Ana Lelescu,0.272998492315
+Jingxuan Li,Chunqiu Zeng,0.27277072699
+David Lo,Hong Cheng,0.27277072699
+Wei Lu,Stratis Ioannidis,0.27277072699
+Tom Khabaza,Sridhar Ramaswamy,0.27277072699
+Xiao He,Jing Feng,0.27277072699
+Alexander Tuzhilin,Jian Chen,0.272660227709
+Yang Yang,Jie Tang,0.272476025255
+Sui Huang,Yi Zhu,0.272413229314
+B. Aditya Prakash,Yasushi Sakurai,0.272209969766
+Nils Pohlmann,Ya Xu,0.272127231173
+Tao Li,Jingxuan Li,0.271981990982
+Ian Porteous,David Newman,0.271769733497
+Naonori Ueda,Kazumi Saito,0.271698233961
+Bing Duan,Tao Li,0.271230737
+Yanping Chen 0005,Jesin Zakaria,0.271088153157
+Yanjie Fu,Hui Xiong,0.270911739074
+Shuiwang Ji,Rongjian Li,0.270363088993
+B. Petzsche,Edgar Hotz,0.270268243256
+Noam Palatin,Arie Leizarowitz,0.270268243256
+Jimeng Sun,Hanghang Tong,0.270268243256
+Murali Ramanathan,Aidong Zhang,0.270268243256
+Kotagiri Ramamohanarao,Wei Liu,0.270268243256
+Hiroshi Nakagawa,Issei Sato,0.270268243256
+Markus Ojala,Sami Hanhij&auml;rvi,0.270268243256
+Naama Friedmann,Yair Lakretz,0.270268243256
+Petri Myllym&auml;ki,Petri Kontkanen,0.270268243256
+Shanfeng Zhu,Hao Ding,0.270268243256
+Wei Fan,Ping Ji,0.270268243256
+Henry Tirri,Petri Kontkanen,0.270268243256
+Jonathan Tang,Youxuan Jin,0.270268243256
+Matthias Renz,Andreas Z&uuml;fle,0.270006994955
+Jieping Ye,Qian Sun,0.269584414368
+Yanping Chen 0005,Eamonn J. Keogh,0.269553247904
+Xiang Ren,Xiao Yu,0.269517134967
+Sen Yang,Shuiwang Ji,0.269491498305
+Tao Li,Lei Li,0.269373018579
+Mingqiang Xue,Wee Siong Ng,0.269052751157
+Hui Xiong,Wenjun Zhou,0.268266256269
+Chuanren Liu,Yong Ge,0.268136257114
+Xifeng Yan,Philip S. Yu,0.267782203895
+Yalin Wang,Lei Yuan,0.267765759523
+Takeshi Fukuda,Takeshi Tokuyama,0.267765759523
+Yin Lou,Rich Caruana,0.267765759523
+Bruce A. Shapiro,Jason Tsong-Li Wang,0.267765759523
+Varun Bhagwan,Vladan Radosavljevic,0.267479761382
+Carlos Castillo,Bruno Gon&ccedil;alves,0.267408261846
+Ming Lei,Wubai Zhou,0.267380762025
+Liang Zhao,Chris J. Kuhlman,0.267207876963
+Hanghang Tong,Brian Gallagher,0.266993226661
+Mirco Nanni,Fosca Giannotti,0.266931598278
+Jun Liu,Kewei Chen,0.26632715938
+Stefano Lonardi,Chotirat (Ann) Ratanamahatana,0.266264269282
+Stefano Lonardi,Jessica Lin 0001,0.266264269282
+Yuming Ou,Longbing Cao,0.266264269282
+Jimeng Sun,Yichen Wang,0.266253269354
+Jianhui Chen,Jieping Ye,0.265963611521
+Kian-Lee Tan,Wee Siong Ng,0.265670273143
+Walker M. White,Johannes Gehrke,0.265263275789
+Salvatore J. Stolfo,Philip K. Chan,0.265263275789
+Hiroaki Shiokawa,Makoto Nakatsuji,0.265263275789
+Maria A. Tsiarli,Aristides Gionis,0.265263275789
+Yasuhiro Fujiwara,Makoto Nakatsuji,0.265263275789
+Cristian Bucila,Daniel Kifer,0.265263275789
+Richard F. Helm,Malcolm Potts,0.265263275789
+J. Paul Robinson,E. Daniel Hirleman,0.265263275789
+Ying Zhang,Tie-Yan Liu,0.265263275789
+Keli Xiao,Yong Ge,0.264990277563
+Kewei Chen,Eric Reiman,0.264953027805
+Yang Yang,Yutao Zhang,0.264527113907
+Gustavo E. A. P. A. Batista,Jesin Zakaria,0.264200466593
+Bernhard Pfahringer,Jesse Read,0.264012033922
+Bernhard Pfahringer,Gianmarco De Francisci Morales,0.264012033922
+Liang Zhang,Pannagadatta Shivaswamy,0.263922201172
+Bianca Zadrozny,Alina Beygelzimer,0.263833285084
+Yichen Wang,Robert Chen,0.263723285799
+Benjamin J. Bachman,Griff Weber,0.263574757424
+Ke Wang,Jiawei Han,0.26304495386
+Wei Fan,Bo Zhao,0.262870821943
+Geoffrey Holmes,Bernhard Pfahringer,0.262760792055
+Lawrence K. Saul,Geoffrey M. Voelker,0.262760792055
+S. V. N. Vishwanathan,Shin Matsushima,0.262260295308
+Roger Longbotham,Thomas Crook,0.262260295308
+Robert Chen,You Chen,0.262183295809
+Rinkal Patel,Jing Li,0.262059975304
+Yong Ge,Alexander Tuzhilin,0.261760798555
+Yong Ge,Qi Liu,0.261760798555
+Jiawei Han,Marina Danilevsky,0.261715538033
+Chia-Hua Ho,Chieh-Yen Lin,0.261688299026
+Xiao Yu,Chi Wang,0.261610111128
+Thanawin Rakthanmanon,Bing Hu 0001,0.26160109126
+Vladan Radosavljevic,Nemanja Djuric,0.261545299956
+Jiawei Han,Ke Wang,0.261533999706
+Xiao Yu,Jiawei Han,0.261433675153
+Qi Li,Shuiwang Ji,0.261259301815
+John Darlington,Moustafa Ghanem,0.260973303674
+Eric Reiman,Jing Li,0.260968220373
+Bilson J. L. Campana,Bing Hu 0001,0.26054725808
+Machiko Toyoda,Makoto Nakatsuji,0.260258308321
+Dmytro Karamshuk,Anastasios Noulas,0.260258308321
+Jiang Li,Qiang Fu,0.260258308321
+Thomas Holleczek,Han Leong Goh,0.260258308321
+Wenlin Chen,Yi Mao,0.260258308321
+Vipin Kumar,Gaurav Pandey,0.260258308321
+Mohammed Javeed Zaki,Feng Pan,0.260258308321
+Edmond Mesrobian,Kenneth W. Ng,0.260258308321
+Peter Wonka,Lei Yuan,0.25981193638
+Jianping Zhang,Huan Liu,0.259593091126
+Guannan Liu,Yong Ge,0.259218315081
+U. Kang,Caetano Traina Jr.,0.259007066454
+Wei Wang 0009,Xiaoyuan Wang,0.259007066454
+Chao Shen,Ming Lei,0.258785860445
+Wei Wu,Wee Siong Ng,0.258685318545
+Debing Liu,Yutao Zhang,0.258594652468
+Bing Duan,Chao Shen,0.258564319332
+Dhiman Barman,Dimitrios Gunopulos,0.258560194359
+Olivier Verscheure,Jiawei Han,0.258435032726
+Ying Cui,Ruofei Zhang,0.258256321334
+Chieh-Yen Lin,Cheng-Hao Tsai,0.258113322263
+Christian Elsen,Mihael Ankerst,0.257755824587
+Shamanth Kumar,Huan Liu,0.257755824587
+Junjie Wu,Peng Wu,0.257755824587
+Uri Eick,Saharon Rosset,0.257755824587
+Gene E. Alexander,Eric Reiman,0.257463239726
+Takeshi Yamada,Naonori Ueda,0.257398326911
+Mingqiang Xue,Kian-Lee Tan,0.257398326911
+Michael R. Berthold,Michael Zeller,0.257398326911
+Jiawei Han,Ahmed El-Kishky,0.25725532784
+Jiawei Han,Kevin Chen-Chuan Chang,0.25725532784
+Quanquan Gu,Xiao Yu,0.257213005266
+Jian Chen,Peng Wu,0.257073329023
+Liang Zhao,Nathan Self,0.257028858246
+Huan Liu,Jieping Ye,0.256889544161
+Shuiwang Ji,Qian Sun,0.256760302411
+Honglei Zhuang,Debing Liu,0.25660212156
+Qiang Fu,Bin Wu,0.25650458272
+Betul Ceran,Jieping Ye,0.256349180083
+Ziyu Guan,Nikos Anerousis,0.256289032651
+William DuMouchel,Daryl Pregibon,0.256254334347
+Lei Li,Christos Faloutsos,0.256163334938
+Rui Li,Hongbo Deng,0.256034604068
+Yanfang Ye,Qingshan Jiang,0.255968336206
+Jiong Yang,Philip S. Yu,0.255277790371
+Charu C. Aggarwal,Jiawei Han,0.255258027143
+Can Wang,Jian Pei,0.255253340853
+Sam Liu,Joshi Parag,0.255253340853
+Makoto Nakatsuji,Hiroaki Shiokawa,0.255253340853
+Chih-Jen Lin,Cho-Jui Hsieh,0.255253340853
+Luca Becchetti,Carlos Castillo,0.255253340853
+Ryo Asaoka,Hiroshi Murata,0.255253340853
+Suresh Iyengar,Aditya G. Parameswaran,0.255253340853
+Hiroaki Shiokawa,Yasuhiro Fujiwara,0.255253340853
+Hao Ding,Hiroshi Mamitsuka,0.255253340853
+Rajeev Rastogi,Prithviraj Sen,0.255253340853
+Ryo Asaoka,Kai Morino,0.255253340853
+Shusen Liu,Tie-Yan Liu,0.255253340853
+Jennifer G. Dy,Yan Yan,0.255253340853
+Jieping Ye,Xiang Wang,0.255253340853
+Sami Hanhij&auml;rvi,Markus Ojala,0.255253340853
+Patrick Butler,Naren Ramakrishnan,0.254464484956
+Wenzhu Tong,Jiawei Han,0.254400570539
+Wei Fan,Hong Cheng,0.254394310326
+Chih-Jen Lin,Chia-Hua Ho,0.25425234736
+Naren Ramakrishnan,Nathan Self,0.254216602455
+Brian Gallagher,Leman Akoglu,0.254201734041
+Jason Tsong-Li Wang,Bruce A. Shapiro,0.253823350148
+Bianca Zadrozny,John Langford,0.253823350148
+Eamonn J. Keogh,M. Brandon Westover,0.253585018364
+Hongtai Li,Li Zheng,0.252750857119
+Rui Li,Shengjie Wang,0.252750857119
+Christos Faloutsos,Keith Henderson,0.252686575752
+Tao Li,Shenghuo Zhu,0.252450559071
+Shuiwang Ji,Shipeng Yu,0.252434335666
+Enhong Chen,Guiquan Liu,0.252250360373
+Chun Chen,Wei Vivian Zhang,0.252250360373
+Sue Kase,Yu Su,0.252250360373
+Weiqing Wang,Yizhou Sun,0.252250360373
+Hanghang Tong,Jie Tang,0.252099492932
+Bee-Chung Chen,Rupesh Gupta,0.251891029375
+Robert Atlas,Rahul Ramachandran,0.251499615253
+Jiuyong Li,Ada Wai-Chee Fu,0.25139236595
+Sudhir Kumar,Shuiwang Ji,0.251375590655
+Chao Shen,Wubai Zhou,0.251278409244
+Qi Li,Heng Ji,0.250830639817
+Koji Maruhashi,Tina Eliassi-Rad,0.250595572376
+Kun Zhang,Jiawei Han,0.250570324209
+Louise E. Moser,Shu Tao,0.250477592484
+Jiawei Han,Duo Zhang,0.250286806764
+Zheng Zhao,Jieping Ye,0.250271430409
+Laurent Amsaleg,Michael Nett,0.250248373386
+Liang Xiang,Jimeng Sun,0.250248373386
+Anitha Kannan,Ashish Kapoor,0.250248373386
+Hill Nguyen,Neel Sundaresan,0.250248373386
+Yi Zhang,Ada Wai-Chee Fu,0.250248373386
+Rong Ge,Zengjian Hu,0.250248373386
+Shota Okumura,Yoshiki Suzuki,0.250248373386
+Varun Aggarwal,Nishant Pandey,0.250248373386
+Deept Kumar,Malcolm Potts,0.250248373386
+Robin Devooght,Nicolas Kourtellis,0.250248373386
+Kotagiri Ramamohanarao,Jeffrey Chan,0.250248373386
+Anastasios Noulas,Dmytro Karamshuk,0.250248373386
+Xiaodong Lin,Chris Beecher,0.250248373386
+Michael Zhu,Qiming Huang,0.250248373386
+Albert Bifet,Ricard Gavald&agrave;,0.250248373386
+Jing Yuan,Yu Zheng,0.250248373386
+J. W. van't Zand,A. J. F. le Loux,0.250248373386
+Jianlin Feng,Qiong Fang,0.250248373386
+Kingshy Goh,Beitao Li,0.250248373386
+Charu C. Aggarwal,V. V. V. Prasad,0.250248373386
+Qi Zhang,Qiang Li,0.250248373386
+Ming-Syan Chen,Su-Chen Lin,0.250248373386
+Richard Cole 0001,Xiaojian Zhao,0.250248373386
+Anthony Fader,Luke Zettlemoyer,0.250248373386
+Hiroshi Mamitsuka,Motoki Shiga,0.250248373386
+Kingshy Goh,Huaxin You,0.250248373386
+Tao Li,Egemen Tas,0.250248373386
+Nikos Anerousis,Xifeng Yan,0.249550201453
+Jie Tang,Jing Zhang 0001,0.249431712027
+Liang Zhao,Chang-Tien Lu,0.249332042066
+Jiawei Han,Quanquan Gu,0.249299121222
+Xifeng Yan,Xiao Yu,0.249045113196
+Liang Zhang,Jaewon Yang,0.248821132663
+Liang Zhang,Qi He,0.248819299341
+Takeshi Yamada,Kazumi Saito,0.248818382681
+Daniel Honbo,Alok N. Choudhary,0.248818382681
+Dacheng Tao,Junjie Wu,0.248460885004
+Qi Li,Jiawei Han,0.248414183432
+Yiming Ma,Qi He,0.247997971347
+Yong Yu,Wenzhu Tong,0.247745889652
+Jun Li 0016,Li Guo,0.247745889652
+Qi Zhang,Xiaowei Yan,0.247745889652
+Jingxuan Li,Bing Duan,0.247745889652
+Joe Brew,Joe Walsh,0.247745889652
+Ada Wai-Chee Fu,Ming Hua,0.24751839113
+Julien Etienne,Markus Bundschus,0.247245392905
+Brian Frasca,Ron Kohavi,0.247102393834
+Ajit Singh,Sumanth Kolar,0.246911728407
+Ana Lelescu,Andreas Martin Lisewski,0.246874279563
+Jian Pei,Jiawei Han,0.246598040404
+Ana Lelescu,Lawrence A. Donehower,0.246324538507
+Naoki Abe,Cezar Pendus,0.246244399411
+Tina Eliassi-Rad,Lei Li,0.245862749718
+Rinkal Patel,Jieping Ye,0.245758931445
+Xiong Wang,Sitaram Dikshitulu,0.245243405918
+Murat Dundar,Arun K. Bhunia,0.245243405918
+Sanjay Ranka,Khaled Alsabti,0.245243405918
+Naren Ramakrishnan,Malcolm Potts,0.245243405918
+Daniel B. Neill,Andrew W. Moore 0001,0.245243405918
+Wen Jin,Rong Ge,0.245243405918
+Christopher Potter,Shyam Boriah,0.245243405918
+Brian D. Davison 0001,Dawei Yin,0.245243405918
+Cristopher Moore,Yaojia Zhu,0.245243405918
+Bartek Rajwa,Murat Dundar,0.245243405918
+Gadi Pinkas,Saharon Rosset,0.245243405918
+Eric P. Xing,Xun Zheng,0.244742909171
+Neha Parikh,Andreas Martin Lisewski,0.244612463225
+Hang Li,Bin Zhou 0002,0.244528410565
+Honglei Zhuang,Yutao Zhang,0.244473533729
+Benjamin J. Bachman,Peter J. Haas,0.244307355353
+Hsiao-Ping Tseng,Zhenhao Hua,0.243992164051
+Eric Reiman,Rinkal Patel,0.243966830882
+Kewei Chen,Ravi Janardan,0.243590916659
+Murali Ramanathan,Daxin Jiang,0.243575083429
+Yang Yang,Jianfei Wang,0.243550116924
+Ana Lelescu,Ying Chen,0.243428197871
+Wei Fan,Haixun Wang,0.24336931774
+Yixin Chen,Chenyang Lu,0.243241418931
+Zhicheng Cui,Wenlin Chen,0.243241418931
+Peter J. Haas,Andreas Martin Lisewski,0.2432013661
+Jing Zhang 0001,Jie Tang,0.242965383741
+Aristides Gionis,Antti Ukkonen,0.242740922184
+Peng Wang,Byron J. Gao,0.242740922184
+Ming Zhang,Jiawei Han,0.242532381873
+Makoto Nakatsuji,Machiko Toyoda,0.242240425437
+Yun Chi,Jun'ichi Tatemura,0.242240425437
+Yang Yang,Sen Wu,0.241893927689
+Tao Li,Pengnian Wang,0.241845697507
+Honglei Zhuang,Sen Wu,0.241587219157
+Qi Liu,Yong Ge,0.241252431859
+Kenji Yamanishi,Takayuki Nakata,0.241239431944
+Yanhong Guo,Chunyu Luo,0.241239431944
+Yong Ge,Guannan Liu,0.240752935106
+Thanawin Rakthanmanon,Jesin Zakaria,0.24063839131
+Heng Ji,Qi Li,0.240557005249
+Lei Yuan,Paul M. Thompson,0.240546014112
+Hui Xiong,Hengshu Zhu,0.240392437449
+Raymond J. Mooney,Sugato Basu,0.24023843845
+Thomas Crook,Roger Longbotham,0.24023843845
+Sayan Ranu,Ambuj K. Singh,0.24023843845
+Stratis Ioannidis,Wei Lu,0.24023843845
+Francesco Bonchi,Vincent Leroy,0.24023843845
+Yan-Bin Ciou,Shou-De Lin,0.24023843845
+Bhavani Raskutti,Adam Kowalczyk,0.24023843845
+Ting-Wei Lin,Chun-Fu Chang,0.24023843845
+Pan Chao,Michael Zhu,0.24023843845
+Minglu Li,Jian Cao,0.24023843845
+Dennis Shasha,Richard Cole 0001,0.24023843845
+Xiaoli Z. Fern,Raviv Raich,0.24023843845
+Brian Dalessandro,Foster J. Provost,0.24023843845
+Michaek Kwok-Po Ng,Yunming Ye,0.24023843845
+Zahra Ahmadi,Stefan Kramer 0001,0.24023843845
+Carl Lagoze,C. Lee Giles,0.24023843845
+Jianhui Chen,Betul Ceran,0.24023843845
+Vibhor Rastogi,Suresh Iyengar,0.24023843845
+Lise Getoor,Louis Licamele,0.24023843845
+Ryohei Fujimaki,Kazuo Machida,0.24023843845
+Guoji Zhang,Carlotta Domeniconi,0.24023843845
+Shou-De Lin,Yan-Bin Ciou,0.24023843845
+William B. March,Alexander G. Gray,0.24023843845
+Amanda Thart,Priyank Vyas,0.24023843845
+Santosh Kabbur,George Karypis,0.24023843845
+Ankit Agrawal,Alok N. Choudhary,0.24023843845
+Paul Castro,Jimeng Sun,0.24023843845
+Arnd Christian K&ouml;nig,Rares Vernica,0.24023843845
+Mitsunori Ogihara,Mohammed Javeed Zaki,0.24023843845
+Ashesh Jain,S. V. N. Vishwanathan,0.24023843845
+Dit-Yan Yeung,Hao Wang,0.24023843845
+Werner Stuetzle,Jeremy Tantrum,0.24023843845
+Paat Rusmevichientong,David Selinger,0.24023843845
+Julian J. McAuley,Jure Leskovec,0.24023843845
+Mark G. Kelly,Niall M. Adams,0.24023843845
+Krishnamurthy Viswanathan,Ron Bekkerman,0.24023843845
+Wei Feng,Wei Zhang,0.24023843845
+Amar Shah,Zoubin Ghahramani,0.24023843845
+Robert Engels,Guido Lindner,0.24023843845
+Yiping Ke,Wilfred Ng,0.24023843845
+Hongliang Fei,Jun Huan,0.24023843845
+Chad L. Myers,Gowtham Atluri,0.24023843845
+Shou-De Lin,Ming-Syan Chen,0.24023843845
+Fanhua Shang,Licheng Jiao,0.24023843845
+Xingquan Zhu,Byron J. Gao,0.24023843845
+Satoshi Morinaga,Ryohei Fujimaki,0.24023843845
+Adetokunbo Makanju,A. Nur Zincir-Heywood,0.24023843845
+Sabine Loudcher Rabas&eacute;da,Riadh Ben Messaoud,0.24023843845
+Vijay S. Iyengar,Chidanand Apt&eacute;,0.24023843845
+Mi-Yen Yeh,Ming-Syan Chen,0.24023843845
+A. Nur Zincir-Heywood,Adetokunbo Makanju,0.24023843845
+Ramesh C. Agarwal,Charu C. Aggarwal,0.24023843845
+Selina Chu,Michael J. Pazzani,0.24023843845
+Jordi Turmo,Alicia Ageno,0.24023843845
+Raviv Raich,Xiaoli Z. Fern,0.24023843845
+Adam Kowalczyk,Bhavani Raskutti,0.24023843845
+Ambuj K. Singh,Sayan Ranu,0.24023843845
+Chengxiang Zhai,Dan Roth,0.24023843845
+Vincent Leroy,Francesco Bonchi,0.24023843845
+Carlos Riquelme,Sven Schmit,0.24023843845
+Matthijs van Leeuwen,Jilles Vreeken,0.24023843845
+Oren Etzioni,Anthony Fader,0.24023843845
+Johan Ugander,Brian Karrer,0.24023843845
+Jiji Zhang,Ricardo Bezerra de Andrade e Silva,0.24023843845
+Savaneary Sean,Bruno Pradel,0.24023843845
+Klaus Arthur Schmid,Tobias Emrich,0.24023843845
+Shiyou Qian,Fr&eacute;d&eacute;ric Le Mou&euml;l,0.24023843845
+Chun Hung Cheng,Yi Zhang,0.24023843845
+Renuka Sindhgatta,Shivali Agarwal,0.24023843845
+Junming Shao,Stefan Kramer 0001,0.24023843845
+D. R. Mani,Jeffery Howard,0.24023843845
+Di Wu,Ruihua Song,0.24023843845
+David Selinger,Paat Rusmevichientong,0.24023843845
+Jiong Yang,Wei Wang 0010,0.24023843845
+Dmytro Karamshuk,Vincenzo Nicosia,0.24023843845
+Huzefa Rangwala,Zhiwen Yu,0.24023843845
+Qing He,Yongjie Cai,0.24023843845
+Xu Chen,Lawrence Carin,0.24023843845
+Meng Hu,Wei Su,0.24023843845
+Wilfred Ng,Jianlin Feng,0.24023843845
+Claudia Perlich,Saharon Rosset,0.24023843845
+Hayri Sever,Vijay V. Raghavan 0001,0.24023843845
+Vijay V. Raghavan 0001,Hayri Sever,0.24023843845
+Kevin A. Roundy,Duen Horng Chau,0.24023843845
+Chih-Ya Shen,Wang-Chien Lee,0.24023843845
+Xiaoying Gao,Peter Andreae,0.24023843845
+Brigitte Boden,Holger Hoffmann,0.24023843845
+Tomoharu Iwata,Zoubin Ghahramani,0.24023843845
+Bruno Cadonna,Michael H. B&ouml;hlen,0.24023843845
+Wenzhu Tong,Yong Yu,0.24023843845
+Young Truong,Xiaodong Lin,0.24023843845
+Ricardo Bezerra de Andrade e Silva,Jiji Zhang,0.24023843845
+Miriam Connor,Virginia Smith,0.24023843845
+Jianchang Mao,Ying Cui,0.24023843845
+Xiaohua Hu,Il-Yeol Song,0.24023843845
+Yunming Ye,Michaek Kwok-Po Ng,0.24023843845
+Virginia Smith,Miriam Connor,0.24023843845
+Shivali Agarwal,Renuka Sindhgatta,0.24023843845
+Ichigaku Takigawa,Hiroshi Mamitsuka,0.24023843845
+David S. Vogel,Tobias Scheffer,0.24023843845
+Sagar Chaki,Arie Gurfinkel,0.24023843845
+Yujie He,Zhicheng Cui,0.24023843845
+Machiko Toyoda,Yasutoshi Ida,0.24023843845
+Andrew Bate,G. Niklas Nor&eacute;n,0.24023843845
+Mohammad Taha Bahadori,David C. Kale,0.24023843845
+Ryen W. White,Vikram Tankasali,0.24023843845
+Tobias Scheffer,David S. Vogel,0.24023843845
+Licheng Jiao,Fanhua Shang,0.24023843845
+Linhong Zhu,Yiping Ke,0.24023843845
+Ichiro Takeuchi,Shota Okumura,0.24023843845
+George Karypis,Santosh Kabbur,0.24023843845
+Amin Mantrach,Robin Devooght,0.24023843845
+Ron Bekkerman,Krishnamurthy Viswanathan,0.24023843845
+Wenzhe Li,Zhengping Che,0.24023843845

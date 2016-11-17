@@ -1,9 +1,11 @@
 import string
+import random
 
 authorlist = []
 conferences = ["kdd", "icml", "vldb"]
 connection = {}
-
+sample = 0.2
+random.seed()
 
 authors = []
 fileObj = open('../data/dblp.xml', 'r') 
@@ -57,7 +59,8 @@ for i in range(len(authorlist)):
 			fileObjcon.write(str(i)+" "+str(j)+"\n")
 			for conf in conferences:
 				if conf in connection[connectionkey]:
-					fileconfs[conf].write(str(i)+" "+str(j)+" "+str(connection[connectionkey][conf])+"\n")
+					if random.random() < sample:
+						fileconfs[conf].write(str(i)+" "+str(j)+" "+str(connection[connectionkey][conf])+"\n")
 
 fileObjcon.close()
 for conf in conferences:

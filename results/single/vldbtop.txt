@@ -1,1001 +1,1001 @@
-9
-Nick Koudas,Divesh Srivastava,1.0
-Divesh Srivastava,Nick Koudas,1.0
-Beng Chin Ooi,Kian-Lee Tan,0.888888888889
-Kian-Lee Tan,Beng Chin Ooi,0.888888888889
-Michael J. Carey,Miron Livny,0.888888888889
-K. Sel&ccedil;uk Candan,Divyakant Agrawal,0.888888888889
-Divyakant Agrawal,Amr El Abbadi,0.888888888889
-Divyakant Agrawal,K. Sel&ccedil;uk Candan,0.888888888889
-Amr El Abbadi,Divyakant Agrawal,0.888888888889
-Miron Livny,Michael J. Carey,0.888888888889
-Tova Milo,Serge Abiteboul,0.777777777778
-Xiaolei Li,Jiawei Han,0.777777777778
-Luc Bouganim,Philippe Pucheral,0.777777777778
-Philippe Pucheral,Luc Bouganim,0.777777777778
-Jiawei Han,Xiaolei Li,0.777777777778
-Serge Abiteboul,Tova Milo,0.777777777778
-K. Sel&ccedil;uk Candan,Wang-Pin Hsiung,0.777777777778
-Wang-Pin Hsiung,Divyakant Agrawal,0.777777777778
-Wang-Pin Hsiung,K. Sel&ccedil;uk Candan,0.777777777778
-Divyakant Agrawal,Wang-Pin Hsiung,0.777777777778
-Samuel Madden,Daniel J. Abadi,0.666666666667
-Daniel J. Abadi,Samuel Madden,0.666666666667
-Weiyi Meng,Clement T. Yu,0.666666666667
-Vivek R. Narasayya,Surajit Chaudhuri,0.666666666667
-Clement T. Yu,Weiyi Meng,0.666666666667
-Ramakrishnan Srikant,Rakesh Agrawal,0.666666666667
-Dimitris Papadias,Yufei Tao,0.666666666667
-Rakesh Agrawal,Ramakrishnan Srikant,0.666666666667
-Mitch Cherniack,Stanley B. Zdonik,0.666666666667
-Surajit Chaudhuri,Vivek R. Narasayya,0.666666666667
-Yufei Tao,Dimitris Papadias,0.666666666667
-Stanley B. Zdonik,Mitch Cherniack,0.666666666667
-Wen-Syan Li,K. Sel&ccedil;uk Candan,0.555555555556
-Henry F. Korth,Abraham Silberschatz,0.555555555556
-Stefan Manegold,Peter A. Boncz,0.555555555556
-Abraham Silberschatz,Henry F. Korth,0.555555555556
-Abraham Silberschatz,S. Sudarshan 0001,0.555555555556
-Oliver Po,Divyakant Agrawal,0.555555555556
-Oliver Po,K. Sel&ccedil;uk Candan,0.555555555556
-H. V. Jagadish,Divesh Srivastava,0.555555555556
-Jeffrey Xu Yu,Hongjun Lu,0.555555555556
-Peter A. Boncz,Stefan Manegold,0.555555555556
-Jiawei Han,Dong Xin,0.555555555556
-Mitch Cherniack,Michael Stonebraker,0.555555555556
-Dong Xin,Jiawei Han,0.555555555556
-Jennifer Widom,Stefano Ceri,0.555555555556
-Divesh Srivastava,H. V. Jagadish,0.555555555556
-Michael Stonebraker,Mitch Cherniack,0.555555555556
-S. Sudarshan 0001,Abraham Silberschatz,0.555555555556
-Guido Moerkotte,Alfons Kemper,0.555555555556
-Antonio L. Furtado,Marco A. Casanova,0.555555555556
-Marco A. Casanova,Antonio L. Furtado,0.555555555556
-Ugur &Ccedil;etintemel,Stanley B. Zdonik,0.555555555556
-Minos N. Garofalakis,Rajeev Rastogi,0.555555555556
-K. Sel&ccedil;uk Candan,Wen-Syan Li,0.555555555556
-K. Sel&ccedil;uk Candan,Oliver Po,0.555555555556
-Stefano Ceri,Jennifer Widom,0.555555555556
-Divyakant Agrawal,Oliver Po,0.555555555556
-Hongjun Lu,Jeffrey Xu Yu,0.555555555556
-Alfons Kemper,Guido Moerkotte,0.555555555556
-Stanley B. Zdonik,Ugur &Ccedil;etintemel,0.555555555556
-Rajeev Rastogi,Minos N. Garofalakis,0.555555555556
-Tova Milo,Anat Eyal,0.444444444444
-Abraham Silberschatz,Rajeev Rastogi,0.444444444444
-Philip S. Yu,Jiawei Han,0.444444444444
-Philip S. Yu,Ming-Syan Chen,0.444444444444
-S. Muthukrishnan,Nick Koudas,0.444444444444
-Philip S. Yu,Charu C. Aggarwal,0.444444444444
-Sankar Subramanian,Andrew Witkowski,0.444444444444
-Sankar Subramanian,Srikanth Bellamkonda,0.444444444444
-Oliver Po,Wang-Pin Hsiung,0.444444444444
-Oliver Po,Wen-Syan Li,0.444444444444
-Volker Markl,Peter J. Haas,0.444444444444
-Sankar Subramanian,Lei Sheng,0.444444444444
-Ahmed K. Elmagarmid,Walid G. Aref,0.444444444444
-Ralf Schenkel,Gerhard Weikum,0.444444444444
-Martin Theobald,Gerhard Weikum,0.444444444444
-H. V. Jagadish,Rakesh Agrawal,0.444444444444
-H. V. Jagadish,Cong Yu,0.444444444444
-Peter J. Haas,Volker Markl,0.444444444444
-Svein-Olaf Hvasshovd,&Oslash;ystein Torbj&oslash;rnsen,0.444444444444
-&Oslash;ystein Torbj&oslash;rnsen,Svein-Olaf Hvasshovd,0.444444444444
-Torsten Grust,Jens Teubner,0.444444444444
-Jens Teubner,Torsten Grust,0.444444444444
-Rakesh Agrawal,H. V. Jagadish,0.444444444444
-Rakesh Agrawal,Yirong Xu,0.444444444444
-Srikanth Bellamkonda,Andrew Witkowski,0.444444444444
-Yirong Xu,Rakesh Agrawal,0.444444444444
-Walid G. Aref,Ahmed K. Elmagarmid,0.444444444444
-Jeffrey Scott Vitter,Min Wang,0.444444444444
-Kian-Lee Tan,Hongjun Lu,0.444444444444
-Daniela Florescu,Donald Kossmann,0.444444444444
-Jiawei Han,Philip S. Yu,0.444444444444
-Lipyeow Lim,Min Wang,0.444444444444
-Min Wang,Jeffrey Scott Vitter,0.444444444444
-Min Wang,Lipyeow Lim,0.444444444444
-Murali Mani,Elke A. Rundensteiner,0.444444444444
-Elke A. Rundensteiner,Murali Mani,0.444444444444
-Jeffrey F. Naughton,Raghu Ramakrishnan,0.444444444444
-Jeffrey F. Naughton,David J. DeWitt,0.444444444444
-David J. DeWitt,Jeffrey F. Naughton,0.444444444444
-S. Seshadri,S. Sudarshan 0001,0.444444444444
-Sebastian Michel,Gerhard Weikum,0.444444444444
-Dimitrios Gunopulos,Nick Koudas,0.444444444444
-Vagelis Hristidis,Yannis Papakonstantinou,0.444444444444
-Nick Koudas,Dimitrios Gunopulos,0.444444444444
-Nick Koudas,S. Muthukrishnan,0.444444444444
-Yannis Papakonstantinou,Vagelis Hristidis,0.444444444444
-Donald Kossmann,Daniela Florescu,0.444444444444
-Michael J. Carey,Eugene J. Shekita,0.444444444444
-Michael Stonebraker,Stanley B. Zdonik,0.444444444444
-Wen-Syan Li,Divyakant Agrawal,0.444444444444
-Kyuseok Shim,Surajit Chaudhuri,0.444444444444
-S. Sudarshan 0001,Raghu Ramakrishnan,0.444444444444
-S. Sudarshan 0001,S. Seshadri,0.444444444444
-Andrew Witkowski,Srikanth Bellamkonda,0.444444444444
-Andrew Witkowski,Lei Sheng,0.444444444444
-Andrew Witkowski,Sankar Subramanian,0.444444444444
-Surajit Chaudhuri,Kyuseok Shim,0.444444444444
-Surajit Chaudhuri,Gerhard Weikum,0.444444444444
-Umeshwar Dayal,Fabio Casati,0.444444444444
-Luiz Tucherman,Antonio L. Furtado,0.444444444444
-Luiz Tucherman,Marco A. Casanova,0.444444444444
-Antonio L. Furtado,Luiz Tucherman,0.444444444444
-Wen-Syan Li,Wang-Pin Hsiung,0.444444444444
-Nesime Tatbul,Stanley B. Zdonik,0.444444444444
-Marco A. Casanova,Luiz Tucherman,0.444444444444
-Wen-Syan Li,Oliver Po,0.444444444444
-Sunil Prabhakar,Reynold Cheng,0.444444444444
-Srikanth Bellamkonda,Lei Sheng,0.444444444444
-K. Sel&ccedil;uk Candan,Jun'ichi Tatemura,0.444444444444
-Lei Sheng,Sankar Subramanian,0.444444444444
-Lei Sheng,Andrew Witkowski,0.444444444444
-Lei Sheng,Srikanth Bellamkonda,0.444444444444
-Wang-Pin Hsiung,Wen-Syan Li,0.444444444444
-Wang-Pin Hsiung,Oliver Po,0.444444444444
-Jun'ichi Tatemura,Divyakant Agrawal,0.444444444444
-Jun'ichi Tatemura,K. Sel&ccedil;uk Candan,0.444444444444
-Ravi Kumar,Andrew Tomkins,0.444444444444
-Andrew Tomkins,Ravi Kumar,0.444444444444
-Cong Yu,H. V. Jagadish,0.444444444444
-Eugene J. Shekita,Michael J. Carey,0.444444444444
-Srikanth Bellamkonda,Sankar Subramanian,0.444444444444
-Philip A. Bernstein,Nathan Goodman,0.444444444444
-Divyakant Agrawal,Jun'ichi Tatemura,0.444444444444
-Divyakant Agrawal,Wen-Syan Li,0.444444444444
-Bee-Chung Chen,Raghu Ramakrishnan,0.444444444444
-Hongjun Lu,Kian-Lee Tan,0.444444444444
-Raghu Ramakrishnan,Jeffrey F. Naughton,0.444444444444
-Raghu Ramakrishnan,S. Sudarshan 0001,0.444444444444
-Raghu Ramakrishnan,Bee-Chung Chen,0.444444444444
-Ming-Syan Chen,Philip S. Yu,0.444444444444
-Tova Milo,Catriel Beeri,0.444444444444
-Reynold Cheng,Sunil Prabhakar,0.444444444444
-Nathan Goodman,Philip A. Bernstein,0.444444444444
-Catriel Beeri,Tova Milo,0.444444444444
-Anat Eyal,Tova Milo,0.444444444444
-Stanley B. Zdonik,Michael Stonebraker,0.444444444444
-Stanley B. Zdonik,Nesime Tatbul,0.444444444444
-Charu C. Aggarwal,Philip S. Yu,0.444444444444
-Fabio Casati,Umeshwar Dayal,0.444444444444
-Fabio Casati,Ming-Chien Shan,0.444444444444
-Ming-Chien Shan,Fabio Casati,0.444444444444
-Gerhard Weikum,Surajit Chaudhuri,0.444444444444
-Gerhard Weikum,Sebastian Michel,0.444444444444
-Gerhard Weikum,Ralf Schenkel,0.444444444444
-Gerhard Weikum,Martin Theobald,0.444444444444
-Rajeev Rastogi,Abraham Silberschatz,0.444444444444
-Jochen Van den Bercken,Bernhard Seeger,0.444444444444
-Bernhard Seeger,Jochen Van den Bercken,0.444444444444
-Kian-Lee Tan,Cheng Hian Goh,0.333333333333
-Jeffrey Scott Vitter,Lipyeow Lim,0.333333333333
-Sankar Subramanian,Tolga Bozkaya,0.333333333333
-Anindya Datta,Helen M. Thomas,0.333333333333
-Stefan Manegold,Martin L. Kersten,0.333333333333
-Luc Bouganim,Nicolas Anciaux,0.333333333333
-Philippe Pucheral,Patrick Valduriez,0.333333333333
-Tova Milo,Sophie Cluet,0.333333333333
-Philippe Pucheral,Nicolas Anciaux,0.333333333333
-Khaled Yagoub,Daniela Florescu,0.333333333333
-Daniela Florescu,Alon Y. Levy,0.333333333333
-Justin Zobel,Ron Sacks-Davis,0.333333333333
-Guy M. Lohman,Sam Lightstone,0.333333333333
-Daniela Florescu,Patrick Valduriez,0.333333333333
-Ron Sacks-Davis,Justin Zobel,0.333333333333
-Daniela Florescu,Khaled Yagoub,0.333333333333
-Philip S. Yu,Daniel M. Dias,0.333333333333
-Arvind Hulgeri,S. Sudarshan 0001,0.333333333333
-Bishwaranjan Bhattacharjee,Timothy Malkemus,0.333333333333
-Tova Milo,Bernd Amann,0.333333333333
-Timothy Malkemus,Bishwaranjan Bhattacharjee,0.333333333333
-Lipyeow Lim,Jeffrey Scott Vitter,0.333333333333
-Guy M. Lohman,Volker Markl,0.333333333333
-Patrick Valduriez,Luc Bouganim,0.333333333333
-Tova Milo,Omar Benjelloun,0.333333333333
-Gautam Das,Dimitrios Gunopulos,0.333333333333
-Gautam Das,Nick Koudas,0.333333333333
-Tolga Bozkaya,Lei Sheng,0.333333333333
-Mitch Cherniack,Ugur &Ccedil;etintemel,0.333333333333
-Seema Sundara,Jagannathan Srinivasan,0.333333333333
-Seema Sundara,Ying Hu,0.333333333333
-Jiawei Han,Jianyong Wang,0.333333333333
-Ying Hu,Jagannathan Srinivasan,0.333333333333
-Ying Hu,Seema Sundara,0.333333333333
-Laurent Mignet,Serge Abiteboul,0.333333333333
-Jianyong Wang,Jiawei Han,0.333333333333
-Hong Su,Elke A. Rundensteiner,0.333333333333
-Hong Su,Murali Mani,0.333333333333
-Yaron Kanza,Yehoshua Sagiv,0.333333333333
-Murali Mani,Hong Su,0.333333333333
-Timos K. Sellis,Christos Faloutsos,0.333333333333
-Jiawei Han,Hector Gonzalez,0.333333333333
-Doron Rotem,Frank Olken,0.333333333333
-Klaus Elhardt,Rudolf Bayer,0.333333333333
-Rudolf Bayer,Klaus Elhardt,0.333333333333
-Doron Rotem,Jianzhong Li,0.333333333333
-Narain H. Gehani,H. V. Jagadish,0.333333333333
-Ren&eacute;e J. Miller,Lucian Popa,0.333333333333
-Klaus Peithner,Guido Moerkotte,0.333333333333
-Klaus Peithner,Alfons Kemper,0.333333333333
-Ren&eacute;e J. Miller,Mauricio A. Hern&aacute;ndez,0.333333333333
-Betty Salzberg,David B. Lomet,0.333333333333
-Haifeng Jiang,Hongjun Lu,0.333333333333
-Haifeng Jiang,Wei Wang 0011,0.333333333333
-Bugra Gedik,Philip S. Yu,0.333333333333
-Elke A. Rundensteiner,Hong Su,0.333333333333
-Alexandra Poulovassilis,Carol Small,0.333333333333
-Carol Small,Alexandra Poulovassilis,0.333333333333
-Volker Markl,Vijayshankar Raman,0.333333333333
-Nicolas Anciaux,Luc Bouganim,0.333333333333
-Andrei Arion,Ioana Manolescu,0.333333333333
-Nicolas Anciaux,Philippe Pucheral,0.333333333333
-Marcos Antonio Vaz Salles,Jens-Peter Dittrich,0.333333333333
-Viswanath Poosala,Yannis E. Ioannidis,0.333333333333
-Ioana Manolescu,Andrei Arion,0.333333333333
-Daniel M. Dias,Philip S. Yu,0.333333333333
-Laura Chiticariu,Wang Chiew Tan,0.333333333333
-Wang Chiew Tan,Laura Chiticariu,0.333333333333
-Holger Schwarz,Tobias Kraft,0.333333333333
-Mohamed F. Mokbel,Walid G. Aref,0.333333333333
-Hector Gonzalez,Jiawei Han,0.333333333333
-Hector Gonzalez,Xiaolei Li,0.333333333333
-Wei Wang 0011,Hongjun Lu,0.333333333333
-Wei Wang 0011,Jeffrey Xu Yu,0.333333333333
-Wei Wang 0011,Haifeng Jiang,0.333333333333
-Mauricio A. Hern&aacute;ndez,Ren&eacute;e J. Miller,0.333333333333
-Mauricio A. Hern&aacute;ndez,Lucian Popa,0.333333333333
-Mikio Takagi,Masaru Kitsuregawa,0.333333333333
-Shetal Shah,Krithi Ramamritham,0.333333333333
-Yuan Wang,David J. DeWitt,0.333333333333
-Volker Markl,Guy M. Lohman,0.333333333333
-Jianzhong Li,Doron Rotem,0.333333333333
-Helen M. Thomas,Krithi Ramamritham,0.333333333333
-Jeffrey F. Naughton,Raghav Kaushik,0.333333333333
-Jeffrey F. Naughton,Prasad Deshpande,0.333333333333
-David J. DeWitt,Yuan Wang,0.333333333333
-Hans-Peter Kriegel,Thomas Seidl 0001,0.333333333333
-Zhao-Hui Tang,Georges Gardarin,0.333333333333
-David J. DeWitt,Donovan A. Schneider,0.333333333333
-Hans-J&ouml;rg Schek,Roger Weber,0.333333333333
-Jens-Peter Dittrich,Marcos Antonio Vaz Salles,0.333333333333
-Dong Xin,Xiaolei Li,0.333333333333
-Zvi M. Kedem,Abraham Silberschatz,0.333333333333
-Thomas Seidl 0001,Hans-Peter Kriegel,0.333333333333
-Tobias Kraft,Holger Schwarz,0.333333333333
-Jennifer Widom,Utkarsh Srivastava,0.333333333333
-Dimitrios Gunopulos,Gautam Das,0.333333333333
-Matthias Jarke,Joachim W. Schmidt,0.333333333333
-Joachim W. Schmidt,Matthias Jarke,0.333333333333
-Andrey Balmin,Yannis Papakonstantinou,0.333333333333
-Ralf Schenkel,Martin Theobald,0.333333333333
-S. Muthukrishnan,Graham Cormode,0.333333333333
-Nick Koudas,Anthony K. H. Tung,0.333333333333
-Shivakumar Vaithyanathan,Raghu Ramakrishnan,0.333333333333
-Shivakumar Vaithyanathan,Douglas Burdick,0.333333333333
-Nick Koudas,H. V. Jagadish,0.333333333333
-Sophie Cluet,Serge Abiteboul,0.333333333333
-Byron Dom,Soumen Chakrabarti,0.333333333333
-H. V. Jagadish,Laks V. S. Lakshmanan,0.333333333333
-Nick Koudas,Gautam Das,0.333333333333
-Yannis Papakonstantinou,Andrey Balmin,0.333333333333
-Martin Theobald,Ralf Schenkel,0.333333333333
-Divesh Srivastava,Raghu Ramakrishnan,0.333333333333
-Divesh Srivastava,Sihem Amer-Yahia,0.333333333333
-Matthias Bender,Gerhard Weikum,0.333333333333
-Divesh Srivastava,Laks V. S. Lakshmanan,0.333333333333
-Sihem Amer-Yahia,Divesh Srivastava,0.333333333333
-Divesh Srivastava,S. Sudarshan 0001,0.333333333333
-Divesh Srivastava,S. Muthukrishnan,0.333333333333
-Wilburt Labio,Hector Garcia-Molina,0.333333333333
-Xuemin Lin,Yidong Yuan,0.333333333333
-Yidong Yuan,Xuemin Lin,0.333333333333
-Graham Cormode,S. Muthukrishnan,0.333333333333
-Sudipto Guha,Kyuseok Shim,0.333333333333
-Donald Kossmann,Alfons Kemper,0.333333333333
-Krithi Ramamritham,Anindya Datta,0.333333333333
-Raymond T. Ng,Laks V. S. Lakshmanan,0.333333333333
-Martin L. Kersten,Stefan Manegold,0.333333333333
-Martin L. Kersten,Peter A. Boncz,0.333333333333
-Jayavel Shanmugasundaram,Eugene J. Shekita,0.333333333333
-Masaru Kitsuregawa,Mikio Takagi,0.333333333333
-Christos Faloutsos,Timos K. Sellis,0.333333333333
-H. V. Jagadish,Nick Koudas,0.333333333333
-Tolga Bozkaya,Srikanth Bellamkonda,0.333333333333
-Michael Stonebraker,Lawrence A. Rowe,0.333333333333
-Anthony K. H. Tung,Nick Koudas,0.333333333333
-Michael Stonebraker,Ugur &Ccedil;etintemel,0.333333333333
-Kyuseok Shim,Sudipto Guha,0.333333333333
-Bernd Amann,Tova Milo,0.333333333333
-Kyuseok Shim,Rajeev Rastogi,0.333333333333
-P. P. S. Narayan,Philip Bohannon,0.333333333333
-H. V. Jagadish,S. Sudarshan 0001,0.333333333333
-Patrick Valduriez,Daniela Florescu,0.333333333333
-S. Sudarshan 0001,H. V. Jagadish,0.333333333333
-Haifeng Liu,Hans-Arno Jacobsen,0.333333333333
-S. Sudarshan 0001,Divesh Srivastava,0.333333333333
-S. Sudarshan 0001,Rajeev Rastogi,0.333333333333
-S. Sudarshan 0001,Arvind Hulgeri,0.333333333333
-S. Muthukrishnan,H. V. Jagadish,0.333333333333
-Andrew Witkowski,Tolga Bozkaya,0.333333333333
-Bernd Amann,Serge Abiteboul,0.333333333333
-H. V. Jagadish,S. Muthukrishnan,0.333333333333
-H. V. Jagadish,Narain H. Gehani,0.333333333333
-Omar Benjelloun,Tova Milo,0.333333333333
-Anat Eyal,Catriel Beeri,0.333333333333
-Alon Y. Levy,Daniela Florescu,0.333333333333
-Lawrence A. Rowe,Michael Stonebraker,0.333333333333
-Peter A. Boncz,Martin L. Kersten,0.333333333333
-Sven Helmer,Guido Moerkotte,0.333333333333
-Serge Abiteboul,Sophie Cluet,0.333333333333
-Thomas Neumann 0001,Guido Moerkotte,0.333333333333
-Serge Abiteboul,Bernd Amann,0.333333333333
-Serge Abiteboul,Omar Benjelloun,0.333333333333
-Serge Abiteboul,Laurent Mignet,0.333333333333
-Guido Moerkotte,Sven Helmer,0.333333333333
-Guido Moerkotte,Thomas Neumann 0001,0.333333333333
-Stephen Blott,Henry F. Korth,0.333333333333
-Guido Moerkotte,Klaus Peithner,0.333333333333
-Umeshwar Dayal,Rakesh Agrawal,0.333333333333
-Laks V. S. Lakshmanan,H. V. Jagadish,0.333333333333
-Umeshwar Dayal,Ming-Chien Shan,0.333333333333
-Wynne Hsu,Mong-Li Lee,0.333333333333
-Mong-Li Lee,Wynne Hsu,0.333333333333
-Laks V. S. Lakshmanan,Divesh Srivastava,0.333333333333
-Omar Benjelloun,Serge Abiteboul,0.333333333333
-Laks V. S. Lakshmanan,Raymond T. Ng,0.333333333333
-Laks V. S. Lakshmanan,Wendy Hui Wang,0.333333333333
-Abraham Silberschatz,Zvi M. Kedem,0.333333333333
-S. Muthukrishnan,Divesh Srivastava,0.333333333333
-Krithi Ramamritham,Helen M. Thomas,0.333333333333
-Nesime Tatbul,Ugur &Ccedil;etintemel,0.333333333333
-Henry F. Korth,Stephen Blott,0.333333333333
-Ugur &Ccedil;etintemel,Mitch Cherniack,0.333333333333
-Ugur &Ccedil;etintemel,Michael Stonebraker,0.333333333333
-Ugur &Ccedil;etintemel,Nesime Tatbul,0.333333333333
-Raghav Kaushik,Jeffrey F. Naughton,0.333333333333
-Philip Bohannon,P. P. S. Narayan,0.333333333333
-Christoph Koch,Stefanie Scherzinger,0.333333333333
-Georges Gardarin,Zhao-Hui Tang,0.333333333333
-Curtis E. Dyreson,Christian S. Jensen,0.333333333333
-Torsten Grust,Maurice van Keulen,0.333333333333
-Tolga Bozkaya,Sankar Subramanian,0.333333333333
-K. Sel&ccedil;uk Candan,Songting Chen,0.333333333333
-Krithi Ramamritham,Shetal Shah,0.333333333333
-Maurice van Keulen,Torsten Grust,0.333333333333
-Vijayshankar Raman,Volker Markl,0.333333333333
-Maurice van Keulen,Jens Teubner,0.333333333333
-S. Muthukrishnan,Flip Korn,0.333333333333
-Wang-Pin Hsiung,Songting Chen,0.333333333333
-Wang-Pin Hsiung,Jun'ichi Tatemura,0.333333333333
-Jens Teubner,Maurice van Keulen,0.333333333333
-Donovan A. Schneider,David J. DeWitt,0.333333333333
-Songting Chen,Divyakant Agrawal,0.333333333333
-Songting Chen,K. Sel&ccedil;uk Candan,0.333333333333
-Songting Chen,Wang-Pin Hsiung,0.333333333333
-Songting Chen,Jun'ichi Tatemura,0.333333333333
-Antonio Albano,Renzo Orsini,0.333333333333
-Sergey Melnik,Philip A. Bernstein,0.333333333333
-Jun'ichi Tatemura,Wang-Pin Hsiung,0.333333333333
-Jun'ichi Tatemura,Songting Chen,0.333333333333
-Christian S. Jensen,Curtis E. Dyreson,0.333333333333
-Zolt&aacute;n Gy&ouml;ngyi,Hector Garcia-Molina,0.333333333333
-Dimitris Papadias,Nikos Mamoulis,0.333333333333
-Hector Garcia-Molina,Zolt&aacute;n Gy&ouml;ngyi,0.333333333333
-Torben Bach Pedersen,Christian S. Jensen,0.333333333333
-Hector Garcia-Molina,Wilburt Labio,0.333333333333
-Wenfei Fan,Rajeev Rastogi,0.333333333333
-Wenfei Fan,Xibei Jia,0.333333333333
-Wenfei Fan,Chee Yong Chan,0.333333333333
-Hector Garcia-Molina,Narayanan Shivakumar,0.333333333333
-Stavros Harizopoulos,Anastassia Ailamaki,0.333333333333
-Anastassia Ailamaki,Stavros Harizopoulos,0.333333333333
-Jerry Kiernan,Rakesh Agrawal,0.333333333333
-Eugene J. Shekita,Jayavel Shanmugasundaram,0.333333333333
-Soumen Chakrabarti,Byron Dom,0.333333333333
-Sin Yeung Lee,Tok Wang Ling,0.333333333333
-Renzo Orsini,Antonio Albano,0.333333333333
-Roger Weber,Hans-J&ouml;rg Schek,0.333333333333
-Lei Sheng,Tolga Bozkaya,0.333333333333
-Divyakant Agrawal,Songting Chen,0.333333333333
-Jagannathan Srinivasan,Souripriya Das,0.333333333333
-Tok Wang Ling,Sin Yeung Lee,0.333333333333
-Jagannathan Srinivasan,Eugene Inseok Chong,0.333333333333
-Stefanie Scherzinger,Christoph Koch,0.333333333333
-Xiaolei Li,Dong Xin,0.333333333333
-Frank Olken,Doron Rotem,0.333333333333
-Tolga Bozkaya,Andrew Witkowski,0.333333333333
-Hamid Pirahesh,Roberta Cochrane,0.333333333333
-Douglas Burdick,Shivakumar Vaithyanathan,0.333333333333
-Douglas Burdick,Raghu Ramakrishnan,0.333333333333
-Prasad Deshpande,Jeffrey F. Naughton,0.333333333333
-Wendy Hui Wang,Laks V. S. Lakshmanan,0.333333333333
-Lucian Popa,Ren&eacute;e J. Miller,0.333333333333
-Lucian Popa,Mauricio A. Hern&aacute;ndez,0.333333333333
-David B. Lomet,Betty Salzberg,0.333333333333
-Marek Rusinkiewicz,Amit P. Sheth,0.333333333333
-Amit P. Sheth,Marek Rusinkiewicz,0.333333333333
-Praveen Seshadri,Raghu Ramakrishnan,0.333333333333
-Philip A. Bernstein,Sergey Melnik,0.333333333333
-Yehoshua Sagiv,Yaron Kanza,0.333333333333
-Hongjun Lu,Beng Chin Ooi,0.333333333333
-Jagannathan Srinivasan,Seema Sundara,0.333333333333
-Raghu Ramakrishnan,Shivakumar Vaithyanathan,0.333333333333
-Raghu Ramakrishnan,Praveen Seshadri,0.333333333333
-Xiaolei Li,Hector Gonzalez,0.333333333333
-Jagannathan Srinivasan,Ying Hu,0.333333333333
-Raghu Ramakrishnan,Divesh Srivastava,0.333333333333
-Souripriya Das,Jagannathan Srinivasan,0.333333333333
-Hongjun Lu,Haifeng Jiang,0.333333333333
-Michael J. Franklin,Stanley B. Zdonik,0.333333333333
-Raghu Ramakrishnan,Douglas Burdick,0.333333333333
-Hongjun Lu,Wei Wang 0011,0.333333333333
-Roberta Cochrane,Hamid Pirahesh,0.333333333333
-Raghu Ramakrishnan,AnHai Doan,0.333333333333
-Rakesh Agrawal,Umeshwar Dayal,0.333333333333
-Rakesh Agrawal,Jerry Kiernan,0.333333333333
-Alfons Kemper,Donald Kossmann,0.333333333333
-Alfons Kemper,Klaus Peithner,0.333333333333
-Yufei Tao,Xiaokui Xiao,0.333333333333
-Patrick Valduriez,Philippe Pucheral,0.333333333333
-Souripriya Das,Eugene Inseok Chong,0.333333333333
-Xiaokui Xiao,Yufei Tao,0.333333333333
-Christian S. Jensen,Torben Bach Pedersen,0.333333333333
-Yannis E. Ioannidis,Viswanath Poosala,0.333333333333
-Catriel Beeri,Anat Eyal,0.333333333333
-Eugene Inseok Chong,Jagannathan Srinivasan,0.333333333333
-Haixun Wang,Carlo Zaniolo,0.333333333333
-AnHai Doan,Raghu Ramakrishnan,0.333333333333
-Carlo Zaniolo,Haixun Wang,0.333333333333
-Utkarsh Srivastava,Jennifer Widom,0.333333333333
-Stanley B. Zdonik,Michael J. Franklin,0.333333333333
-Giansalvatore Mecca,Paolo Merialdo,0.333333333333
-Eugene Inseok Chong,Souripriya Das,0.333333333333
-Narayanan Shivakumar,Hector Garcia-Molina,0.333333333333
-Jeffrey Xu Yu,Wei Wang 0011,0.333333333333
-Beng Chin Ooi,Cheng Hian Goh,0.333333333333
-Paolo Merialdo,Giansalvatore Mecca,0.333333333333
-Ming-Chien Shan,Umeshwar Dayal,0.333333333333
-Philip S. Yu,Bugra Gedik,0.333333333333
-Helen M. Thomas,Anindya Datta,0.333333333333
-Beng Chin Ooi,Hongjun Lu,0.333333333333
-Gerhard Weikum,Matthias Bender,0.333333333333
-Walid G. Aref,Mohamed F. Mokbel,0.333333333333
-Cheng Hian Goh,Beng Chin Ooi,0.333333333333
-Anindya Datta,Krithi Ramamritham,0.333333333333
-Cheng Hian Goh,Kian-Lee Tan,0.333333333333
-Rajeev Rastogi,Kyuseok Shim,0.333333333333
-Rajeev Rastogi,S. Sudarshan 0001,0.333333333333
-Rajeev Rastogi,Wenfei Fan,0.333333333333
-Rajeev Rastogi,Chee Yong Chan,0.333333333333
-Hans-Arno Jacobsen,Haifeng Liu,0.333333333333
-Nikos Mamoulis,Dimitris Papadias,0.333333333333
-Luc Bouganim,Patrick Valduriez,0.333333333333
-Srikanth Bellamkonda,Tolga Bozkaya,0.333333333333
-Flip Korn,S. Muthukrishnan,0.333333333333
-Xibei Jia,Wenfei Fan,0.333333333333
-Chee Yong Chan,Wenfei Fan,0.333333333333
-Chee Yong Chan,Rajeev Rastogi,0.333333333333
-Sam Lightstone,Guy M. Lohman,0.333333333333
-Sophie Cluet,Tova Milo,0.333333333333
-William O'Connell,Andrew Witkowski,0.222222222222
-William O'Connell,Felipe Cari&ntilde;o,0.222222222222
-Andrew Witkowski,Abhinav Gupta,0.222222222222
-Andrew Witkowski,William O'Connell,0.222222222222
-Jeffrey F. Naughton,Janet L. Wiener,0.222222222222
-Andrey Balmin,Kevin S. Beyer,0.222222222222
-Andrey Balmin,Fatma &Ouml;zcan,0.222222222222
-Vagelis Hristidis,Andrey Balmin,0.222222222222
-Andrew Witkowski,Nathan Folkert,0.222222222222
-Alon Y. Levy,Divesh Srivastava,0.222222222222
-Alon Y. Levy,Dan Suciu,0.222222222222
-Fei Sha,Georges Gardarin,0.222222222222
-Jeffrey F. Naughton,Stratis Viglas,0.222222222222
-Surajit Chaudhuri,Raghav Kaushik,0.222222222222
-Surajit Chaudhuri,Venkatesh Ganti,0.222222222222
-David J. DeWitt,Jennifer Widom,0.222222222222
-Nick Koudas,Sudipto Guha,0.222222222222
-Surajit Chaudhuri,Nicolas Bruno,0.222222222222
-Alon Y. Levy,Yehoshua Sagiv,0.222222222222
-Surajit Chaudhuri,Sanjay Agrawal,0.222222222222
-Hans-Peter Kriegel,Martin Ester,0.222222222222
-Surajit Chaudhuri,Manoj Syamala,0.222222222222
-Peter Pistor,Volker Linnemann,0.222222222222
-Balakrishna R. Iyer,Philip S. Yu,0.222222222222
-Balakrishna R. Iyer,Daniel M. Dias,0.222222222222
-Anand Rajaraman,Joann J. Ordille,0.222222222222
-David J. DeWitt,Michael J. Carey,0.222222222222
-Susan B. Davidson,Yifeng Zheng,0.222222222222
-Joann J. Ordille,Anand Rajaraman,0.222222222222
-Kaladhar Voruganti,M. Tamer &Ouml;zsu,0.222222222222
-Kaladhar Voruganti,Ronald C. Unrau,0.222222222222
-M. Tamer &Ouml;zsu,Kaladhar Voruganti,0.222222222222
-M. Tamer &Ouml;zsu,Ronald C. Unrau,0.222222222222
-Ronald C. Unrau,Kaladhar Voruganti,0.222222222222
-Ronald C. Unrau,M. Tamer &Ouml;zsu,0.222222222222
-David J. DeWitt,Anastassia Ailamaki,0.222222222222
-Serge Abiteboul,Ioana Manolescu,0.222222222222
-Serge Abiteboul,Am&eacute;lie Marian,0.222222222222
-Serge Abiteboul,J&eacute;r&ocirc;me Baumgarten,0.222222222222
-Serge Abiteboul,Gregory Cobena,0.222222222222
-David J. DeWitt,Manish Mehta 0002,0.222222222222
-Serge Abiteboul,Nicoleta Preda,0.222222222222
-Shivakumar Vaithyanathan,T. S. Jayram,0.222222222222
-Nick Koudas,Beng Chin Ooi,0.222222222222
-Jeffrey F. Naughton,Rajasekar Krishnamurthy,0.222222222222
-David J. DeWitt,Robert H. Gerber,0.222222222222
-Nick Koudas,Chen Li 0001,0.222222222222
-Nick Koudas,Amit Marathe,0.222222222222
-David J. DeWitt,Mark D. Hill,0.222222222222
-Alin Deutsch,Val Tannen,0.222222222222
-David J. DeWitt,Vuk Ercegovac,0.222222222222
-Val Tannen,Alin Deutsch,0.222222222222
-Nick Koudas,Kenneth C. Sevcik,0.222222222222
-Umeshwar Dayal,Philip A. Bernstein,0.222222222222
-Guido Moerkotte,Michael Steinbrunn,0.222222222222
-Nick Koudas,Nilesh Bansal,0.222222222222
-Nick Koudas,Rui Zhang 0003,0.222222222222
-Nick Roussopoulos,Christos Faloutsos,0.222222222222
-Hans-J&ouml;rg Schek,Klemens B&ouml;hm,0.222222222222
-Umeshwar Dayal,Meichun Hsu,0.222222222222
-Umeshwar Dayal,Rivka Ladin,0.222222222222
-Nick Roussopoulos,Alexandros Labrinidis,0.222222222222
-Eric Simon,Christophe de Maindreville,0.222222222222
-Jeffrey F. Naughton,AnHai Doan,0.222222222222
-Wynne Hsu,Keng Lik Teo,0.222222222222
-Divesh Srivastava,Sudipto Guha,0.222222222222
-Mong-Li Lee,Keng Lik Teo,0.222222222222
-Nick Roussopoulos,Timos K. Sellis,0.222222222222
-Keng Lik Teo,Wynne Hsu,0.222222222222
-Keng Lik Teo,Mong-Li Lee,0.222222222222
-Chenyi Xia,Beng Chin Ooi,0.222222222222
-Nilesh N. Dalvi,Dan Suciu,0.222222222222
-Dan Suciu,Alon Y. Levy,0.222222222222
-Divesh Srivastava,Alon Y. Levy,0.222222222222
-Hans-J&ouml;rg Schek,Heiko Schuldt,0.222222222222
-Dan Suciu,Nilesh N. Dalvi,0.222222222222
-Hans-J&ouml;rg Schek,Yuri Breitbart,0.222222222222
-Vincent Y. Lum,Peter Dadam,0.222222222222
-Dan Suciu,Daniela Florescu,0.222222222222
-Antonio L. Furtado,Jos&eacute; Mauro Volkmer de Castilho,0.222222222222
-Am&eacute;lie Marian,J&eacute;r&ocirc;me Sim&eacute;on,0.222222222222
-Am&eacute;lie Marian,Serge Abiteboul,0.222222222222
-Am&eacute;lie Marian,Laurent Mignet,0.222222222222
-Nesime Tatbul,Mitch Cherniack,0.222222222222
-Nesime Tatbul,Michael Stonebraker,0.222222222222
-Divesh Srivastava,Amit Marathe,0.222222222222
-Divesh Srivastava,Flip Korn,0.222222222222
-J&eacute;r&ocirc;me Sim&eacute;on,Am&eacute;lie Marian,0.222222222222
-Divesh Srivastava,Shaul Dar,0.222222222222
-Divesh Srivastava,SungRan Cho,0.222222222222
-Ugur &Ccedil;etintemel,Donald Carney,0.222222222222
-Scott Shenker,Joseph M. Hellerstein,0.222222222222
-Scott Shenker,Ryan Huebsch,0.222222222222
-Scott Shenker,Boon Thau Loo,0.222222222222
-Scott Shenker,Ion Stoica,0.222222222222
-Neoklis Polyzotis,Joshua Spiegel,0.222222222222
-Janet L. Wiener,Jeffrey F. Naughton,0.222222222222
-Raghav Kaushik,Surajit Chaudhuri,0.222222222222
-Raghav Kaushik,Venkatesh Ganti,0.222222222222
-Minos N. Garofalakis,Graham Cormode,0.222222222222
-Philip Bohannon,Henry F. Korth,0.222222222222
-Philip Bohannon,Abraham Silberschatz,0.222222222222
-Chen Li 0001,Anthony K. H. Tung,0.222222222222
-Philip Bohannon,S. Sudarshan 0001,0.222222222222
-Minos N. Garofalakis,Kyuseok Shim,0.222222222222
-Philip Bohannon,Pradeep Shenoy,0.222222222222
-Philip Bohannon,Wenfei Fan,0.222222222222
-Philip Bohannon,Michael Flaster,0.222222222222
-Minos N. Garofalakis,Yannis E. Ioannidis,0.222222222222
-Chen Li 0001,Nick Koudas,0.222222222222
-Philip Bohannon,Rajeev Rastogi,0.222222222222
-Minos N. Garofalakis,Chee Yong Chan,0.222222222222
-Minos N. Garofalakis,Banu &Ouml;zden,0.222222222222
-Pradeep Shenoy,Philip Bohannon,0.222222222222
-Georges Gardarin,Fei Sha,0.222222222222
-Georges Gardarin,Jean-Robert Gruser,0.222222222222
-Chen Li 0001,Xiaochun Yang,0.222222222222
-Georges Gardarin,Jean Le Bihan,0.222222222222
-Yi-Cheng Tu,Sunil Prabhakar,0.222222222222
-Sunil Prabhakar,Yi-Cheng Tu,0.222222222222
-Chen Li 0001,Liang Jin,0.222222222222
-Sunil Prabhakar,Ben Kao,0.222222222222
-Sailesh Krishnamurthy,Michael J. Franklin,0.222222222222
-Xiaochun Yang,Chen Li 0001,0.222222222222
-Jeffrey F. Naughton,Karthikeyan Ramasamy,0.222222222222
-Wilburt Labio,Jun Yang 0001,0.222222222222
-Jun Yang 0001,Hector Garcia-Molina,0.222222222222
-Jun Yang 0001,Wilburt Labio,0.222222222222
-Sandeep Pandey,Christopher Olston,0.222222222222
-K. Sel&ccedil;uk Candan,Yusuf Akca,0.222222222222
-K. Sel&ccedil;uk Candan,Hua-Gang Li,0.222222222222
-Erich J. Neuhold,Shamkant B. Navathe,0.222222222222
-Erich J. Neuhold,Michael Stonebraker,0.222222222222
-Erich J. Neuhold,Gio Wiederhold,0.222222222222
-Arnon Rosenthal,Sandra Heiler,0.222222222222
-Jian Pei,Jiawei Han,0.222222222222
-Jian Pei,Laks V. S. Lakshmanan,0.222222222222
-Wang-Pin Hsiung,Yusuf Akca,0.222222222222
-Wang-Pin Hsiung,Hua-Gang Li,0.222222222222
-Jian Pei,Xuemin Lin,0.222222222222
-Jian Pei,Ke Wang,0.222222222222
-Jian Pei,Ada Wai-Chee Fu,0.222222222222
-Xuemin Lin,Jian Pei,0.222222222222
-Songting Chen,Hua-Gang Li,0.222222222222
-Dong Xin,Hong Cheng,0.222222222222
-Xuemin Lin,Qing Liu,0.222222222222
-Xuemin Lin,Wei Wang 0011,0.222222222222
-Piotr Indyk,S. Muthukrishnan,0.222222222222
-Jun'ichi Tatemura,Hua-Gang Li,0.222222222222
-Laura M. Haas,Donald Kossmann,0.222222222222
-Michael H. B&ouml;hlen,Nikolaus Augsten,0.222222222222
-Michael H. B&ouml;hlen,Johann Gamper,0.222222222222
-Ravi Kumar,Sridhar Rajagopalan,0.222222222222
-Yidong Yuan,Qing Liu,0.222222222222
-Zolt&aacute;n Gy&ouml;ngyi,Jan O. Pedersen,0.222222222222
-Graham Cormode,Minos N. Garofalakis,0.222222222222
-Ravi Kumar,D. Sivakumar,0.222222222222
-Sridhar Rajagopalan,Ravi Kumar,0.222222222222
-Hector Garcia-Molina,Jan O. Pedersen,0.222222222222
-Sridhar Rajagopalan,Andrew Tomkins,0.222222222222
-Till Westmann,Michael J. Carey,0.222222222222
-Andrew Tomkins,Sridhar Rajagopalan,0.222222222222
-Andr&eacute; Eickler,Donald Kossmann,0.222222222222
-Andrew Tomkins,D. Sivakumar,0.222222222222
-Xifeng Yan,Jiawei Han,0.222222222222
-Wenfei Fan,Anastasios Kementsietsidis,0.222222222222
-Wenfei Fan,Philip Bohannon,0.222222222222
-Hector Garcia-Molina,Jennifer Widom,0.222222222222
-Wenfei Fan,Michael Flaster,0.222222222222
-Donald Kossmann,Ioana Manolescu,0.222222222222
-Hector Garcia-Molina,Jun Yang 0001,0.222222222222
-Donald Kossmann,Andr&eacute; Eickler,0.222222222222
-Hector Garcia-Molina,Mayank Bawa,0.222222222222
-Wenfei Fan,Floris Geerts,0.222222222222
-Hector Garcia-Molina,Gio Wiederhold,0.222222222222
-Donald Kossmann,Michael J. Carey,0.222222222222
-Sudipto Guha,Nick Koudas,0.222222222222
-Wenfei Fan,Gao Cong,0.222222222222
-Sudipto Guha,Divesh Srivastava,0.222222222222
-Wenfei Fan,Shuai Ma,0.222222222222
-Michael Flaster,Philip Bohannon,0.222222222222
-Hector Garcia-Molina,Luis Gravano,0.222222222222
-Michael Flaster,Wenfei Fan,0.222222222222
-Hector Garcia-Molina,Rajeev Motwani,0.222222222222
-Donald Kossmann,Laura M. Haas,0.222222222222
-Stavros Harizopoulos,Samuel Madden,0.222222222222
-Stavros Harizopoulos,Daniel J. Abadi,0.222222222222
-Anastassia Ailamaki,David J. DeWitt,0.222222222222
-Hong Cheng,Jiawei Han,0.222222222222
-Anastassia Ailamaki,Todd C. Mowry,0.222222222222
-Hector Garcia-Molina,Sriram Raghavan,0.222222222222
-Anastassia Ailamaki,Mark D. Hill,0.222222222222
-Hector Garcia-Molina,Robert K. Abbott,0.222222222222
-Anastassia Ailamaki,Jiri Schindler,0.222222222222
-Anastassia Ailamaki,Gregory R. Ganger,0.222222222222
-Hector Garcia-Molina,Prasanna Ganesan,0.222222222222
-Jerry Kiernan,Jayavel Shanmugasundaram,0.222222222222
-Hong Cheng,Dong Xin,0.222222222222
-Jerry Kiernan,Eugene J. Shekita,0.222222222222
-Jerry Kiernan,Ramakrishnan Srikant,0.222222222222
-Donald Kossmann,Jens-Peter Dittrich,0.222222222222
-S. Seshadri,Abraham Silberschatz,0.222222222222
-Eugene J. Shekita,Jerry Kiernan,0.222222222222
-Eugene J. Shekita,Bruce G. Lindsay 0001,0.222222222222
-Raymond T. Ng,H. V. Jagadish,0.222222222222
-S. Seshadri,Jeffrey F. Naughton,0.222222222222
-Raymond T. Ng,Kyuseok Shim,0.222222222222
-Raymond T. Ng,Edwin M. Knorr,0.222222222222
-Raymond T. Ng,Timos K. Sellis,0.222222222222
-Christos Faloutsos,Nick Roussopoulos,0.222222222222
-Raymond T. Ng,Theodore Johnson,0.222222222222
-Mariano P. Consens,Ricardo A. Baeza-Yates,0.222222222222
-Christos Faloutsos,H. V. Jagadish,0.222222222222
-Alberto O. Mendelzon,Alejandro A. Vaisman,0.222222222222
-Phillip B. Gibbons,Viswanath Poosala,0.222222222222
-Susan J. Eggers,Arie Shoshani,0.222222222222
-Divyakant Agrawal,Yusuf Akca,0.222222222222
-Florian Waas,C&eacute;sar A. Galindo-Legaria,0.222222222222
-Divyakant Agrawal,Hua-Gang Li,0.222222222222
-Frank Olken,Arie Shoshani,0.222222222222
-Frank Olken,Harry K. T. Wong,0.222222222222
-Arie Shoshani,Susan J. Eggers,0.222222222222
-Arie Shoshani,Frank Olken,0.222222222222
-Hai He,Weiyi Meng,0.222222222222
-Hai He,Clement T. Yu,0.222222222222
-Hai He,Zonghuan Wu,0.222222222222
-Zonghuan Wu,Weiyi Meng,0.222222222222
-Zonghuan Wu,Clement T. Yu,0.222222222222
-Zonghuan Wu,Hai He,0.222222222222
-Spiros Papadimitriou,Christos Faloutsos,0.222222222222
-Jeffrey F. Naughton,Donovan A. Schneider,0.222222222222
-Jennifer Widom,Hector Garcia-Molina,0.222222222222
-Bee-Chung Chen,Lei Chen 0003,0.222222222222
-Venkatesh Ganti,Raghu Ramakrishnan,0.222222222222
-Venkatesh Ganti,Surajit Chaudhuri,0.222222222222
-Venkatesh Ganti,Raghav Kaushik,0.222222222222
-Mayank Bawa,Hector Garcia-Molina,0.222222222222
-Mayank Bawa,Prasanna Ganesan,0.222222222222
-Roberto J. Bayardo Jr.,Rakesh Agrawal,0.222222222222
-Martin L. Kersten,C&eacute;sar A. Galindo-Legaria,0.222222222222
-Annita N. Wilschut,Jan Flokstra,0.222222222222
-Martin L. Kersten,Arjan Pellenkoft,0.222222222222
-Douglas Burdick,T. S. Jayram,0.222222222222
-Jan Flokstra,Annita N. Wilschut,0.222222222222
-Prasad Deshpande,Raghu Ramakrishnan,0.222222222222
-Christos Faloutsos,Spiros Papadimitriou,0.222222222222
-Prasad Deshpande,Amit Shukla,0.222222222222
-T. S. Jayram,Shivakumar Vaithyanathan,0.222222222222
-T. S. Jayram,Raghu Ramakrishnan,0.222222222222
-T. S. Jayram,Douglas Burdick,0.222222222222
-Jennifer Widom,David J. DeWitt,0.222222222222
-Wendy Hui Wang,Zheng (Jessica) Zhao,0.222222222222
-Michael J. Carey,Jayavel Shanmugasundaram,0.222222222222
-Lucian Popa,Yannis Velegrakis,0.222222222222
-Michael J. Carey,Michael J. Franklin,0.222222222222
-Michael J. Carey,David J. DeWitt,0.222222222222
-Rajiv Jauhari,Miron Livny,0.222222222222
-Rajiv Jauhari,Michael J. Carey,0.222222222222
-Mohammad R. Kolahdouzan,Cyrus Shahabi,0.222222222222
-Peter M. G. Apers,Henk M. Blanken,0.222222222222
-Cyrus Shahabi,Mohammad R. Kolahdouzan,0.222222222222
-Cyrus Shahabi,Mehdi Sharifzadeh,0.222222222222
-Christos Faloutsos,Stavros Christodoulakis,0.222222222222
-Christos Faloutsos,Flip Korn,0.222222222222
-Praveen Seshadri,Miron Livny,0.222222222222
-Jignesh M. Patel,Richard A. Hankins,0.222222222222
-Jignesh M. Patel,Sandeep Tata,0.222222222222
-Michael J. Carey,Till Westmann,0.222222222222
-Bernhard Mitschang,Tobias Kraft,0.222222222222
-Bernhard Mitschang,Holger Schwarz,0.222222222222
-Miron Livny,Praveen Seshadri,0.222222222222
-Miron Livny,Raghu Ramakrishnan,0.222222222222
-Miron Livny,Michael J. Franklin,0.222222222222
-Yehoshua Sagiv,Alon Y. Levy,0.222222222222
-Michael J. Carey,Donald Kossmann,0.222222222222
-Jeffrey F. Naughton,Amit Shukla,0.222222222222
-Miron Livny,Rajiv Jauhari,0.222222222222
-Miron Livny,Yannis E. Ioannidis,0.222222222222
-Yehoshua Sagiv,Benny Kimelfeld,0.222222222222
-Yehoshua Sagiv,Sara Cohen,0.222222222222
-Jeffrey D. Ullman,Rajeev Motwani,0.222222222222
-Aoying Zhou,Hongjun Lu,0.222222222222
-Miron Livny,Kurt P. Brown,0.222222222222
-Aoying Zhou,Shihui Zheng,0.222222222222
-Christos Faloutsos,Nikolaos Sidiropoulos,0.222222222222
-Michael J. Carey,Rajiv Jauhari,0.222222222222
-Michael J. Carey,Bruce G. Lindsay 0001,0.222222222222
-Hongjun Lu,Aoying Zhou,0.222222222222
-Hongjun Lu,Zengping Tian,0.222222222222
-Michael J. Carey,Daniela Florescu,0.222222222222
-Raghu Ramakrishnan,Miron Livny,0.222222222222
-Raghu Ramakrishnan,Abraham Silberschatz,0.222222222222
-Hongjun Lu,Ming-Chien Shan,0.222222222222
-Raghu Ramakrishnan,Rakesh Agrawal,0.222222222222
-Christos Faloutsos,Jimeng Sun,0.222222222222
-Michael J. Carey,Kurt P. Brown,0.222222222222
-Raghu Ramakrishnan,David J. DeWitt,0.222222222222
-Michael J. Carey,Vinayak R. Borkar,0.222222222222
-Jennifer Widom,Roberta Cochrane,0.222222222222
-Michael J. Carey,Nicola Onose,0.222222222222
-Peter Baumann,Paula Furtado,0.222222222222
-Raghu Ramakrishnan,Venkatesh Ganti,0.222222222222
-Peter Baumann,Roland Ritsch,0.222222222222
-Raghu Ramakrishnan,Prasad Deshpande,0.222222222222
-Raghu Ramakrishnan,T. S. Jayram,0.222222222222
-Peter Baumann,Norbert Widmann,0.222222222222
-Shihui Zheng,Aoying Zhou,0.222222222222
-Zengping Tian,Hongjun Lu,0.222222222222
-Raghu Ramakrishnan,Yannis E. Ioannidis,0.222222222222
-Paula Furtado,Peter Baumann,0.222222222222
-Raghu Ramakrishnan,Warren Shen,0.222222222222
-Roberta Cochrane,Jennifer Widom,0.222222222222
-Paula Furtado,Roland Ritsch,0.222222222222
-Roberta Cochrane,Bruce G. Lindsay 0001,0.222222222222
-Bruce G. Lindsay 0001,Michael J. Carey,0.222222222222
-Bruce G. Lindsay 0001,Eugene J. Shekita,0.222222222222
-Bruce G. Lindsay 0001,Roberta Cochrane,0.222222222222
-Amit Marathe,Nick Koudas,0.222222222222
-Amit Marathe,Divesh Srivastava,0.222222222222
-David K. Hsiao,Stuart E. Madnick,0.222222222222
-Paula Furtado,Norbert Widmann,0.222222222222
-Roland Ritsch,Peter Baumann,0.222222222222
-Roland Ritsch,Paula Furtado,0.222222222222
-Raghu Ramakrishnan,Kristen LeFevre,0.222222222222
-Alfons Kemper,Jens Clau&szlig;en,0.222222222222
-Raghu Ramakrishnan,Lei Chen 0003,0.222222222222
-Roland Ritsch,Norbert Widmann,0.222222222222
-Raghu Ramakrishnan,Vuk Ercegovac,0.222222222222
-Alfons Kemper,Angelika Reiser,0.222222222222
-Alfons Kemper,Richard Kuntschke,0.222222222222
-Alfons Kemper,Christian Wiesner,0.222222222222
-Alfons Kemper,Michael Steinbrunn,0.222222222222
-Gio Wiederhold,Hector Garcia-Molina,0.222222222222
-Gio Wiederhold,Erich J. Neuhold,0.222222222222
-Gio Wiederhold,Kyu-Young Whang,0.222222222222
-Gio Wiederhold,Daniel Sagalowicz,0.222222222222
-Norbert Widmann,Peter Baumann,0.222222222222
-Norbert Widmann,Paula Furtado,0.222222222222
-Norbert Widmann,Roland Ritsch,0.222222222222
-Stanley Y. W. Su,Robert W. Taylor,0.222222222222
-Stanley Y. W. Su,James P. Fry,0.222222222222
-Reynold Cheng,Ben Kao,0.222222222222
-David J. DeWitt,Raghu Ramakrishnan,0.222222222222
-Ben Kao,Sunil Prabhakar,0.222222222222
-Ben Kao,Reynold Cheng,0.222222222222
-Ravi Krishnamurthy,Stephen P. Morgan,0.222222222222
-Hans-Peter Kriegel,Bernhard Seeger,0.222222222222
-Nathan Goodman,James B. Rothnie Jr.,0.222222222222
-Oded Shmueli,H. V. Jagadish,0.222222222222
-Oded Shmueli,David Konopnicki,0.222222222222
-Alejandro A. Vaisman,Alberto O. Mendelzon,0.222222222222
-Richard Hull,Dean Jacobs,0.222222222222
-Yannis E. Ioannidis,Minos N. Garofalakis,0.222222222222
-Yannis E. Ioannidis,Miron Livny,0.222222222222
-Yannis E. Ioannidis,Raghu Ramakrishnan,0.222222222222
-Michael Stonebraker,Erich J. Neuhold,0.222222222222
-Shu-Yao Chien,Carlo Zaniolo,0.222222222222
-Shu-Yao Chien,Vassilis J. Tsotras,0.222222222222
-Zografoula Vagena,Vassilis J. Tsotras,0.222222222222
-Vassilis J. Tsotras,Carlo Zaniolo,0.222222222222
-Abhinav Gupta,Andrew Witkowski,0.222222222222
-Catriel Beeri,Simon Kamenkovich,0.222222222222
-Abhinav Gupta,Srikanth Bellamkonda,0.222222222222
-Vassilis J. Tsotras,Shu-Yao Chien,0.222222222222
-Vassilis J. Tsotras,Zografoula Vagena,0.222222222222
-Vassilis J. Tsotras,Mirella Moura Moro,0.222222222222
-Vassilis J. Tsotras,Petko Bakalov,0.222222222222
-T. H. Merrett,Ekow J. Otoo,0.222222222222
-Haixun Wang,Philip S. Yu,0.222222222222
-Abhinav Gupta,Tolga Bozkaya,0.222222222222
-Yasushi Sakurai,Masatoshi Yoshikawa,0.222222222222
-Yasushi Sakurai,Shunsuke Uemura,0.222222222222
-Masatoshi Yoshikawa,Yasushi Sakurai,0.222222222222
-Masatoshi Yoshikawa,Shunsuke Uemura,0.222222222222
-Shunsuke Uemura,Yasushi Sakurai,0.222222222222
-Shunsuke Uemura,Masatoshi Yoshikawa,0.222222222222
-Warren Shen,Raghu Ramakrishnan,0.222222222222
-Warren Shen,AnHai Doan,0.222222222222
-Abhinav Gupta,Lei Sheng,0.222222222222
-AnHai Doan,Jeffrey F. Naughton,0.222222222222
-AnHai Doan,Warren Shen,0.222222222222
-Florian Matthes,Joachim W. Schmidt,0.222222222222
-Takeshi Fukuda,Yasuhiko Morimoto,0.222222222222
-Takeshi Fukuda,Takeshi Tokuyama,0.222222222222
-Takeshi Fukuda,Hirofumi Matsuzawa,0.222222222222
-Yasuhiko Morimoto,Takeshi Fukuda,0.222222222222
-Yasuhiko Morimoto,Shinichi Morishita,0.222222222222
-Yasuhiko Morimoto,Takeshi Tokuyama,0.222222222222
-Shinichi Morishita,Yasuhiko Morimoto,0.222222222222
-Takeshi Tokuyama,Takeshi Fukuda,0.222222222222
-Takeshi Tokuyama,Yasuhiko Morimoto,0.222222222222
-Simone Santini,Amarnath Gupta,0.222222222222
-Mirella Moura Moro,Vassilis J. Tsotras,0.222222222222
-Stavros Christodoulakis,Christos Faloutsos,0.222222222222
-Robert Baumgartner,Sergio Flesca,0.222222222222
-Robert Baumgartner,Georg Gottlob,0.222222222222
-Carlo Zaniolo,Shu-Yao Chien,0.222222222222
-Sergio Flesca,Robert Baumgartner,0.222222222222
-Carlo Zaniolo,Vassilis J. Tsotras,0.222222222222
-Abhinav Gupta,Sankar Subramanian,0.222222222222
-Sergio Flesca,Georg Gottlob,0.222222222222
-Georg Gottlob,Robert Baumgartner,0.222222222222
-Georg Gottlob,Sergio Flesca,0.222222222222
-Wolfgang Lehner,Dirk Habich,0.222222222222
-Wolfgang Lehner,Sven Schmidt,0.222222222222
-Wolfgang Lehner,Thomas Legler,0.222222222222
-Dirk Habich,Wolfgang Lehner,0.222222222222
-Abhinav Gupta,Nathan Folkert,0.222222222222
-David J. DeWitt,Leonidas Galanis,0.222222222222
-Anthony K. H. Tung,Beng Chin Ooi,0.222222222222
-Anthony K. H. Tung,Kian-Lee Tan,0.222222222222
-Utkarsh Srivastava,Rajeev Motwani,0.222222222222
-Jayant Madhavan,Alon Y. Halevy,0.222222222222
-Erhard Rahm,Philip A. Bernstein,0.222222222222
-Jennifer Widom,Rajeev Motwani,0.222222222222
-Anthony K. H. Tung,Chen Li 0001,0.222222222222
-Erhard Rahm,Thomas St&ouml;hr,0.222222222222
-Erhard Rahm,Robert Marek,0.222222222222
-Michael Stonebraker,Nesime Tatbul,0.222222222222
-Jennifer Widom,Omar Benjelloun,0.222222222222
-Ming-Chien Shan,Kian-Lee Tan,0.222222222222
-Stanley B. Zdonik,Donald Carney,0.222222222222
-Michael Stonebraker,Samuel Madden,0.222222222222
-Ming-Chien Shan,Hongjun Lu,0.222222222222
-Michael Stonebraker,Daniel J. Abadi,0.222222222222
-Michael Stonebraker,Donald Carney,0.222222222222
-Gerhard Weikum,Josiane Xavier Parreira,0.222222222222
-Michael Stonebraker,Alex Rasin,0.222222222222
-Jennifer Widom,Yingwei Cui,0.222222222222
-Kyuseok Shim,Minos N. Garofalakis,0.222222222222
-Kyuseok Shim,Raymond T. Ng,0.222222222222
-Stanley B. Zdonik,Alex Rasin,0.222222222222
-Gerhard Weikum,Peter Triantafillou,0.222222222222
-Gerhard Weikum,Axel M&ouml;nkeberg,0.222222222222
-Gerhard Weikum,Christof Hasse,0.222222222222
-Gerhard Weikum,Jens Graupmann,0.222222222222
-Gerhard Weikum,German Shegalov,0.222222222222
-Jo&atilde;o L. M. Pereira,Fran&ccedil;oise Fabret,0.222222222222
-Gerhard Weikum,Christian Zimmer,0.222222222222
-Jo&atilde;o L. M. Pereira,Fran&ccedil;ois Llirbat,0.222222222222
-Jo&atilde;o L. M. Pereira,Dennis Shasha,0.222222222222
-Dimitrios Gunopulos,Themis Palpanas,0.222222222222
-Jennifer Widom,Anish Das Sarma,0.222222222222
-Fran&ccedil;oise Fabret,Jo&atilde;o L. M. Pereira,0.222222222222
-P. P. S. Narayan,Henry F. Korth,0.222222222222
-Fran&ccedil;oise Fabret,Fran&ccedil;ois Llirbat,0.222222222222
-Fran&ccedil;oise Fabret,Dennis Shasha,0.222222222222
-P. P. S. Narayan,S. Sudarshan 0001,0.222222222222
-Rajeev Rastogi,Philip Bohannon,0.222222222222
-Yahiko Kambayashi,Katsumi Tanaka,0.222222222222
-S. Sudarshan 0001,Soumen Chakrabarti,0.222222222222
-Katsumi Tanaka,Yahiko Kambayashi,0.222222222222
-Kenneth P. Smith,Hanan Samet,0.222222222222
-Kenneth P. Smith,Glenn S. Iwerks,0.222222222222
-Fabrizio Ferrandina,Thorsten Meyer,0.222222222222
-Fabrizio Ferrandina,Roberto Zicari,0.222222222222
-Hans-Arno Jacobsen,Milenko Petrovic,0.222222222222
-Thorsten Meyer,Fabrizio Ferrandina,0.222222222222
-Thorsten Meyer,Roberto Zicari,0.222222222222
-Fran&ccedil;ois Llirbat,Jo&atilde;o L. M. Pereira,0.222222222222
-Fran&ccedil;ois Llirbat,Fran&ccedil;oise Fabret,0.222222222222
-Roberto Zicari,Fabrizio Ferrandina,0.222222222222
-Fran&ccedil;ois Llirbat,Dennis Shasha,0.222222222222
-Roberto Zicari,Thorsten Meyer,0.222222222222
-Kenneth A. Ross,Jingren Zhou,0.222222222222
-Kenneth A. Ross,John Cieslewicz,0.222222222222
-Kenneth A. Ross,Julia Stoyanovich,0.222222222222
-Dennis Shasha,Jo&atilde;o L. M. Pereira,0.222222222222
-Dennis Shasha,Fran&ccedil;oise Fabret,0.222222222222
-Kenneth A. Ross,Damianos Chatziantoniou,0.222222222222
-Dennis Shasha,Fran&ccedil;ois Llirbat,0.222222222222
-Deborah Downs,Gerald J. Popek,0.222222222222
-Gerald J. Popek,Deborah Downs,0.222222222222
-Yannis Velegrakis,Ren&eacute;e J. Miller,0.222222222222
-Yannis Velegrakis,Lucian Popa,0.222222222222
-Panagiotis Karras,Nikos Mamoulis,0.222222222222
-Nikos Mamoulis,Panagiotis Karras,0.222222222222
-Nikos Mamoulis,Man Lung Yiu,0.222222222222
-Klemens B&ouml;hm,Hans-J&ouml;rg Schek,0.222222222222
-David J. DeWitt,Feng Tian,0.222222222222
-Bernhard Seeger,Hans-Peter Kriegel,0.222222222222
-Jeffrey F. Naughton,S. Seshadri,0.222222222222
-Bernhard Seeger,Jens-Peter Dittrich,0.222222222222
-Bernhard Seeger,Peter Widmayer,0.222222222222
-Shawn R. Jeffery,Michael J. Franklin,0.222222222222
-Dennis Shasha,Steve Rozen,0.222222222222
-Floris Geerts,Wenfei Fan,0.222222222222
-Floris Geerts,Xibei Jia,0.222222222222
-J&eacute;r&ocirc;me Baumgarten,Tova Milo,0.222222222222
-J&eacute;r&ocirc;me Baumgarten,Serge Abiteboul,0.222222222222
-Angela Bonifati,Ioana Manolescu,0.222222222222
-Gregory Cobena,Serge Abiteboul,0.222222222222
-Nicoleta Preda,Serge Abiteboul,0.222222222222
-Ke Wang,Jiawei Han,0.222222222222
-Ke Wang,Jian Pei,0.222222222222
-Flip Korn,Christos Faloutsos,0.222222222222
-Flip Korn,Divesh Srivastava,0.222222222222
-Joachim W. Schmidt,Florian Matthes,0.222222222222
-Yannis Kotidis,Anna C. Gilbert,0.222222222222
-Yannis Kotidis,S. Muthukrishnan,0.222222222222
-Yannis Kotidis,Martin Strauss,0.222222222222
-Klaus K&uuml;spert,Peter Dadam,0.222222222222
-Peter Dadam,Vincent Y. Lum,0.222222222222
-Peter Dadam,Klaus K&uuml;spert,0.222222222222
-Shamkant B. Navathe,Erich J. Neuhold,0.222222222222
-Xibei Jia,Floris Geerts,0.222222222222
-Chee Yong Chan,Minos N. Garofalakis,0.222222222222
-S. Sudarshan 0001,P. P. S. Narayan,0.222222222222
-S. Sudarshan 0001,Philip Bohannon,0.222222222222
-Adam J. Storm,Christian Garcia-Arellano,0.222222222222
-Adam J. Storm,Sam Lightstone,0.222222222222
-Christian Garcia-Arellano,Adam J. Storm,0.222222222222
-Christian Garcia-Arellano,Sam Lightstone,0.222222222222
-Sam Lightstone,Adam J. Storm,0.222222222222
-Sam Lightstone,Christian Garcia-Arellano,0.222222222222
-Shamkant B. Navathe,James P. Fry,0.222222222222
-Beno&icirc;t Dageville,Mohamed Za&iuml;t,0.222222222222
-Mohamed Za&iuml;t,Beno&icirc;t Dageville,0.222222222222
-Mohamed Za&iuml;t,Dinesh Das,0.222222222222
-Andrey Balmin,Vagelis Hristidis,0.222222222222
+8
+Divyakant Agrawal,K. Sel&ccedil;uk Candan,1.0
+Beng Chin Ooi,Kian-Lee Tan,1.0
+Kian-Lee Tan,Beng Chin Ooi,1.0
+Divyakant Agrawal,Wang-Pin Hsiung,0.875
+Serge Abiteboul,Tova Milo,0.875
+Yufei Tao,Dimitris Papadias,0.75
+Vivek R. Narasayya,Surajit Chaudhuri,0.75
+Dimitris Papadias,Yufei Tao,0.75
+Clement T. Yu,Weiyi Meng,0.75
+Mitch Cherniack,Stanley B. Zdonik,0.75
+Surajit Chaudhuri,Vivek R. Narasayya,0.75
+Dong Xin,Jiawei Han,0.625
+Jennifer Widom,Stefano Ceri,0.625
+K. Sel&ccedil;uk Candan,Oliver Po,0.625
+Ming-Syan Chen,Philip S. Yu,0.5
+Philip S. Yu,Jiawei Han,0.5
+Ming-Chien Shan,Fabio Casati,0.5
+Gerhard Weikum,Surajit Chaudhuri,0.5
+Jeffrey Scott Vitter,Min Wang,0.5
+Jiawei Han,Philip S. Yu,0.5
+Wen-Syan Li,Oliver Po,0.5
+Divyakant Agrawal,Jun'ichi Tatemura,0.5
+Raghu Ramakrishnan,S. Sudarshan 0001,0.5
+Lipyeow Lim,Min Wang,0.5
+Min Wang,Jeffrey Scott Vitter,0.5
+Abraham Silberschatz,Rajeev Rastogi,0.5
+Jeffrey F. Naughton,Raghu Ramakrishnan,0.5
+Nick Koudas,S. Muthukrishnan,0.5
+Surajit Chaudhuri,Kyuseok Shim,0.5
+Surajit Chaudhuri,Gerhard Weikum,0.5
+Nesime Tatbul,Stanley B. Zdonik,0.5
+Ravi Kumar,Andrew Tomkins,0.5
+Gerhard Weikum,Matthias Bender,0.375
+Rajeev Rastogi,Kyuseok Shim,0.375
+David B. Lomet,Betty Salzberg,0.375
+Xibei Jia,Wenfei Fan,0.375
+Chee Yong Chan,Wenfei Fan,0.375
+Srikanth Bellamkonda,Tolga Bozkaya,0.375
+Helen M. Thomas,Anindya Datta,0.375
+Anthony K. H. Tung,Nick Koudas,0.375
+Tobias Kraft,Holger Schwarz,0.375
+S. Muthukrishnan,H. V. Jagadish,0.375
+Marek Rusinkiewicz,Amit P. Sheth,0.375
+Gautam Das,Dimitrios Gunopulos,0.375
+Guido Moerkotte,Klaus Peithner,0.375
+Volker Markl,Vijayshankar Raman,0.375
+Volker Markl,Guy M. Lohman,0.375
+Bernd Amann,Serge Abiteboul,0.375
+Zolt&aacute;n Gy&ouml;ngyi,Hector Garcia-Molina,0.375
+Curtis E. Dyreson,Christian S. Jensen,0.375
+Philip S. Yu,Daniel M. Dias,0.375
+Roger Weber,Hans-J&ouml;rg Schek,0.375
+Jagannathan Srinivasan,Souripriya Das,0.375
+Souripriya Das,Jagannathan Srinivasan,0.375
+Eugene Inseok Chong,Jagannathan Srinivasan,0.375
+Raghu Ramakrishnan,Praveen Seshadri,0.375
+Jeffrey Xu Yu,Wei Wang 0011,0.375
+Walid G. Aref,Mohamed F. Mokbel,0.375
+Luc Bouganim,Patrick Valduriez,0.375
+Catriel Beeri,Anat Eyal,0.375
+Arvind Hulgeri,S. Sudarshan 0001,0.375
+Stanley B. Zdonik,Michael J. Franklin,0.375
+Jianyong Wang,Jiawei Han,0.375
+Timos K. Sellis,Christos Faloutsos,0.375
+Klaus Elhardt,Rudolf Bayer,0.375
+Klaus Peithner,Guido Moerkotte,0.375
+Bugra Gedik,Philip S. Yu,0.375
+Sihem Amer-Yahia,Divesh Srivastava,0.375
+Hector Gonzalez,Jiawei Han,0.375
+Wei Wang 0011,Hongjun Lu,0.375
+Mauricio A. Hern&aacute;ndez,Ren&eacute;e J. Miller,0.375
+Peter A. Boncz,Martin L. Kersten,0.375
+Anat Eyal,Catriel Beeri,0.375
+Tova Milo,Sophie Cluet,0.375
+Tova Milo,Bernd Amann,0.375
+Tova Milo,Omar Benjelloun,0.375
+H. V. Jagadish,Nick Koudas,0.375
+Laks V. S. Lakshmanan,H. V. Jagadish,0.375
+Laks V. S. Lakshmanan,Raymond T. Ng,0.375
+Jens Teubner,Maurice van Keulen,0.375
+Rakesh Agrawal,Umeshwar Dayal,0.375
+Roberta Cochrane,Hamid Pirahesh,0.375
+Nick Koudas,Gautam Das,0.375
+Yannis Papakonstantinou,Andrey Balmin,0.375
+Divesh Srivastava,Laks V. S. Lakshmanan,0.375
+Divesh Srivastava,S. Sudarshan 0001,0.375
+S. Sudarshan 0001,Arvind Hulgeri,0.375
+Lucian Popa,Mauricio A. Hern&aacute;ndez,0.375
+Serge Abiteboul,Laurent Mignet,0.375
+Georges Gardarin,Zhao-Hui Tang,0.375
+Wang-Pin Hsiung,Songting Chen,0.375
+Jun'ichi Tatemura,Songting Chen,0.375
+Thorsten Meyer,Roberto Zicari,0.25
+James B. Rothnie Jr.,Nathan Goodman,0.25
+Karthikeyan Ramasamy,Jeffrey F. Naughton,0.25
+Ravi Krishnamurthy,Stephen P. Morgan,0.25
+Martin Strauss,S. Muthukrishnan,0.25
+Yannis Velegrakis,Lucian Popa,0.25
+Yusuf Akca,K. Sel&ccedil;uk Candan,0.25
+Yusuf Akca,Oliver Po,0.25
+Floris Geerts,Xibei Jia,0.25
+Gultekin &Ouml;zsoyoglu,Z. Meral &Ouml;zsoyoglu,0.25
+Flip Korn,Divesh Srivastava,0.25
+Guido Moerkotte,Michael Steinbrunn,0.25
+Krishnaram Kenthapadi,Rajeev Motwani,0.25
+Nick Roussopoulos,Timos K. Sellis,0.25
+Rajeev Motwani,Hector Garcia-Molina,0.25
+Antonio L. Furtado,Jos&eacute; Mauro Volkmer de Castilho,0.25
+Rajeev Motwani,Waqar Hasan,0.25
+Sandra Heiler,Arnon Rosenthal,0.25
+Amol Deshpande,Joseph M. Hellerstein,0.25
+Zheng (Jessica) Zhao,Laks V. S. Lakshmanan,0.25
+Yannis Kotidis,S. Muthukrishnan,0.25
+Peter Dadam,Klaus K&uuml;spert,0.25
+Hanan Samet,Glenn S. Iwerks,0.25
+Mehdi Sharifzadeh,Cyrus Shahabi,0.25
+Gideon Schaller,Shankar Pal,0.25
+Gideon Schaller,Oliver Seeliger,0.25
+Robert W. Taylor,James P. Fry,0.25
+James P. Fry,Stanley Y. W. Su,0.25
+Pavel Zezula,Paolo Ciaccia,0.25
+Per-&Aring;ke Larson,Jingren Zhou,0.25
+Gerhard Weikum,Axel M&ouml;nkeberg,0.25
+Peter J. Haas,Ashraf Aboulnaga,0.25
+Xibei Jia,Floris Geerts,0.25
+Hong-Tai Chou,Won Kim,0.25
+Svein Erik Bratsberg,Svein-Olaf Hvasshovd,0.25
+Karl Aberer,Manfred Hauswirth,0.25
+Stephen Fox,Daniel R. Ries,0.25
+Chee Yong Chan,Minos N. Garofalakis,0.25
+Hua-Gang Li,Jun'ichi Tatemura,0.25
+Mayank Bawa,Hector Garcia-Molina,0.25
+T. S. Jayram,Raghu Ramakrishnan,0.25
+Gerhard Weikum,German Shegalov,0.25
+Divyakant Agrawal,Hua-Gang Li,0.25
+Man Lung Yiu,Nikos Mamoulis,0.25
+Bernhard Mitschang,Tobias Kraft,0.25
+Yali Zhu,Elke A. Rundensteiner,0.25
+Adam J. Storm,Christian Garcia-Arellano,0.25
+Piotr Indyk,S. Muthukrishnan,0.25
+Gerhard Weikum,Christian Zimmer,0.25
+Srikanth Bellamkonda,Nathan Folkert,0.25
+Tolga Bozkaya,Abhinav Gupta,0.25
+Donald S. Fussell,Abraham Silberschatz,0.25
+Alejandro A. Vaisman,Alberto O. Mendelzon,0.25
+Mokrane Bouzeghoub,Elisabeth M&eacute;tais,0.25
+Larry Travis,Charles Kellogg,0.25
+Martin Ester,Hans-Peter Kriegel,0.25
+Ihab F. Ilyas,Ahmed K. Elmagarmid,0.25
+Patrick Valduriez,Setrag Khoshafian,0.25
+Jean-Yves Lingat,Colette Rolland,0.25
+Stefanie Scherzinger,Bernhard Stegmaier,0.25
+Luc Bouganim,Fran&ccedil;ois Dang Ngoc,0.25
+Philippe Pucheral,Christophe Bobineau,0.25
+Khaled Yagoub,Val&eacute;rie Issarny,0.25
+Val&eacute;rie Issarny,Patrick Valduriez,0.25
+Nicole Schweikardt,Christoph Koch,0.25
+Nicole Schweikardt,Stefanie Scherzinger,0.25
+Witold Litwin,Thomas J. E. Schwarz,0.25
+Ada Wai-Chee Fu,Jian Pei,0.25
+Yannis E. Ioannidis,Miron Livny,0.25
+Vassilis J. Tsotras,Shu-Yao Chien,0.25
+Ying Hu,Timothy Chorma,0.25
+Donald Carney,Michael Stonebraker,0.25
+Nathan Folkert,Andrew Witkowski,0.25
+Jianyong Wang,Philip S. Yu,0.25
+Nathan Folkert,Sankar Subramanian,0.25
+Jianyong Wang,Charu C. Aggarwal,0.25
+Stanley B. Zdonik,Donald Carney,0.25
+Jingren Zhou,Kenneth A. Ross,0.25
+Sriram Raghavan,Hector Garcia-Molina,0.25
+Giansalvatore Mecca,Valter Crescenzi,0.25
+Robert Fenk,Rudolf Bayer,0.25
+Jo&atilde;o L. M. Pereira,Dennis Shasha,0.25
+Fran&ccedil;oise Fabret,Fran&ccedil;ois Llirbat,0.25
+Klaus Elhardt,Volker Markl,0.25
+Tirthankar Lahiri,Ashok Joshi,0.25
+Kenneth C. Sevcik,Nick Koudas,0.25
+Kurt P. Brown,Michael J. Carey,0.25
+Fran&ccedil;ois Llirbat,Jo&atilde;o L. M. Pereira,0.25
+George Kollios,Feifei Li,0.25
+Nicolas Bruno,Surajit Chaudhuri,0.25
+Dennis Shasha,Fran&ccedil;ois Llirbat,0.25
+Shivakumar Vaithyanathan,T. S. Jayram,0.25
+Sanjay Agrawal,Surajit Chaudhuri,0.25
+Jos&eacute; Mauro Volkmer de Castilho,Antonio L. Furtado,0.25
+Theodore Johnson,Raymond T. Ng,0.25
+Matthias Bender,Sebastian Michel,0.25
+Bugra Gedik,Rajesh Bordawekar,0.25
+Arjan Pellenkoft,Martin L. Kersten,0.25
+Samy A. Mahmoud,J. Spruce Riordon,0.25
+Dinesh Das,Mohamed Za&iuml;t,0.25
+Vuk Ercegovac,David J. DeWitt,0.25
+Simonas Saltenis,Christian S. Jensen,0.25
+Edmond Lau,Samuel Madden,0.25
+Sihem Amer-Yahia,Laks V. S. Lakshmanan,0.25
+Alex Rasin,Mitch Cherniack,0.25
+Matthias Bender,Christian Zimmer,0.25
+Weiye Zhang,Per-&Aring;ke Larson,0.25
+Jiri Schindler,Anastassia Ailamaki,0.25
+Nilesh Bansal,Nick Koudas,0.25
+Julia Stoyanovich,Kenneth A. Ross,0.25
+Jayavel Shanmugasundaram,Michael J. Carey,0.25
+Jayavel Shanmugasundaram,Jerry Kiernan,0.25
+Benjamin W. Wah,Jiawei Han,0.25
+Waqar Hasan,Rajeev Motwani,0.25
+Themis Palpanas,Dimitrios Gunopulos,0.25
+Boon Thau Loo,Joseph M. Hellerstein,0.25
+Boon Thau Loo,Ryan Huebsch,0.25
+Boon Thau Loo,Ion Stoica,0.25
+Ion Stoica,Joseph M. Hellerstein,0.25
+Ion Stoica,Scott Shenker,0.25
+Thomas J. E. Schwarz,Witold Litwin,0.25
+Nathan Goodman,James B. Rothnie Jr.,0.25
+Volker Linnemann,Norbert S&uuml;dkamp,0.25
+Song Wang,Elke A. Rundensteiner,0.25
+Masaya Nakayama,Masaru Kitsuregawa,0.25
+Masaya Nakayama,Mikio Takagi,0.25
+Mikio Takagi,Masaya Nakayama,0.25
+Rui Zhang 0003,Beng Chin Ooi,0.25
+Rui Zhang 0003,Nick Koudas,0.25
+Amit Shukla,Jeffrey F. Naughton,0.25
+Amit Shukla,Prasad Deshpande,0.25
+Vinayak R. Borkar,Michael J. Carey,0.25
+D. Sivakumar,Andrew Tomkins,0.25
+Charu C. Aggarwal,Jiawei Han,0.25
+Karsten Draba,Felix Naumann,0.25
+Felix Naumann,Karsten Draba,0.25
+SungRan Cho,Divesh Srivastava,0.25
+Prasanna Ganesan,Mayank Bawa,0.25
+Kien A. Hua,Chiang Lee,0.25
+Christian Zimmer,Matthias Bender,0.25
+Damianos Chatziantoniou,Kenneth A. Ross,0.25
+Weidong Chen,Nelson Mendon&ccedil;a Mattos,0.25
+Joseph M. Hellerstein,Scott Shenker,0.25
+Weidong Chen,Brian T. Tran,0.25
+You-Chin Fuh,Brian T. Tran,0.25
+Charu C. Aggarwal,Jianyong Wang,0.25
+Anat Eyal,Simon Kamenkovich,0.25
+Simon Kamenkovich,Tova Milo,0.25
+Tova Milo,Ioana Manolescu,0.25
+Peter Widmayer,Bernhard Seeger,0.25
+Liang Jin,Chen Li 0001,0.25
+Ashok Joshi,Juan Loaiza,0.25
+Brian T. Tran,Nelson Mendon&ccedil;a Mattos,0.25
+Tova Milo,Laurent Mignet,0.25
+Serge Rielau,Richard Swagerman,0.25
+Wolf-Tilo Balke,Ulrich G&uuml;ntzer,0.25
+Henry F. Korth,P. P. S. Narayan,0.25
+Henry F. Korth,Philip Bohannon,0.25
+Abraham Silberschatz,Jerry Baulier,0.25
+Abraham Silberschatz,H. V. Jagadish,0.25
+Vassilis J. Tsotras,Zografoula Vagena,0.25
+Abraham Silberschatz,Banu &Ouml;zden,0.25
+Michael J. Franklin,Michael J. Carey,0.25
+Michael J. Franklin,Sailesh Krishnamurthy,0.25
+Weiyi Meng,Hai He,0.25
+Yehoshua Sagiv,Benny Kimelfeld,0.25
+Tian Xia,Donghui Zhang,0.25
+Tian Xia,Yang Du,0.25
+Juan Loaiza,Tirthankar Lahiri,0.25
+Kaushik Dutta,Anindya Datta,0.25
+Kaushik Dutta,Krithi Ramamritham,0.25
+Christos Faloutsos,Spiros Papadimitriou,0.25
+Hamid Pirahesh,C. Mohan,0.25
+Debra E. VanderMeer,Krithi Ramamritham,0.25
+Rakesh Agrawal,Roberto J. Bayardo Jr.,0.25
+Roberto J. Bayardo Jr.,Rakesh Agrawal,0.25
+Prasad Deshpande,Raghu Ramakrishnan,0.25
+Jeffrey D. Ullman,Rajeev Motwani,0.25
+Mitch Cherniack,Nesime Tatbul,0.25
+Mitch Cherniack,Donald Carney,0.25
+Michael Novak,Roger King,0.25
+Ren&eacute;e J. Miller,Ariel Fuxman,0.25
+Alexandros Labrinidis,Nick Roussopoulos,0.25
+Elke A. Rundensteiner,Song Wang,0.25
+Andrei Arion,V&eacute;ronique Benzaken,0.25
+V&eacute;ronique Benzaken,Andrei Arion,0.25
+Ioana Manolescu,Tova Milo,0.25
+Ioana Manolescu,V&eacute;ronique Benzaken,0.25
+Ioana Manolescu,Daniela Florescu,0.25
+Stratis Viglas,Jeffrey F. Naughton,0.25
+Vassilis J. Tsotras,Mirella Moura Moro,0.25
+Jeffrey F. Naughton,Josef Burger,0.25
+David J. DeWitt,Leonidas Galanis,0.25
+David J. DeWitt,Feng Tian,0.25
+David J. DeWitt,Mark D. Hill,0.25
+Zengping Tian,Hongjun Lu,0.25
+Debra E. VanderMeer,Helen M. Thomas,0.25
+Jennifer Widom,Omar Benjelloun,0.25
+Katsumi Tanaka,Yahiko Kambayashi,0.25
+Andrey Balmin,Kevin S. Beyer,0.25
+Nick Koudas,Sudipto Guha,0.25
+AnHai Doan,Jeffrey F. Naughton,0.25
+Helen M. Thomas,Kaushik Dutta,0.25
+Philip S. Yu,Balakrishna R. Iyer,0.25
+Divesh Srivastava,Alon Y. Levy,0.25
+Abhinav Gupta,Tolga Bozkaya,0.25
+Abhinav Gupta,Nathan Folkert,0.25
+Divesh Srivastava,SungRan Cho,0.25
+Chen Li 0001,Anthony K. H. Tung,0.25
+Xiaochun Yang,Chen Li 0001,0.25
+Jian Pei,Xuemin Lin,0.25
+Jian Pei,Ke Wang,0.25
+Jian Pei,Ada Wai-Chee Fu,0.25
+Xuemin Lin,Jian Pei,0.25
+Till Westmann,Michael J. Carey,0.25
+Donald Kossmann,Laura M. Haas,0.25
+Raymond T. Ng,Timos K. Sellis,0.25
+Mariano P. Consens,Ricardo A. Baeza-Yates,0.25
+Florian Waas,C&eacute;sar A. Galindo-Legaria,0.25
+Michael J. Carey,Jayavel Shanmugasundaram,0.25
+Michael J. Carey,Vinayak R. Borkar,0.25
+Peter Baumann,Norbert Widmann,0.25
+Paula Furtado,Norbert Widmann,0.25
+Norbert Widmann,Peter Baumann,0.25
+Michael Stonebraker,Nesime Tatbul,0.25
+Michael Stonebraker,Samuel Madden,0.25
+Kyuseok Shim,Raymond T. Ng,0.25
+S. Sudarshan 0001,P. P. S. Narayan,0.25
+Anthony K. H. Tung,Beng Chin Ooi,0.25
+William O'Connell,Felipe Cari&ntilde;o,0.25
+Andrew Witkowski,Abhinav Gupta,0.25
+Andrew Witkowski,Nathan Folkert,0.25
+Takeshi Tokuyama,Yasuhiko Morimoto,0.25
+Surajit Chaudhuri,Venkatesh Ganti,0.25
+Mirella Moura Moro,Vassilis J. Tsotras,0.25
+Aoying Zhou,Hongjun Lu,0.25
+M. Tamer &Ouml;zsu,Kaladhar Voruganti,0.25
+M. Tamer &Ouml;zsu,Ronald C. Unrau,0.25
+Alfons Kemper,Richard Kuntschke,0.25
+Serge Abiteboul,Nicoleta Preda,0.25
+Zhao-Hui Tang,Jean-Robert Gruser,0.25
+Keng Lik Teo,Mong-Li Lee,0.25
+Chenyi Xia,Beng Chin Ooi,0.25
+Dan Suciu,Nilesh N. Dalvi,0.25
+Sergio Flesca,Robert Baumgartner,0.25
+Nesime Tatbul,Michael Stonebraker,0.25
+Ugur &Ccedil;etintemel,Donald Carney,0.25
+Philip Bohannon,Abraham Silberschatz,0.25
+Philip Bohannon,S. Sudarshan 0001,0.25
+Philip Bohannon,Pradeep Shenoy,0.25
+Philip Bohannon,Rajeev Rastogi,0.25
+C&eacute;sar A. Galindo-Legaria,Florian Waas,0.25
+Georges Gardarin,Jean Le Bihan,0.25
+Sunil Prabhakar,Ben Kao,0.25
+Amit Marathe,Divesh Srivastava,0.25
+C&eacute;sar A. Galindo-Legaria,Martin L. Kersten,0.25
+Wang-Pin Hsiung,Hua-Gang Li,0.25
+Daniel Sagalowicz,Gio Wiederhold,0.25
+Laura M. Haas,Donald Kossmann,0.25
+Michael H. B&ouml;hlen,Nikolaus Augsten,0.25
+Wolfgang Lehner,Dirk Habich,0.25
+Sridhar Rajagopalan,Andrew Tomkins,0.25
+Wenfei Fan,Anastasios Kementsietsidis,0.25
+Wenfei Fan,Shuai Ma,0.25
+Stavros Harizopoulos,Samuel Madden,0.25
+Anastassia Ailamaki,Todd C. Mowry,0.25
+Frank Olken,Harry K. T. Wong,0.25
+Zonghuan Wu,Hai He,0.25
+Venkatesh Ganti,Surajit Chaudhuri,0.25
+Mona Wong-Barnum,Amarnath Gupta,0.125
+Mona Wong-Barnum,Lisa Fong,0.125
+Justin Zobel,James A. Thom,0.125
+Won Kim,Dan McNabb,0.125
+Won Kim,R. Williams,0.125
+Wil Plouffe,Raymond A. Lorie,0.125
+Michael J. Franklin,Moshe Shadmon,0.125
+Ulrich G&uuml;ntzer,Werner Kie&szlig;ling,0.125
+Mitch Cherniack,Eduardo F. Galvez,0.125
+Henry F. Korth,Sumit Ganguly,0.125
+Mitch Cherniack,Christian Convey,0.125
+Mitch Cherniack,Miguel Ferreira,0.125
+Mitch Cherniack,Elizabeth J. O'Neil,0.125
+Maurizio Lenzerini,Paolo Nobili,0.125
+Maurizio Lenzerini,Giuseppe Di Battista,0.125
+Scott E. Hudson,Roger King,0.125
+A. M. Alashqur,Herman Lam,0.125
+Herman Lam,A. M. Alashqur,0.125
+Meikel P&ouml;ss,Dmitry Potapov,0.125
+Meikel P&ouml;ss,David Walrath,0.125
+Louiqa Raschid,Stanley Y. W. Su,0.125
+Michael J. Franklin,Frederick Reiss,0.125
+Agma J. M. Traina,Maria Camila Nardini Barioni,0.125
+Agma J. M. Traina,Caetano Traina Jr.,0.125
+Caetano Traina Jr.,Agma J. M. Traina,0.125
+Daniel A. Keim,Hans-Peter Kriegel,0.125
+Daniel A. Keim,Gerhard Weikum,0.125
+Daniel A. Keim,Charu C. Aggarwal,0.125
+Daniel A. Keim,Stefan Berchtold,0.125
+Michel E. Adiba,Georges Gardarin,0.125
+Michel E. Adiba,Jean-Claude Chupin,0.125
+Xiaolei Qian,Douglas R. Smith,0.125
+Sridhar Seshadri,Doron Rotem,0.125
+Ernest Teniente,Elena Baralis,0.125
+Ernest Teniente,Stefano Paraboschi,0.125
+Carles Farr&eacute;,Toni Urp&iacute;,0.125
+Toni Urp&iacute;,Carlos Beltr&aacute;n,0.125
+Toni Urp&iacute;,Antoni Oliv&eacute;,0.125
+Patricia Rodr&iacute;guez-Gianolli,Lei Jiang,0.125
+Lei Jiang,Ren&eacute;e J. Miller,0.125
+Anastasios Kementsietsidis,Mehedi Masud,0.125
+Anastasios Kementsietsidis,Xibei Jia,0.125
+Anastasios Kementsietsidis,Peter Buneman,0.125
+Mehedi Masud,Lei Jiang,0.125
+Ren&eacute;e J. Miller,Raghu Ramakrishnan,0.125
+Ren&eacute;e J. Miller,Yannis E. Ioannidis,0.125
+Michael J. Franklin,Michael Tan,0.125
+John Mylopoulos,Iluju Kiringa,0.125
+Mohamed A. Sharaf,Alexandros Labrinidis,0.125
+Michael J. Franklin,Moustafa A. Hammad,0.125
+Alexandros Labrinidis,Flip Korn,0.125
+Yun-Wu Huang,Elke A. Rundensteiner,0.125
+Ning Jing,Yun-Wu Huang,0.125
+Elke A. Rundensteiner,Ning Jing,0.125
+Michael J. Franklin,Owen Cooper,0.125
+Elke A. Rundensteiner,Timothy M. Sutherland,0.125
+Elke A. Rundensteiner,Bradford Pielech,0.125
+Elke A. Rundensteiner,Drew Ditto,0.125
+Michael J. Franklin,Anil Edakkunni,0.125
+Andrei Arion,Ravi Vijay,0.125
+Andrei Arion,Angela Bonifati,0.125
+G&iacute;sli R. Hjaltason,Brian F. Cooper,0.125
+Dennis Tsichritzis,P. Economopoulos,0.125
+Shivnath Babu,Pedro Bizarro,0.125
+Ioana Manolescu,Nicoleta Preda,0.125
+Hongkun Zhao,Clement T. Yu,0.125
+Ravi Vijay,V&eacute;ronique Benzaken,0.125
+Ravi Vijay,Ioana Manolescu,0.125
+Alan Halverson,Hamid Pirahesh,0.125
+Alan Halverson,Josef Burger,0.125
+Alan Halverson,Ameet Kini,0.125
+Alan Halverson,Rajasekar Krishnamurthy,0.125
+Alan Halverson,Jeffrey F. Naughton,0.125
+Alan Halverson,Vanja Josifovski,0.125
+Josef Burger,Alan Halverson,0.125
+Josef Burger,Rajasekar Krishnamurthy,0.125
+Josef Burger,Ajith Nagaraja Rao,0.125
+Josef Burger,Feng Tian,0.125
+Leonidas Galanis,Ajith Nagaraja Rao,0.125
+Leonidas Galanis,Feng Tian,0.125
+Leonidas Galanis,Jeffrey F. Naughton,0.125
+Ameet Kini,Josef Burger,0.125
+Ameet Kini,Ajith Nagaraja Rao,0.125
+Ameet Kini,Feng Tian,0.125
+Ameet Kini,Yuan Wang,0.125
+Ameet Kini,Jeffrey F. Naughton,0.125
+Ameet Kini,David J. DeWitt,0.125
+Rajasekar Krishnamurthy,Leonidas Galanis,0.125
+Rajasekar Krishnamurthy,Stratis Viglas,0.125
+Rajasekar Krishnamurthy,David J. DeWitt,0.125
+Ajith Nagaraja Rao,Alan Halverson,0.125
+Ajith Nagaraja Rao,Leonidas Galanis,0.125
+Ajith Nagaraja Rao,Rajasekar Krishnamurthy,0.125
+Stratis Viglas,Ameet Kini,0.125
+Stratis Viglas,Rajasekar Krishnamurthy,0.125
+Stratis Viglas,Ajith Nagaraja Rao,0.125
+Weiyi Meng,Hongkun Zhao,0.125
+Yuan Wang,Alan Halverson,0.125
+Yuan Wang,Rajasekar Krishnamurthy,0.125
+Yuan Wang,Jeffrey F. Naughton,0.125
+Jeffrey F. Naughton,Sunita Sarawagi,0.125
+Henry F. Korth,S. Gogate,0.125
+Jeffrey F. Naughton,Joseph M. Hellerstein,0.125
+Weiyi Meng,George Philip,0.125
+Jeffrey F. Naughton,Pradeep Shenoy,0.125
+Jeffrey F. Naughton,Jiansheng Huang,0.125
+Jeffrey F. Naughton,Ashraf Aboulnaga,0.125
+Jeffrey F. Naughton,Gang Luo,0.125
+Jeffrey F. Naughton,Chun Zhang,0.125
+Weiyi Meng,Yuhsi Chang,0.125
+Abraham Silberschatz,Hector Garcia-Molina,0.125
+David J. DeWitt,Bruce Hillyer,0.125
+Clement T. Yu,George Philip,0.125
+David J. DeWitt,Philippe Futtersack,0.125
+David J. DeWitt,Joel E. Richardson,0.125
+Hans-J&ouml;rg Schek,Hector Garcia-Molina,0.125
+Hans-J&ouml;rg Schek,Gustavo Alonso,0.125
+Hans-J&ouml;rg Schek,Michael Rys,0.125
+Hans-J&ouml;rg Schek,Walter W. Chang,0.125
+Hans-J&ouml;rg Schek,Michael Mlivoncic,0.125
+Hans-J&ouml;rg Schek,Moira C. Norrie,0.125
+Hans-J&ouml;rg Schek,Lourens Veen,0.125
+Goetz Graefe,Andrew Witkowski,0.125
+Goetz Graefe,Diane L. Davison,0.125
+Goetz Graefe,Krishna B. Kumar,0.125
+Vincent Y. Lum,H.-D. Werner,0.125
+Vincent Y. Lum,Sakti P. Ghosh,0.125
+Vincent Y. Lum,D. S. Rund,0.125
+Vincent Y. Lum,W. J. Barr,0.125
+C. Tung,Vincent Y. Lum,0.125
+Am&eacute;lie Marian,Tova Milo,0.125
+Am&eacute;lie Marian,Sophie Cluet,0.125
+Am&eacute;lie Marian,Brendan Hills,0.125
+Am&eacute;lie Marian,Cassio Souza dos Santos,0.125
+J&eacute;r&ocirc;me Sim&eacute;on,Mary F. Fern&aacute;ndez,0.125
+J&eacute;r&ocirc;me Sim&eacute;on,Gargi Sur,0.125
+Clement T. Yu,Naphtali Rishe,0.125
+Xifeng Yan,Chen Chen,0.125
+Xifeng Yan,Dong-Qing Zhang,0.125
+S. Seshadri,Ajit A. Diwan,0.125
+S. Seshadri,B. Sreenath,0.125
+S. Seshadri,Rajeev Rastogi,0.125
+S. Seshadri,Lynne Stokes,0.125
+Clement T. Yu,Yuhsi Chang,0.125
+Jennifer Widom,Holger Meyer,0.125
+Jennifer Widom,Richard T. Snodgrass,0.125
+Jennifer Widom,Krishnaram Kenthapadi,0.125
+Jerry Baulier,Peter McIlroy,0.125
+Jennifer Widom,Pedro Bizarro,0.125
+Yahiko Kambayashi,Shuzo Yajima,0.125
+Yahiko Kambayashi,Masatoshi Yoshikawa,0.125
+Yahiko Kambayashi,Jacek Leszczylowski,0.125
+Stephen Blott,Jerry Baulier,0.125
+Matthias Jarke,James Clifford,0.125
+Joachim W. Schmidt,Michael Mertikas,0.125
+Shamkant B. Navathe,Ashok Savasere,0.125
+Shamkant B. Navathe,Toby J. Teorey,0.125
+Andrey Balmin,Hamid Pirahesh,0.125
+Andrey Balmin,Nick Koudas,0.125
+Andrey Balmin,Roberta Cochrane,0.125
+Jiong Yang,Wei Wang 0010,0.125
+Vagelis Hristidis,Nick Koudas,0.125
+Richard R. Muntz,John C. S. Lui,0.125
+Frank Manola,Jack A. Orenstein,0.125
+Zhimin Chen,H. V. Jagadish,0.125
+Nick Koudas,SungRan Cho,0.125
+Yannis Papakonstantinou,Ioana Manolescu,0.125
+H. V. Jagadish,Xiaolei Qian,0.125
+Yannis Papakonstantinou,Pratik Mukhopadhyay,0.125
+Yannis Papakonstantinou,Yu Xu,0.125
+Yannis Papakonstantinou,Thanos Papadimitriou,0.125
+Divesh Srivastava,Dimitrios Gunopulos,0.125
+Abraham Silberschatz,Maria Zemankova,0.125
+Divesh Srivastava,Praveen Seshadri,0.125
+Divesh Srivastava,Abraham Silberschatz,0.125
+Divesh Srivastava,Michael J. Franklin,0.125
+H. V. Jagadish,Rama Kanneganti,0.125
+H. V. Jagadish,Victor M. Markowitz,0.125
+Divesh Srivastava,Yu Xu,0.125
+H. V. Jagadish,Nikolaos Sidiropoulos,0.125
+Tianqiu Wang,Yannis Papakonstantinou,0.125
+Tianqiu Wang,Divesh Srivastava,0.125
+H. V. Jagadish,Daniel F. Lieuwen,0.125
+Laks V. S. Lakshmanan,Zhimin Chen,0.125
+Alejandro P. Buchmann,Michael J. Franklin,0.125
+Alejandro P. Buchmann,C. Mohan,0.125
+Alejandro P. Buchmann,Daniel A. Keim,0.125
+Alejandro P. Buchmann,Surajit Chaudhuri,0.125
+Alejandro P. Buchmann,Gerhard Weikum,0.125
+Alejandro P. Buchmann,Krithi Ramamritham,0.125
+Alejandro P. Buchmann,Klaus R. Dittrich,0.125
+Alejandro P. Buchmann,P. Hasselmayer,0.125
+Wilburt Labio,Jennifer Widom,0.125
+Jun Yang 0001,Donald Kossmann,0.125
+Jun Yang 0001,Alan E. Gelfand,0.125
+Antony L. Hosking,J. Eliot B. Moss,0.125
+Erich J. Neuhold,S. Misbah Deen,0.125
+Arnon Rosenthal,Marianne Winslett,0.125
+Marianne Winslett,Windsor W. Hsu,0.125
+Stephen Blott,Roger Weber,0.125
+Abraham Silberschatz,Dennis W. Leinbaugh,0.125
+Laks V. S. Lakshmanan,Ganesh Ramesh,0.125
+Jian Pei,Wen Jin,0.125
+Laks V. S. Lakshmanan,Marc Gyssens,0.125
+Xuemin Lin,Bin Jiang,0.125
+Xuemin Lin,Jeffrey Xu Yu,0.125
+Yidong Yuan,Jeffrey Xu Yu,0.125
+Till Westmann,Guido Moerkotte,0.125
+Till Westmann,Donald Kossmann,0.125
+Sabine Mayer,Jens Teubner,0.125
+Andr&eacute; Eickler,Alfons Kemper,0.125
+Jens Teubner,Sabine Mayer,0.125
+Donald Kossmann,Marcos Antonio Vaz Salles,0.125
+Donald Kossmann,Florian Haftmann,0.125
+Donald Kossmann,Eric Lo,0.125
+Donald Kossmann,Dan Olteanu,0.125
+Donald Kossmann,Irina Botan,0.125
+Anant Jhingran,Erich J. Neuhold,0.125
+Lei Chen 0002,Xiang Lian,0.125
+Lei Chen 0002,Qiuxia Chen,0.125
+Tova Milo,Bruno Tessier,0.125
+Raymond T. Ng,Xiaodong Zhou,0.125
+Attila Barta,Alberto O. Mendelzon,0.125
+Dhiraj Joshi,Jia Li,0.125
+Albrecht Schmidt 0002,Ioana Manolescu,0.125
+Florian Waas,Albrecht Schmidt 0002,0.125
+Florian Waas,Michael J. Carey,0.125
+Dhiraj Joshi,W. P. Weiss,0.125
+Florian Waas,Paolo Ciaccia,0.125
+Martin L. Kersten,Daniel A. Keim,0.125
+Martin L. Kersten,Florian Waas,0.125
+Ritendra Datta,Jia Li,0.125
+Michael J. Carey,Vivekananda Maganty,0.125
+Michael J. Carey,Subbu N. Subramanian,0.125
+Michael J. Carey,Nelson Mendon&ccedil;a Mattos,0.125
+Michael J. Carey,Tolga Urhan,0.125
+Ziming Zhuang,James Ze Wang,0.125
+Michael J. Carey,Steve Kirsch,0.125
+Michael J. Carey,Bert Van der Linden,0.125
+Michael J. Carey,David Li,0.125
+Michael J. Carey,Ivan Oprencak,0.125
+Michael J. Carey,Runping Qi,0.125
+Michael J. Carey,Kuan Yee,0.125
+Michael J. Carey,George Lapis,0.125
+Michael J. Carey,Fabio Riccardi,0.125
+Michael J. Carey,Doug Doole,0.125
+Ralph Busse,Albrecht Schmidt 0002,0.125
+Ralph Busse,Florian Waas,0.125
+Peter Baumann,Andreas Dehmel,0.125
+W. P. Weiss,James Ze Wang,0.125
+Andreas Dehmel,Roland Ritsch,0.125
+Paula Furtado,Andreas Dehmel,0.125
+Werner Kie&szlig;ling,Ulrich G&uuml;ntzer,0.125
+Gerhard K&ouml;stler,Werner Kie&szlig;ling,0.125
+Norbert Widmann,Andreas Dehmel,0.125
+Michael Stonebraker,Mark Sullivan,0.125
+Giorgio Ghelli,Roberto Bergamini,0.125
+Renzo Orsini,Maurizio Capaccioli,0.125
+Michael Stonebraker,Christian Convey,0.125
+Michael Stonebraker,Edmond Lau,0.125
+Michael Stonebraker,Nga Tran,0.125
+Chulyun Kim,Kyuseok Shim,0.125
+Abraham Silberschatz,Prasan Roy,0.125
+Kyuseok Shim,King-Ip Lin,0.125
+Kyuseok Shim,Harpreet S. Sawhney,0.125
+Kyuseok Shim,Hongrae Lee,0.125
+Kyuseok Shim,Kaushik Chakrabarti,0.125
+P. P. S. Narayan,Abraham Silberschatz,0.125
+P. P. S. Narayan,Sumit Ganguly,0.125
+P. P. S. Narayan,Wenfei Fan,0.125
+P. P. S. Narayan,A. Khivesera,0.125
+Hamid Pirahesh,Alan Halverson,0.125
+Hamid Pirahesh,Vanja Josifovski,0.125
+S. Sudarshan 0001,S. Gogate,0.125
+S. Sudarshan 0001,Peter McIlroy,0.125
+S. Sudarshan 0001,Gaurav Bhalotia,0.125
+Rama Kanneganti,H. V. Jagadish,0.125
+Rama Kanneganti,S. Sudarshan 0001,0.125
+Reuven Kashi,Amihood Amir,0.125
+Reuven Kashi,Nathan S. Netanyahu,0.125
+Iris Kameny,J. Weiner,0.125
+Iris Kameny,R. Gates,0.125
+J. Weiner,Iris Kameny,0.125
+J. Weiner,Marilyn Crilley,0.125
+Marilyn Crilley,David Brill,0.125
+R. Gates,Iris Kameny,0.125
+R. Gates,J. Weiner,0.125
+Hamid Pirahesh,Mathias M&ouml;rschel,0.125
+Rakesh Agrawal,Sunita Sarawagi,0.125
+Andrew Witkowski,Goetz Graefe,0.125
+Andrew Witkowski,Allison Waingold,0.125
+Abraham Silberschatz,C. Gupta,0.125
+Andrew Witkowski,Hua-Gang Li,0.125
+Andrew Witkowski,Harry Sun,0.125
+Andrew Witkowski,Shrikanth Shankar,0.125
+Surajit Chaudhuri,Usama M. Fayyad,0.125
+Surajit Chaudhuri,Martin L. Kersten,0.125
+Rakesh Agrawal,King-Ip Lin,0.125
+Abraham Silberschatz,Srinivas Ashwin,0.125
+Rakesh Agrawal,Roberta Cochrane,0.125
+Rakesh Agrawal,Shalom Tsur,0.125
+Surajit Chaudhuri,Luis Gravano,0.125
+Surajit Chaudhuri,Amir Netz,0.125
+I. Alexandrov,M. Barczyk,0.125
+I. Alexandrov,L. Mapelli,0.125
+I. Alexandrov,I. Papadopoulos,0.125
+I. Alexandrov,M. Nassiakou,0.125
+I. Alexandrov,Igor Soloviev,0.125
+Antonio Amorim,Yu. Ryabov,0.125
+E. Badescu,I. Alexandrov,0.125
+E. Badescu,D. Burckhart-Chromek,0.125
+E. Badescu,R. Jones,0.125
+E. Badescu,Levi Lucio,0.125
+E. Badescu,I. Papadopoulos,0.125
+M. Barczyk,I. Alexandrov,0.125
+M. Barczyk,M. Dobson,0.125
+M. Barczyk,J. Flammer,0.125
+M. Barczyk,Andrei Kazarov,0.125
+M. Barczyk,Levi Lucio,0.125
+D. Burckhart-Chromek,I. Alexandrov,0.125
+D. Burckhart-Chromek,J. Flammer,0.125
+D. Burckhart-Chromek,R. Jones,0.125
+D. Burckhart-Chromek,M. Mineev,0.125
+D. Burckhart-Chromek,D. Schweiger,0.125
+Mihai Caprini,D. Burckhart-Chromek,0.125
+Mihai Caprini,M. Dobson,0.125
+Mihai Caprini,R. Hart,0.125
+Mihai Caprini,V. Kotov,0.125
+Mihai Caprini,I. Papadopoulos,0.125
+Mihai Caprini,M. Nassiakou,0.125
+Mihai Caprini,Luis Pedro,0.125
+Mihai Caprini,Igor Soloviev,0.125
+M. Dobson,Andrei Kazarov,0.125
+M. Dobson,V. Kotov,0.125
+M. Dobson,L. Moneta,0.125
+M. Dobson,I. Papadopoulos,0.125
+M. Dobson,N. Parrington,0.125
+M. Dobson,Igor Soloviev,0.125
+J. Flammer,N. Parrington,0.125
+J. Flammer,Igor Soloviev,0.125
+R. Hart,D. Burckhart-Chromek,0.125
+R. Hart,J. Flammer,0.125
+R. Hart,Dietrich Liko,0.125
+R. Hart,H. Wolters,0.125
+R. Jones,M. Barczyk,0.125
+R. Jones,M. Dobson,0.125
+R. Jones,V. Kotov,0.125
+R. Jones,Levi Lucio,0.125
+R. Jones,L. Mapelli,0.125
+Andrei Kazarov,D. Burckhart-Chromek,0.125
+Andrei Kazarov,S. Kolos,0.125
+Andrei Kazarov,Luis Pedro,0.125
+Andrei Kazarov,H. Wolters,0.125
+S. Kolos,E. Badescu,0.125
+S. Kolos,J. Flammer,0.125
+S. Kolos,R. Jones,0.125
+S. Kolos,Levi Lucio,0.125
+S. Kolos,M. Nassiakou,0.125
+S. Kolos,Luis Pedro,0.125
+V. Kotov,R. Hart,0.125
+V. Kotov,S. Kolos,0.125
+Dietrich Liko,Antonio Amorim,0.125
+Dietrich Liko,M. Barczyk,0.125
+Dietrich Liko,Mihai Caprini,0.125
+Dietrich Liko,J. Flammer,0.125
+Dietrich Liko,R. Jones,0.125
+Dietrich Liko,V. Kotov,0.125
+Dietrich Liko,Levi Lucio,0.125
+Dietrich Liko,A. Ribeiro,0.125
+Levi Lucio,D. Burckhart-Chromek,0.125
+Levi Lucio,V. Kotov,0.125
+Levi Lucio,L. Mapelli,0.125
+Levi Lucio,M. Mineev,0.125
+Levi Lucio,A. Ribeiro,0.125
+L. Mapelli,M. Barczyk,0.125
+L. Mapelli,Dietrich Liko,0.125
+L. Mapelli,L. Moneta,0.125
+L. Mapelli,Luis Pedro,0.125
+L. Mapelli,D. Schweiger,0.125
+M. Mineev,L. Mapelli,0.125
+M. Mineev,Luis Pedro,0.125
+M. Mineev,H. Wolters,0.125
+L. Moneta,I. Alexandrov,0.125
+L. Moneta,Mihai Caprini,0.125
+L. Moneta,R. Jones,0.125
+Rudy Setiono,Hongjun Lu,0.125
+L. Moneta,Dietrich Liko,0.125
+I. Papadopoulos,Antonio Amorim,0.125
+I. Papadopoulos,Mihai Caprini,0.125
+I. Papadopoulos,M. Dobson,0.125
+I. Papadopoulos,S. Kolos,0.125
+I. Papadopoulos,Dietrich Liko,0.125
+M. Nassiakou,I. Alexandrov,0.125
+M. Nassiakou,Antonio Amorim,0.125
+M. Nassiakou,Mihai Caprini,0.125
+M. Nassiakou,J. Flammer,0.125
+M. Nassiakou,R. Hart,0.125
+M. Nassiakou,Dietrich Liko,0.125
+M. Nassiakou,I. Papadopoulos,0.125
+N. Parrington,Luis Pedro,0.125
+Luis Pedro,D. Burckhart-Chromek,0.125
+Luis Pedro,S. Kolos,0.125
+Luis Pedro,V. Kotov,0.125
+Luis Pedro,Dietrich Liko,0.125
+Luis Pedro,M. Mineev,0.125
+Luis Pedro,L. Moneta,0.125
+Luis Pedro,N. Parrington,0.125
+A. Ribeiro,Antonio Amorim,0.125
+A. Ribeiro,I. Papadopoulos,0.125
+A. Ribeiro,Luis Pedro,0.125
+A. Ribeiro,D. Schweiger,0.125
+Yu. Ryabov,S. Kolos,0.125
+Yu. Ryabov,L. Moneta,0.125
+Yu. Ryabov,Luis Pedro,0.125
+Yu. Ryabov,A. Ribeiro,0.125
+D. Schweiger,Mihai Caprini,0.125
+D. Schweiger,S. Kolos,0.125
+D. Schweiger,V. Kotov,0.125
+Igor Soloviev,J. Flammer,0.125
+Igor Soloviev,V. Kotov,0.125
+Igor Soloviev,L. Mapelli,0.125
+Igor Soloviev,M. Mineev,0.125
+Igor Soloviev,Luis Pedro,0.125
+H. Wolters,I. Alexandrov,0.125
+H. Wolters,Mihai Caprini,0.125
+H. Wolters,V. Kotov,0.125
+H. Wolters,L. Moneta,0.125
+H. Wolters,Luis Pedro,0.125
+H. Wolters,D. Schweiger,0.125
+Balakrishna R. Iyer,Tomasz Imielinski,0.125
+Peter J. Varman,Gary R. Ricard,0.125
+Thodoros Topaloglou,Mike Tyers,0.125
+Susan B. Davidson,H. V. Jagadish,0.125
+Susan B. Davidson,Carmem S. Hara,0.125
+Susan B. Davidson,G. Christian Overton,0.125
+Susan B. Davidson,Stephen Fisher,0.125
+Victor M. Markowitz,Susan B. Davidson,0.125
+Victor M. Markowitz,Evan W. Steeg,0.125
+Victor M. Markowitz,Mike Tyers,0.125
+Evan W. Steeg,Victor M. Markowitz,0.125
+Mike Tyers,Susan B. Davidson,0.125
+M. Tamer &Ouml;zsu,Philip A. Bernstein,0.125
+Rakesh Agrawal,Mohamed Za&iuml;t,0.125
+Rakesh Agrawal,Sameet Agarwal,0.125
+M. Tamer &Ouml;zsu,Christian S. Jensen,0.125
+M. Tamer &Ouml;zsu,Holger Meyer,0.125
+M. Tamer &Ouml;zsu,Richard T. Snodgrass,0.125
+M. Tamer &Ouml;zsu,Ashraf Aboulnaga,0.125
+Wolfgang K&auml;fer,Harald Sch&ouml;ning,0.125
+Norbert Ritter,Wolfgang K&auml;fer,0.125
+Toshihide Ibaraki,Hidehiro Miyajima,0.125
+Serge Abiteboul,Hector Garcia-Molina,0.125
+Rakesh Agrawal,Johannes Klein,0.125
+Serge Abiteboul,Eric Simon,0.125
+Serge Abiteboul,Florin Dragan 0001,0.125
+C. Mohan,Vishal Sikka,0.125
+C. Mohan,Inderpal Narang,0.125
+Serge Abiteboul,Victor Vianu,0.125
+Serge Abiteboul,Bogdan Alexe,0.125
+Serge Abiteboul,Vincent Aguilera,0.125
+Gail Mitchell,Umeshwar Dayal,0.125
+Umeshwar Dayal,Stefan Krompass,0.125
+Umeshwar Dayal,Shalom Tsur,0.125
+Umeshwar Dayal,Gerhard Weikum,0.125
+Umeshwar Dayal,Dipayan Gangopadhyay,0.125
+Umeshwar Dayal,Daniel R. Ries,0.125
+Umeshwar Dayal,Gilbert Vidal,0.125
+Eric Simon,Fran&ccedil;ois Llirbat,0.125
+Eric Simon,Patrick Valduriez,0.125
+Eric Simon,Pascale Minet,0.125
+Harry R. Tennant,Kenneth M. Ross,0.125
+Ming-Yee Lai,W. Kevin Wilkinson,0.125
+W. Kevin Wilkinson,Ming-Yee Lai,0.125
+Marilyn M. Mantei,Fredric C. Gey,0.125
+Ning An,Mary Jane Irwin,0.125
+Ning An,Kothuri Venkata Ravi Kanth,0.125
+Ning An,Siva Ravada,0.125
+Anand Sivasubramaniam,Narayanan Vijaykrishnan,0.125
+Anand Sivasubramaniam,Mary Jane Irwin,0.125
+Narayanan Vijaykrishnan,Sudhanva Gurumurthi,0.125
+Sudhanva Gurumurthi,Mahmut T. Kandemir,0.125
+Wynne Hsu,Pranab Kumar Mohanty,0.125
+Wynne Hsu,Bin Cui,0.125
+Wynne Hsu,Liang Huai Yang,0.125
+Mong-Li Lee,Pranab Kumar Mohanty,0.125
+Mong-Li Lee,Bin Cui,0.125
+Pranab Kumar Mohanty,Beng Chin Ooi,0.125
+Pranab Kumar Mohanty,Keng Lik Teo,0.125
+C. Mohan,Zvi M. Kedem,0.125
+C. Mohan,S. Watts,0.125
+David Botzer,Opher Etzion,0.125
+Tali Yatzkar-Haham,Opher Etzion,0.125
+Jack G. Conrad,Peter Jackson,0.125
+Xi S. Guo,Jack G. Conrad,0.125
+Xi S. Guo,Peter Jackson,0.125
+C. Mohan,Markos Zaharioudakis,0.125
+Dan Suciu,Khaled Yagoub,0.125
+C. Mohan,Kurt Rothermel,0.125
+Fausto Rabitti,Pasquale Savino,0.125
+Nesime Tatbul,Donald Carney,0.125
+Nesime Tatbul,Christian Convey,0.125
+Ugur &Ccedil;etintemel,Yanif Ahmad,0.125
+Gholamhosein Sheikholeslami,Surojit Chatterjee,0.125
+Ugur &Ccedil;etintemel,Greg Seidman,0.125
+Norman C. Hutchinson,Calton Pu,0.125
+Aris M. Ouksel,Esen A. Ozkarahan,0.125
+Harpreet S. Sawhney,Kyuseok Shim,0.125
+Surojit Chatterjee,Aidong Zhang,0.125
+Aidong Zhang,Daxin Jiang,0.125
+Abraham Silberschatz,Nandit Soparkar,0.125
+Michael J. Franklin,Brian F. Cooper,0.125
+Sumit Ganguly,P. P. S. Narayan,0.125
+Sumit Ganguly,Abhinandan Das,0.125
+Georges Gardarin,Nathan Goodman,0.125
+Georges Gardarin,Elisabeth M&eacute;tais,0.125
+Kian-Lee Tan,Xuan Zhou,0.125
+Georges Gardarin,Rudolf Munz,0.125
+Georges Gardarin,James B. Rothnie Jr.,0.125
+Georges Gardarin,Luc Bouganim,0.125
+Kian-Lee Tan,HweeHwa Pang,0.125
+Georges Gardarin,Michel A. Melkanoff,0.125
+Georges Gardarin,Christian Esculier,0.125
+Jean-Pierre Cheiney,Gerald Kiernan,0.125
+Gerald Kiernan,Dominique Pastre,0.125
+Dominique Pastre,Georges Gardarin,0.125
+Yi-Cheng Tu,Bin Yao,0.125
+Yi-Cheng Tu,Alan Kwan,0.125
+Song Liu,Yi-Cheng Tu,0.125
+Song Liu,Bin Yao,0.125
+Kian-Lee Tan,Jason Chionh,0.125
+Sunil Prabhakar,Yuni Xia,0.125
+Sunil Prabhakar,Xiaopeng Xiong,0.125
+Bin Yao,Sunil Prabhakar,0.125
+Sailesh Krishnamurthy,Joseph M. Hellerstein,0.125
+Sailesh Krishnamurthy,Owen Cooper,0.125
+Sailesh Krishnamurthy,Anil Edakkunni,0.125
+Bernie J. Lofaso,David A. Brant,0.125
+Robert Demolombe,Jean-Claude Chupin,0.125
+Kian-Lee Tan,Yixin Ruan,0.125
+K. Sel&ccedil;uk Candan,Arsany Sawires,0.125
+Kian-Lee Tan,Gao Cong,0.125
+Wang-Pin Hsiung,Radu Sion,0.125
+Wang-Pin Hsiung,Cemal Yilmaz,0.125
+Kian-Lee Tan,Pin-Kwang Eng,0.125
+Songting Chen,Yanlei Diao,0.125
+Kian-Lee Tan,Son Dao,0.125
+Jun'ichi Tatemura,Oliver Po,0.125
+Laura M. Haas,Jayavel Shanmugasundaram,0.125
+Laura M. Haas,Philip A. Bernstein,0.125
+Kian-Lee Tan,D. Sim,0.125
+Laura M. Haas,Michael J. Carey,0.125
+Laura M. Haas,Bruce G. Lindsay 0001,0.125
+Laura M. Haas,Gio Wiederhold,0.125
+Laura M. Haas,Edward L. Wimmers,0.125
+Laura M. Haas,Ioana Ursu,0.125
+Michael H. B&ouml;hlen,Christian S. Jensen,0.125
+Michael H. B&ouml;hlen,Richard T. Snodgrass,0.125
+Kian-Lee Tan,Liping Ji,0.125
+Jun Rao,Hetal Thakkar,0.125
+Jun Rao,Adam J. Storm,0.125
+Jun Rao,Christian Garcia-Arellano,0.125
+Hetal Thakkar,Sangeeta Doraiswamy,0.125
+Ravi Kumar,Prabhakar Raghavan,0.125
+Kian-Lee Tan,Xin Xu,0.125
+Ravi Kumar,Kevin S. McCurley,0.125
+Ravi Kumar,Ronald Fagin,0.125
+Prabhakar Raghavan,Michel Tourn,0.125
+Sridhar Rajagopalan,Prabhakar Raghavan,0.125
+Li Chen,Maryann E. Martone,0.125
+Andrew Tomkins,Prabhakar Raghavan,0.125
+Cong Yu,Lucian Popa,0.125
+Cong Yu,Xin Luna Dong,0.125
+Cong Yu,Yunyao Li,0.125
+John Miles Smith,Chyuan Shiun Lin,0.125
+T. Y. Cliff Leung,Xiaoyan Qian,0.125
+Maryann E. Martone,Li Chen,0.125
+Wenfei Fan,Aoying Zhou,0.125
+Amarnath Gupta,Mona Wong-Barnum,0.125
+Wenfei Fan,Yiming Zeng,0.125
+Wenfei Fan,Loreto Bravo,0.125
+Jim Gray,Andreas Reuter 0001,0.125
+Jim Gray,Wee Teck Ng,0.125
+Jim Gray,Mark Walker,0.125
+Gautam Bhargava,Shashi K. Gadia,0.125
+Shashi K. Gadia,Yiu-Cheong Poon,0.125
+Ryan Johnson,Naju Mancheril,0.125
+Nikos Hardavellas,Kivanc Sabirli,0.125
+Nikos Hardavellas,Babak Falsafi,0.125
+Ippokratis Pandis,Anastassia Ailamaki,0.125
+Ippokratis Pandis,Babak Falsafi,0.125
+Naju Mancheril,Nikos Hardavellas,0.125
+Naju Mancheril,Stavros Harizopoulos,0.125
+Stavros Harizopoulos,Naju Mancheril,0.125
+Amarnath Gupta,Bertram Lud&auml;scher,0.125
+Stavros Harizopoulos,Velen Liang,0.125
+Stavros Harizopoulos,Naga K. Govindaraju,0.125
+Anastassia Ailamaki,Babak Falsafi,0.125
+Anastassia Ailamaki,Shimin Chen,0.125
+Amarnath Gupta,Terry E. Weymouth,0.125
+Bhaskara Marthi,Krishnaram Kenthapadi,0.125
+Bhaskara Marthi,Rajeev Motwani,0.125
+Anastassia Ailamaki,J. Gregory Steffan,0.125
+Anastassia Ailamaki,Naga K. Govindaraju,0.125
+Babak Falsafi,Nikos Hardavellas,0.125
+Babak Falsafi,Naju Mancheril,0.125
+Jerry Kiernan,Michael J. Carey,0.125
+Eugene J. Shekita,Kian-Lee Tan,0.125
+Eugene J. Shekita,Catalina Fan,0.125
+Eugene J. Shekita,John E. Funderburk,0.125
+Eugene J. Shekita,Berthold Reinwald,0.125
+Subbu N. Subramanian,Laks V. S. Lakshmanan,0.125
+Pavan Kumar C. Singitham,Prabhakar Raghavan,0.125
+Pavan Kumar C. Singitham,Mahathi S. Mahabhashyam,0.125
+Antonis C. Kakas,Paolo Mancarella,0.125
+Dennis G. Severance,Jeffrey A. Hoffer,0.125
+Xuan Zhou,Dhruv Mangla,0.125
+HweeHwa Pang,Dhruv Mangla,0.125
+Dhruv Mangla,HweeHwa Pang,0.125
+Ratko Orlandic,John L. Pfaltz,0.125
+John L. Pfaltz,Ratko Orlandic,0.125
+Stefano Ceri,Roberta Cochrane,0.125
+Stefano Ceri,Maurice A. W. Houtsma,0.125
+Stefano Ceri,Rosa Meo,0.125
+Stefano Ceri,Luigi Lavazza,0.125
+Phillip B. Gibbons,Minos N. Garofalakis,0.125
+Phillip B. Gibbons,Shimin Chen,0.125
+Bo K&auml;hler,Flaviu Cristian,0.125
+Susan J. Eggers,Frank Olken,0.125
+Lisa Fong,Maryann E. Martone,0.125
+Arie Shoshani,Ekow J. Otoo,0.125
+Arie Shoshani,Paul Chan,0.125
+Lisa Fong,Amarnath Gupta,0.125
+Spiros Papadimitriou,Feifei Li,0.125
+Spiros Papadimitriou,George Kollios,0.125
+Bee-Chung Chen,Raghav Kaushik,0.125
+Bee-Chung Chen,Kristen LeFevre,0.125
+Bee-Chung Chen,Paul Barford,0.125
+Mona Wong-Barnum,Li Chen,0.125
+Venkatesh Ganti,Bee-Chung Chen,0.125

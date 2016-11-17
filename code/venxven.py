@@ -34,5 +34,6 @@ print table
 plt.clf()
 plt.imshow(table, cmap='Blues', interpolation='nearest')
 plt.savefig("../figures/vxvheat.png")
-plt.show()
+#plt.show()
+
 

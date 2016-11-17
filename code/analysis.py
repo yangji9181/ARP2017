@@ -2,7 +2,7 @@ import string
 
 conferences = ["kdd", "icml", "vldb"]
 top = 1000
-alpha = 0.9
+alpha = 1.5
 
 
 
