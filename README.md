@@ -13,7 +13,7 @@ Since we have included all intermediate results (and final ones), you can run an
 ### Visualization of Researcher vs. Researcher Multi-Relationships
 In the following three figures, the x and y axis are the same set of researchers.
 
-![alt tag](https://raw.githubusercontent.com/yangji9181/ARP2017/master/figures/holistic/kddheat.png)
+<img src="https://raw.githubusercontent.com/yangji9181/ARP2017/master/figures/holistic/kddheat.png" width="800" />
 
 In the figure above, KDD-based reltionships are marked as red.
 
