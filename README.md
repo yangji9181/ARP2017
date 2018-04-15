@@ -2,7 +2,7 @@
 
 ## Welcome to Our Anonymous Github Repository!
 
-As discussed in our ARP paper recently submitted to CIKM 2017, we conduct various experiments and case studies on the public DBLP dataset downloaded from http://dblp.uni-trier.de. Here we present some insightful results to show the merits of our algorithm in some novel interesting applications.
+As discussed in our ARP paper, we conduct various experiments and case studies on the public DBLP dataset downloaded from http://dblp.uni-trier.de. Here we present some insightful results to show the merits of our algorithm in some novel interesting applications.
 
 ### Repository Description
 
