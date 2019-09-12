@@ -3,7 +3,7 @@
 Please cite the following work if you find the code useful.
 
 ```
-@inproceedings{yang2019cube2net,
+@inproceedings{yang2019relationship,
 	Author = {Yang, Carl and Chang, Kevin},
 	Booktitle = {SDM},
 	Title = {Relationship profiling over social networks: reverse smoothness from similarity to closeness},
