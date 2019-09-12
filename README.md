@@ -1,6 +1,16 @@
-# ARP2017
+## Implementation of *ARP*, SDM 2019.
 
-## Welcome to Our Anonymous Github Repository!
+Please cite the following work if you find the code useful.
+
+```
+@inproceedings{yang2019cube2net,
+	Author = {Yang, Carl and Chang, Kevin},
+	Booktitle = {SDM},
+	Title = {Relationship profiling over social networks: reverse smoothness from similarity to closeness},
+	Year = {2019}
+}
+```
+Contact: Carl Yang (yangji9181@gmail.com)
 
 As discussed in our ARP paper, we conduct various experiments and case studies on the public DBLP dataset downloaded from http://dblp.uni-trier.de. Here we present some insightful results to show the merits of our algorithm in some novel interesting applications.
 
