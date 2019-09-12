@@ -47,7 +47,4 @@ We also draw the same three figures but with the single edge modeling configurat
 
 The analyzed venues from top to bottom and from left to right are KDD, ICML and VLDB. We compute the correlations among venues by counting the number of links that are predicted with two relationships. As can be seen from this plot, the correlation between data mining and machine learning is higher than that between data mining and database, and the latter is higher than the correlation between machine learning and database. While the results shown are intuitive, it is trivial but insightful to apply the same analysis to any venues that are not so intuitively differenciable, such as WWW, SIGMOD, WSDM, CIKM, KDD and so on, to see how these similarly-themed venues attract the same collaborations.
 
-### More to Come
-
-The visualizations of our experimental results are quite basic now. However, as can be seen from the current results, our ARP algorithm is able to capture the precise relationships among every pair of authors based on any venue. Therefore, it enables many more novel interesting applications such as retrieving impactful collaborations within specific fields, understanding relationships through multiple angles, interpreting correlations among different fields, and so on. We are actively working on more interpretable and insightful analysis as well as visualizations and will be putting in more stuff soon!
 
